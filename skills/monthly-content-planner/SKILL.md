@@ -121,5 +121,339 @@ Follow this workflow in order:
 14. AI Review
 15. Approval
 16. Final Validation
+---
+name: monthly-content-planner
+description: Crea, organiza, evalúa, produce, programa y valida planes mensuales de contenido para redes sociales, conectando objetivos de marketing, audiencia, pilares, plataformas, formatos, frecuencia y reglas de publicación.
+---
 
+# Planificador de Contenido Mensual
+
+## Propósito
+
+El Planificador de Contenido Mensual es un skill de planificación de marketing diseñado para transformar los objetivos mensuales de una marca en un plan de contenido estratégico, organizado y listo para producción y publicación.
+
+Combina planificación estratégica, generación de ideas, evaluación y priorización de contenidos, adaptación por plataforma, programación de publicaciones, desarrollo creativo, producción y validación.
+
+Su finalidad no es generar publicaciones únicamente para completar un calendario, sino construir contenido con un propósito claro, capaz de contribuir a los objetivos de la marca.
+
+El skill está diseñado para utilizarse de manera recurrente en la planificación mensual, manteniendo las reglas permanentes de la marca y adaptando las variables que cambian cada mes.
+
+## Objetivos principales
+
+El skill debe:
+
+1. Transformar los objetivos de marketing del mes en una estrategia de contenido coherente.
+2. Definir y priorizar pilares y temas de contenido.
+3. Generar, evaluar y priorizar ideas.
+4. Seleccionar las redes sociales y formatos más adecuados para cada idea.
+5. Mantener una frecuencia de publicación estratégica y sostenible.
+6. Construir un calendario mensual completo.
+7. Desarrollar copies específicos para cada plataforma.
+8. Crear instrucciones detalladas para la producción de cada contenido.
+9. Desarrollar estructuras slide por slide para carruseles.
+10. Desarrollar guiones escena por escena para Reels y videos.
+11. Proponer referencias visuales, imágenes y recursos creativos.
+12. Validar cada contenido antes de incorporarlo al calendario.
+13. Registrar aprobación, responsable, estado de producción, revisión y comentarios.
+14. Entregar un plan que pueda trasladarse fácilmente a Excel, Google Sheets u otra herramienta de gestión.
+
+## Principio fundamental: contenido con propósito
+
+El contenido nunca debe crearse únicamente para llenar espacios del calendario.
+
+Cada publicación debe responder a una pregunta estratégica:
+
+> ¿Por qué debemos publicar esto?
+
+Cada contenido debe tener un propósito identificable y aportar al menos uno de los objetivos de la marca.
+
+El contenido debe buscar una combinación equilibrada entre:
+
+- Alcance.
+- Reconocimiento de marca.
+- Posicionamiento.
+- Autoridad.
+- Educación.
+- Interacción.
+- Crecimiento de comunidad.
+- Generación de interés.
+- Consideración de productos o servicios.
+
+### Objetivos prioritarios
+
+Para marcas B2B como SOMMOS, el contenido debe trabajar principalmente dos objetivos:
+
+#### Objetivo 1: Llegar a tomadores de decisión
+
+El contenido debe contribuir a alcanzar y posicionar la marca frente a:
+
+- Directores de bancos.
+- Gerentes.
+- Tomadores de decisión.
+- Ejecutivos de entidades financieras.
+- Instituciones relacionadas con el sector financiero.
+
+El contenido debe demostrar conocimiento del sector, comprender sus desafíos y presentar perspectivas, oportunidades y soluciones relevantes.
+
+#### Objetivo 2: Aumentar el alcance y el crecimiento de seguidores
+
+El contenido también debe contribuir a:
+
+- Aumentar el alcance orgánico.
+- Llegar a nuevas audiencias.
+- Generar interés.
+- Conseguir interacciones.
+- Favorecer el crecimiento de seguidores.
+- Aumentar el reconocimiento de marca.
+
+Estos dos objetivos no deben tratarse como objetivos aislados.
+
+Siempre que sea posible, una misma publicación debe buscar:
+
+> **Llegar al público estratégico + generar suficiente interés para ampliar el alcance de la publicación y atraer nuevos seguidores.**
+
+## Principio: estrategia antes de ejecución
+
+No comenzar generando publicaciones de manera aleatoria.
+
+Primero comprender:
+
+- La marca.
+- El público objetivo.
+- El objetivo del mes.
+- El contexto de marketing.
+- Las redes disponibles.
+- Los pilares de contenido.
+- La frecuencia establecida.
+- Las campañas activas.
+- Los eventos relevantes.
+- Los productos o servicios prioritarios.
+- Los contenidos publicados anteriormente.
+
+Después desarrollar el plan.
+
+## Principio: cada idea debe responder a un objetivo
+
+Toda idea debe tener una razón estratégica para existir.
+
+Evitar generar contenido únicamente para llenar las ocho publicaciones mensuales.
+
+Antes de aprobar una idea, evaluar:
+
+- ¿Qué objetivo cumple?
+- ¿A qué público llega?
+- ¿Qué problema, necesidad o interés aborda?
+- ¿Qué valor aporta?
+- ¿Puede generar alcance?
+- ¿Puede generar interacción?
+- ¿Puede contribuir al crecimiento de seguidores?
+- ¿Ayuda al posicionamiento de la marca?
+- ¿Es coherente con un pilar de contenido?
+- ¿Se diferencia de publicaciones anteriores?
+
+Si una idea no tiene una función estratégica clara, debe reformularse o descartarse.
+
+## Principio: las publicaciones deben trabajar en conjunto
+
+El calendario mensual no debe ser una colección de publicaciones independientes.
+
+Las publicaciones deben formar una narrativa y complementarse entre sí.
+
+El skill debe procurar:
+
+- Variedad de temas.
+- Variedad de formatos.
+- Continuidad entre contenidos cuando sea conveniente.
+- Equilibrio entre contenido educativo, estratégico, institucional, de autoridad, producto y alcance.
+- Evitar la repetición excesiva.
+- Evitar concentrar demasiados contenidos comerciales.
+- Construir progresivamente reconocimiento y autoridad.
+
+## Principio: adaptación por plataforma
+
+Una misma idea central puede utilizarse en diferentes redes, pero el mensaje debe adaptarse a cada plataforma.
+
+No copiar y pegar automáticamente el mismo copy.
+
+### LinkedIn
+
+Prioridad:
+
+- Directores.
+- Gerentes.
+- Tomadores de decisión.
+- Bancos.
+- Entidades financieras.
+- Organizaciones relacionadas.
+
+Objetivos:
+
+- Posicionamiento.
+- Autoridad.
+- Alcance.
+- Reconocimiento.
+- Generación de interés.
+- Conexión con tomadores de decisión.
+
+El contenido debe tener un enfoque profesional, estratégico y relevante para el sector.
+
+Sin embargo, LinkedIn también debe buscar mayor alcance y crecimiento de audiencia. Por lo tanto, el contenido debe combinar autoridad con temas capaces de generar interés, interacción y descubrimiento.
+
+### Facebook
+
+Prioridad:
+
+- Mayor alcance.
+- Reconocimiento.
+- Comunidad.
+- Interacción.
+- Crecimiento de audiencia.
+
+El contenido debe ser más accesible y fácil de consumir, manteniendo la identidad y los mensajes estratégicos de la marca.
+
+### Instagram
+
+Cuando se utilice, priorizar:
+
+- Alcance.
+- Contenido visual.
+- Reconocimiento.
+- Interacción.
+- Crecimiento de comunidad.
+
+## Principio: copies diferentes por plataforma
+
+Cuando una publicación se comparte entre LinkedIn y Facebook o Instagram:
+
+- La fecha puede ser la misma.
+- La idea central puede ser la misma.
+- El enfoque debe adaptarse a cada plataforma.
+- El copy debe ser diferente.
+
+El copy de LinkedIn debe hablar principalmente al contexto y necesidades de los tomadores de decisión.
+
+El copy de Facebook e Instagram debe buscar mayor accesibilidad, alcance e interacción.
+
+## Principio: planificación antes que calendario
+
+El calendario mensual debe ser el resultado de una planificación previa.
+
+Seguir este flujo:
+
+1. Brief mensual.
+2. Objetivos.
+3. Audiencia.
+4. Pilares.
+5. Reglas permanentes.
+6. Generación de ideas.
+7. Evaluación de ideas.
+8. Priorización.
+9. Selección de formatos.
+10. Selección de redes.
+11. Distribución semanal.
+12. Calendario.
+13. Producción.
+14. Revisión.
+15. Aprobación.
+16. Validación final.
+
+No generar directamente un calendario sin analizar primero el objetivo y la estrategia del mes.
+
+## Principio: producción lista para ejecutar
+
+Una idea debe desarrollarse hasta un nivel que permita pasar directamente a producción.
+
+No limitarse a indicar:
+
+> "Crear un Reel sobre transformación digital."
+
+Desarrollar:
+
+- Objetivo del contenido.
+- Público.
+- Idea central.
+- Hook.
+- Guion.
+- Escenas.
+- Locución.
+- Texto en pantalla.
+- Sugerencias de imágenes o videos.
+- Recursos visuales.
+- CTA.
+- Copy.
+- Hashtags.
+
+Para carruseles, desarrollar:
+
+- Slide 1.
+- Slide 2.
+- Slide 3.
+- Slide 4.
+- Slide 5.
+- Etc.
+
+Cada slide debe incluir:
+
+- Texto sugerido.
+- Objetivo del slide.
+- Información principal.
+- Sugerencia de imagen.
+- Sugerencia visual.
+- Elementos gráficos recomendados.
+
+La cantidad de slides debe determinarse según la complejidad y objetivo del contenido, evitando agregar slides únicamente para aumentar la cantidad.
+
+## Principio: validación antes de publicar
+
+Todo contenido debe pasar por una revisión estratégica antes de considerarse aprobado.
+
+La IA debe evaluar:
+
+- Alineación con el objetivo mensual.
+- Relevancia para el público.
+- Potencial de alcance.
+- Potencial de interacción.
+- Potencial de crecimiento de seguidores.
+- Valor del contenido.
+- Diferenciación.
+- Calidad de la idea.
+- Adecuación del formato.
+- Adecuación de la plataforma.
+- Claridad del mensaje.
+- Calidad del copy.
+- Calidad del CTA.
+- Coherencia con la marca.
+
+Resultado de la evaluación:
+
+- 🟢 Aprobada.
+- 🟡 Requiere ajustes.
+- 🔴 No recomendada.
+
+Una idea marcada como "No recomendada" no debe incorporarse al calendario final hasta ser reformulada y reevaluada.
+
+## Flujo de trabajo
+
+Seguir siempre este orden:
+
+1. Brief mensual.
+2. Definición del objetivo.
+3. Definición del público.
+4. Definición de pilares.
+5. Aplicación de reglas permanentes.
+6. Generación de ideas.
+7. Evaluación de ideas.
+8. Priorización.
+9. Selección de formatos.
+10. Selección de redes.
+11. Programación.
+12. Construcción del calendario.
+13. Desarrollo de copies.
+14. Desarrollo de guiones y estructuras visuales.
+15. Revisión mediante IA.
+16. Aprobación.
+17. Validación final.
+18. Entrega del calendario.
+
+No saltar directamente a la generación masiva de publicaciones salvo que el usuario solicite explícitamente trabajar sobre una estrategia previamente definida.
 Do not skip strategic planning and immediately generate a calendar unless the user explicitly requests only a calendar based on already-defined strategy.
