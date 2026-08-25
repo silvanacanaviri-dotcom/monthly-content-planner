@@ -1755,3 +1755,356 @@ Historia por historia + texto + visual + interacción + CTA + hashtags cuando co
 Contexto + selección de fotografías + copy + CTA + hashtags.
 
 El objetivo es que el contenido pueda pasar directamente de planificación a producción.
+## Revisión, Validación y Aprobación mediante IA
+
+La inteligencia artificial debe funcionar como una primera capa de revisión estratégica y creativa antes de que el contenido pase a producción o publicación.
+
+La IA no debe aprobar contenido únicamente porque esté bien redactado.
+
+Debe determinar si el contenido tiene una razón estratégica, aporta valor y tiene posibilidades de cumplir el objetivo establecido.
+
+## Objetivos de la Validación
+
+Cada contenido debe evaluarse respecto a los objetivos del mes.
+
+Los dos objetivos principales son:
+
+1. Llegar a directores, gerentes y tomadores de decisión de bancos y entidades financieras.
+2. Aumentar el alcance, generar interacción y contribuir al crecimiento de seguidores.
+
+Un contenido puede priorizar uno de los objetivos, pero el calendario mensual debe trabajar ambos.
+
+## Momento de la Validación
+
+La IA debe realizar una primera evaluación cuando la idea haya sido propuesta.
+
+Posteriormente debe realizar una segunda evaluación cuando el contenido esté desarrollado.
+
+### Primera evaluación
+
+Evaluar:
+
+- Idea.
+- Tema.
+- Objetivo.
+- Público.
+- Pilar.
+- Plataforma.
+- Formato.
+- Potencial de alcance.
+- Potencial de interacción.
+- Potencial de crecimiento de seguidores.
+- Relevancia estratégica.
+
+### Segunda evaluación
+
+Evaluar el contenido desarrollado:
+
+- Hook.
+- Mensaje.
+- Estructura.
+- Copy.
+- CTA.
+- Hashtags.
+- Recursos visuales.
+- Adaptación a la plataforma.
+- Claridad.
+- Valor para la audiencia.
+- Coherencia con el objetivo.
+- Potencial de interacción.
+- Potencial de alcance.
+
+## Criterios de Evaluación
+
+Asignar una valoración de 1 a 5 a cada criterio:
+
+| Criterio | Puntuación |
+|---|---:|
+| Alineación con el objetivo | 1–5 |
+| Relevancia para la audiencia | 1–5 |
+| Potencial de alcance | 1–5 |
+| Potencial de interacción | 1–5 |
+| Potencial de crecimiento de seguidores | 1–5 |
+| Relevancia para tomadores de decisión | 1–5 |
+| Valor del contenido | 1–5 |
+| Diferenciación | 1–5 |
+| Claridad del mensaje | 1–5 |
+| Adecuación del formato | 1–5 |
+| Adecuación de la plataforma | 1–5 |
+| Calidad del CTA | 1–5 |
+| Potencial de los hashtags | 1–5 |
+
+La puntuación sirve como herramienta de apoyo y no sustituye el criterio estratégico.
+
+## Resultado de la Evaluación
+
+La IA debe clasificar cada contenido como:
+
+### 🟢 APROBADO
+
+Utilizar cuando:
+
+- El contenido tiene una razón estratégica clara.
+- Es relevante para la audiencia.
+- Está alineado con el objetivo.
+- El formato es adecuado.
+- La plataforma es adecuada.
+- El mensaje es claro.
+- El CTA es accionable.
+- El contenido aporta valor.
+
+El contenido puede continuar al siguiente paso del proceso.
+
+### 🟡 NECESITA AJUSTES
+
+Utilizar cuando la idea tiene potencial, pero existen elementos que deben mejorarse.
+
+La IA debe indicar exactamente qué debe modificarse.
+
+Por ejemplo:
+
+- Hook débil.
+- Tema demasiado general.
+- Falta de diferenciación.
+- Copy poco atractivo.
+- CTA poco potente.
+- Formato inadecuado.
+- Falta de enfoque hacia la audiencia.
+- Bajo potencial de alcance.
+- Falta de valor práctico.
+
+La IA debe proponer una versión mejorada.
+
+### 🔴 NO RECOMENDADO
+
+Utilizar cuando:
+
+- La idea no tiene una función estratégica.
+- Es contenido de relleno.
+- No aporta valor.
+- Es demasiado repetitiva.
+- No tiene relevancia para la audiencia.
+- No existe una razón clara para publicarlo.
+- El formato no es adecuado.
+- Tiene bajo potencial estratégico.
+- No contribuye a ninguno de los objetivos.
+
+No incluir una idea rechazada en el calendario final.
+
+Cuando sea posible, proponer una alternativa o un nuevo ángulo.
+
+## Regla contra el Contenido de Relleno
+
+Ninguna publicación debe incluirse únicamente para cumplir la frecuencia mensual.
+
+Antes de aprobar una publicación, responder:
+
+**¿Por qué debemos publicar esto?**
+
+La respuesta debe estar relacionada con al menos uno de estos elementos:
+
+- Alcance.
+- Crecimiento de seguidores.
+- Interacción.
+- Educación.
+- Autoridad.
+- Posicionamiento.
+- Relevancia para tomadores de decisión.
+- Reconocimiento de marca.
+- Campaña.
+- Evento.
+- Producto o servicio.
+- Oportunidad estratégica.
+
+Si no existe una razón clara, la publicación debe reformularse o descartarse.
+
+## Revisión del Copy
+
+La IA debe revisar:
+
+- Primeras líneas.
+- Claridad.
+- Fluidez.
+- Valor.
+- Tono.
+- Relevancia.
+- Capacidad de captar atención.
+- Diferenciación.
+- CTA.
+- Hashtags.
+
+Evitar:
+
+- Frases genéricas.
+- Exceso de lenguaje corporativo.
+- Repetición.
+- Promesas no comprobadas.
+- Lenguaje excesivamente comercial.
+- Introducciones innecesariamente largas.
+
+## Revisión del Hook
+
+El hook debe evaluarse especialmente en:
+
+- Carruseles.
+- Reels.
+- Posts.
+- Historias.
+
+Debe responder rápidamente:
+
+**¿Por qué debería prestar atención a este contenido?**
+
+Si el hook no genera suficiente interés, proponer al menos 3 alternativas.
+
+## Revisión del CTA
+
+La IA debe comprobar que el CTA:
+
+- Genere una acción concreta.
+- Sea fácil de realizar.
+- Esté relacionado con el contenido.
+- Pueda generar interacción.
+- Pueda favorecer el alcance.
+- Pueda contribuir al crecimiento de seguidores.
+- Sea apropiado para la plataforma.
+
+Si el CTA es débil, proponer alternativas más potentes.
+
+## Revisión de Hashtags
+
+La IA debe comprobar:
+
+- Relevancia.
+- Relación con la audiencia.
+- Relación con la industria.
+- Potencial de descubrimiento.
+- Potencial de alcance.
+- Adecuación a la plataforma.
+- Ausencia de hashtags irrelevantes.
+
+No utilizar hashtags únicamente por popularidad.
+
+## Revisión del Formato
+
+La IA debe comprobar que el formato seleccionado sea realmente el más adecuado.
+
+Si una idea fue planteada como post pero funcionaría mejor como Reel o carrusel, debe indicarlo.
+
+La IA puede recomendar cambiar:
+
+**Idea → Formato**
+
+cuando exista una razón estratégica.
+
+## Revisión de Plataforma
+
+La IA debe comprobar que la plataforma seleccionada sea adecuada.
+
+Si el contenido puede funcionar en varias redes:
+
+- Mantener la idea central.
+- Adaptar el formato cuando corresponda.
+- Crear copy específico para cada red.
+- Adaptar el CTA.
+- Adaptar los hashtags.
+
+## Revisión Final antes de Publicación
+
+Antes de marcar un contenido como aprobado para publicación, comprobar:
+
+- Idea aprobada.
+- Objetivo definido.
+- Público definido.
+- Pilar definido.
+- Plataforma definida.
+- Formato definido.
+- Contenido desarrollado.
+- Copy revisado.
+- Hook revisado.
+- CTA revisado.
+- Hashtags revisados.
+- Recursos visuales definidos.
+- Link correspondiente cuando exista.
+- Responsable definido.
+- Revisor definido.
+- Correcciones realizadas.
+- Aprobación final registrada.
+
+## Estados del Contenido
+
+Utilizar los siguientes estados:
+
+### Idea
+
+La propuesta todavía no ha sido evaluada.
+
+### En evaluación
+
+La IA está analizando la idea.
+
+### Necesita ajustes
+
+La idea o contenido requiere modificaciones.
+
+### Aprobado por IA
+
+La IA considera que el contenido cumple los criterios estratégicos.
+
+### En producción
+
+El contenido está siendo diseñado, grabado o desarrollado.
+
+### En revisión
+
+El contenido está siendo revisado por el responsable correspondiente.
+
+### Correcciones
+
+Se solicitaron cambios.
+
+### Aprobado
+
+El contenido fue aprobado para publicación.
+
+### Programado
+
+El contenido ya fue programado.
+
+### Publicado
+
+El contenido fue publicado.
+
+### Rechazado
+
+El contenido no debe continuar en el proceso actual.
+
+## Aprobación Humana
+
+La aprobación de la IA no reemplaza la aprobación del responsable de contenido o de la persona designada por la organización.
+
+La IA funciona como apoyo para:
+
+- Detectar problemas.
+- Mejorar ideas.
+- Mejorar copies.
+- Evaluar estrategia.
+- Detectar contenido de relleno.
+- Recomendar ajustes.
+
+La aprobación final debe quedar registrada por el responsable correspondiente.
+
+## Registro de la Evaluación
+
+Cada contenido debe poder registrar:
+
+- Resultado de IA.
+- Puntuación.
+- Observaciones.
+- Ajustes recomendados.
+- Cambios realizados.
+- Responsable de revisión.
+- Estado de aprobación.
+- Comentarios.
+
+Esto permitirá mantener trazabilidad del proceso de creación y aprobación.
