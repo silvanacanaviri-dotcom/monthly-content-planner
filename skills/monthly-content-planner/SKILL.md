@@ -1241,3 +1241,517 @@ Antes de presentar el calendario como final, comprobar:
 - ¿Cada contenido tiene una prioridad?
 - ¿Cada contenido tiene un estado?
 - ¿Cada contenido tiene responsable y revisor cuando esa información está disponible?
+## Desarrollo y Producción del Contenido
+
+Una vez seleccionada y aprobada una idea para el calendario, el planificador debe convertirla en un contenido listo para producción.
+
+No basta con indicar el nombre de la idea o una descripción general.
+
+Cada contenido debe incluir instrucciones suficientemente claras para que el equipo pueda producirlo sin tener que interpretar nuevamente la idea.
+
+## Información Base de Cada Contenido
+
+Cada contenido debe desarrollar, cuando corresponda:
+
+- Nombre de la idea.
+- Objetivo.
+- Público objetivo.
+- Pilar de contenido.
+- Red social.
+- Formato.
+- Mensaje principal.
+- Ángulo creativo.
+- Hook.
+- Desarrollo.
+- CTA.
+- Copy.
+- Hashtags.
+- Recursos visuales.
+- Referencias de imágenes.
+- Estado.
+- Responsable.
+- Revisor.
+- Comentarios.
+
+## Desarrollo de Carruseles
+
+Cuando el formato sea carrusel, desarrollar el contenido slide por slide.
+
+Cada slide debe especificar:
+
+- Número de slide.
+- Objetivo del slide.
+- Texto principal.
+- Texto secundario cuando sea necesario.
+- Información que debe comunicarse.
+- Sugerencia de imagen.
+- Sugerencia de recurso visual.
+- Elementos gráficos recomendados.
+
+### Estructura del Carrusel
+
+La estructura debe adaptarse al objetivo y al tema.
+
+Como referencia:
+
+**Slide 1 — Hook**
+
+Debe captar la atención inmediatamente.
+
+Puede utilizar:
+
+- Una afirmación.
+- Un dato.
+- Un problema.
+- Una situación reconocible.
+- Una tensión.
+- Una idea contraintuitiva.
+- Una pregunta estratégica cuando sea apropiada.
+
+El primer slide debe dejar claro por qué vale la pena continuar leyendo.
+
+**Slide 2 — Contexto**
+
+Introducir el problema, situación o contexto.
+
+Explicar brevemente por qué el tema es relevante para la audiencia.
+
+**Slides intermedios — Desarrollo**
+
+Desarrollar la información principal.
+
+Cada slide debe presentar una idea clara.
+
+Evitar colocar demasiada información en una sola diapositiva.
+
+**Penúltimo slide — Insight o conclusión**
+
+Presentar el aprendizaje, conclusión o idea principal que debe quedar en la mente del usuario.
+
+**Último slide — CTA**
+
+Cerrar el contenido con una acción coherente con el objetivo.
+
+El CTA debe buscar principalmente interacción, alcance, descubrimiento o crecimiento de audiencia cuando corresponda.
+
+### Sugerencias Visuales para Carruseles
+
+Para cada slide, indicar qué tipo de recurso visual podría utilizarse:
+
+- Fotografía.
+- Ilustración.
+- Iconos.
+- Gráfico.
+- Captura de pantalla.
+- Elementos de marca.
+- Tipografía destacada.
+- Diagrama simple.
+- Imagen conceptual.
+
+No inventar imágenes existentes.
+
+Si se necesita una fotografía específica, describir qué debería mostrar.
+
+Ejemplo:
+
+> Fotografía de una reunión entre ejecutivos de una entidad financiera, utilizando dispositivos digitales, en un ambiente profesional.
+
+## Desarrollo de Reels
+
+Cuando el formato sea Reel, desarrollar un guion completo.
+
+El Reel debe incluir:
+
+- Duración aproximada.
+- Objetivo.
+- Público.
+- Hook.
+- Guion.
+- Escenas.
+- Locución.
+- Texto en pantalla.
+- Acción o recurso visual.
+- Transición cuando sea necesaria.
+- CTA.
+- Copy.
+- Hashtags.
+
+### Hook
+
+Los primeros segundos son críticos.
+
+El Reel debe captar la atención rápidamente.
+
+El hook puede utilizar:
+
+- Una afirmación fuerte.
+- Un problema.
+- Una situación cotidiana.
+- Un dato relevante.
+- Una contradicción.
+- Una idea inesperada.
+- Una observación del sector.
+
+Evitar introducciones largas antes de presentar el motivo para continuar viendo el contenido.
+
+### Estructura por Escenas
+
+Cada escena debe incluir:
+
+**Escena 1**
+- Tiempo aproximado.
+- Locución.
+- Texto en pantalla.
+- Acción.
+- Imagen o video sugerido.
+
+**Escena 2**
+- Tiempo aproximado.
+- Locución.
+- Texto en pantalla.
+- Acción.
+- Imagen o video sugerido.
+
+Continuar hasta completar el Reel.
+
+### Guion
+
+El guion debe:
+
+- Ser natural.
+- Ser claro.
+- Evitar frases innecesariamente largas.
+- Mantener el foco en una idea principal.
+- Adaptarse a la duración.
+- Utilizar lenguaje adecuado para la audiencia.
+
+No agregar información que no haya sido proporcionada o verificada.
+
+### Recursos Visuales
+
+Para cada escena, sugerir:
+
+- Tipo de plano.
+- Persona o elemento que debería aparecer.
+- Acción.
+- Imagen de apoyo.
+- Captura de pantalla cuando corresponda.
+- Texto en pantalla.
+- Animación o movimiento sugerido.
+
+## Desarrollo de Posts
+
+Cuando el formato sea post estático, desarrollar:
+
+- Concepto visual.
+- Objetivo.
+- Mensaje principal.
+- Texto que aparecerá en la pieza.
+- Título o frase principal.
+- Imagen sugerida.
+- Elementos gráficos.
+- CTA.
+- Copy para cada red.
+- Hashtags.
+
+El texto dentro de la pieza debe ser breve y fácil de leer.
+
+El copy puede ampliar la información sin repetir exactamente el texto de la imagen.
+
+## Desarrollo de Historias
+
+Cuando el formato sea historia, definir:
+
+- Objetivo.
+- Cantidad de historias.
+- Texto de cada historia.
+- Recurso visual.
+- Elementos interactivos cuando sean apropiados.
+- CTA.
+- Enlace o acción cuando corresponda.
+
+Las historias pueden estructurarse como una secuencia.
+
+Ejemplo:
+
+**Historia 1:** Captar atención.  
+**Historia 2:** Desarrollar la idea.  
+**Historia 3:** Generar interacción.  
+**Historia 4:** CTA.
+
+No todas las historias necesitan tener cuatro partes.
+
+La cantidad debe depender del objetivo.
+
+Las historias pueden complementar una publicación principal o funcionar como contenido independiente.
+
+## Desarrollo de Fotos de Eventos
+
+Cuando el contenido corresponda a un evento, especificar:
+
+- Nombre del evento.
+- Fecha.
+- Lugar.
+- Participantes relevantes.
+- Contexto.
+- Mensaje principal.
+- Fotografías necesarias.
+- Orden sugerido de fotografías.
+- Copy para LinkedIn.
+- Copy para Facebook o Instagram.
+- CTA cuando sea apropiado.
+- Hashtags relevantes.
+
+No inventar participantes, cargos, lugares o actividades.
+
+Utilizar únicamente información proporcionada o previamente verificada.
+
+## Copy de Cada Contenido
+
+Todo contenido debe incluir el copy correspondiente a cada red social seleccionada.
+
+### Copy para LinkedIn
+
+Debe:
+
+- Hablar al público profesional.
+- Ser relevante para tomadores de decisión.
+- Aportar valor.
+- Reforzar autoridad.
+- Tener potencial de alcance.
+- Evitar sonar excesivamente comercial.
+- Tener un inicio atractivo.
+- Generar interés.
+- Incluir un CTA orientado a la acción.
+- Utilizar hashtags relevantes para favorecer el descubrimiento.
+
+### Copy para Facebook e Instagram
+
+Debe:
+
+- Ser más accesible.
+- Favorecer alcance e interacción.
+- Mantener el mensaje central.
+- Adaptarse al lenguaje de la plataforma.
+- Tener un inicio atractivo.
+- Incluir un CTA orientado a la interacción.
+- Utilizar hashtags relevantes cuando corresponda.
+
+Nunca copiar automáticamente el copy de LinkedIn.
+
+## CTA (Call to Action)
+
+El CTA debe llevar a la audiencia a realizar una acción concreta.
+
+No utilizar CTA genéricos únicamente para cerrar una publicación.
+
+El CTA debe buscar principalmente:
+
+- Generar interacción.
+- Aumentar reacciones.
+- Incentivar comentarios.
+- Favorecer compartidos.
+- Promover guardados.
+- Generar visitas al perfil.
+- Aumentar seguidores.
+- Llevar a una acción relacionada con el contenido.
+
+### CTA orientado a interacción
+
+Priorizar CTA que motiven acciones sencillas y naturales.
+
+Ejemplos:
+
+- Invitar a compartir el contenido con alguien a quien pueda resultarle útil.
+- Invitar a guardar la publicación para consultarla posteriormente.
+- Invitar a reaccionar cuando el contenido sea relevante para la audiencia.
+- Invitar a comentar una experiencia o perspectiva.
+- Invitar a seguir la página para conocer más contenido relacionado.
+- Invitar a visitar el perfil cuando exista contenido relacionado.
+
+### CTA orientado a alcance
+
+Cuando el objetivo principal sea aumentar alcance, priorizar acciones que puedan ampliar la distribución del contenido.
+
+Ejemplos:
+
+- Compartir el contenido.
+- Guardarlo.
+- Etiquetar o mencionar a una persona a quien pueda interesarle, cuando sea apropiado.
+- Seguir la página para recibir nuevos contenidos.
+- Interactuar con la publicación.
+
+### CTA orientado a tomadores de decisión
+
+Cuando el contenido esté dirigido a directores, gerentes o tomadores de decisión, el CTA debe generar interés y conversación profesional.
+
+Puede incentivar:
+
+- Reflexión.
+- Opinión profesional.
+- Compartir experiencias.
+- Guardar información relevante.
+- Compartir el contenido con otros profesionales.
+- Conocer más sobre la temática.
+- Visitar el perfil o recurso relacionado.
+
+### Reglas para los CTA
+
+El CTA debe:
+
+- Ser específico.
+- Ser fácil de realizar.
+- Estar relacionado con el contenido.
+- Evitar sonar forzado.
+- Evitar utilizar siempre la misma fórmula.
+- Priorizar interacción cuando el objetivo sea alcance.
+- Adaptarse a cada plataforma.
+- Contribuir al objetivo mensual.
+
+No utilizar automáticamente frases como:
+
+- "Conoce más".
+- "Contáctanos".
+- "Agenda una reunión".
+- "Escríbenos".
+
+Estas acciones pueden utilizarse cuando el contenido realmente tenga un objetivo comercial o de consideración.
+
+Para contenidos cuyo objetivo principal sea alcance, reconocimiento o crecimiento de seguidores, priorizar CTA de interacción y descubrimiento.
+
+### Potencia del CTA
+
+Antes de aprobar un contenido, evaluar:
+
+- ¿El CTA genera una acción concreta?
+- ¿La acción es sencilla?
+- ¿Tiene sentido para la audiencia?
+- ¿Puede generar interacción?
+- ¿Puede favorecer el alcance?
+- ¿Puede contribuir al crecimiento de seguidores?
+- ¿Está alineado con el objetivo del contenido?
+
+Si la respuesta es negativa, reformular el CTA.
+
+## Hashtags
+
+Los hashtags deben utilizarse estratégicamente para aumentar la posibilidad de descubrimiento y alcance del contenido.
+
+No deben utilizarse únicamente para describir el tema.
+
+Su función principal debe ser ayudar a que el contenido pueda:
+
+- Llegar a nuevas personas.
+- Ser descubierto por audiencias relacionadas.
+- Aumentar el alcance potencial.
+- Conectar con conversaciones relevantes.
+- Facilitar que personas interesadas en el sector encuentren la marca.
+- Contribuir al crecimiento de seguidores.
+
+### Selección de Hashtags
+
+Los hashtags deben combinar diferentes niveles de alcance.
+
+Considerar:
+
+- Hashtags amplios relacionados con la industria.
+- Hashtags específicos del tema.
+- Hashtags relacionados con la audiencia.
+- Hashtags relacionados con innovación o tendencias.
+- Hashtags de nicho.
+- Hashtags propios de la marca cuando corresponda.
+
+No utilizar hashtags únicamente porque son populares.
+
+La relevancia para la audiencia debe tener prioridad.
+
+### Criterios
+
+Antes de seleccionar un hashtag, evaluar:
+
+- ¿Está relacionado con el contenido?
+- ¿Está relacionado con la audiencia?
+- ¿Puede ayudar al descubrimiento?
+- ¿Tiene relación con la industria?
+- ¿Puede conectar el contenido con conversaciones relevantes?
+- ¿Puede ayudar a que nuevas personas conozcan la marca?
+
+Evitar:
+
+- Hashtags irrelevantes.
+- Hashtags excesivamente genéricos sin relación con el contenido.
+- Hashtags repetidos automáticamente en todas las publicaciones.
+- Utilizar una cantidad excesiva de hashtags.
+- Utilizar hashtags solamente porque son tendencia.
+
+### Hashtags y Crecimiento de Seguidores
+
+Cuando el objetivo del contenido sea aumentar alcance y seguidores, seleccionar hashtags que permitan conectar con personas que todavía no siguen la página.
+
+La selección debe buscar un equilibrio entre:
+
+**Alcance + relevancia + descubrimiento + audiencia objetivo.**
+
+Los hashtags no garantizan alcance ni crecimiento de seguidores. Deben considerarse una herramienta complementaria dentro de una estrategia de contenido más amplia.
+
+### Hashtags por Plataforma
+
+Adaptar los hashtags a cada red social.
+
+No asumir que los mismos hashtags deben utilizarse exactamente en LinkedIn, Facebook e Instagram.
+
+La cantidad y selección deben responder al comportamiento y características de cada plataforma.
+
+### Validación de Hashtags
+
+Antes de finalizar una publicación, comprobar:
+
+- ¿Los hashtags son relevantes?
+- ¿Ayudan al descubrimiento?
+- ¿Están relacionados con la audiencia?
+- ¿Están relacionados con la industria?
+- ¿Contribuyen potencialmente al alcance?
+- ¿Evitan etiquetas genéricas o irrelevantes?
+- ¿Son adecuados para la plataforma?
+
+## Recursos Visuales
+
+Cada contenido debe incluir sugerencias visuales cuando sean necesarias.
+
+Las sugerencias deben explicar:
+
+- Qué imagen utilizar.
+- Qué debería mostrar.
+- Qué sensación debe transmitir.
+- Qué función cumple dentro del contenido.
+- Qué elementos deben destacarse.
+
+Si se recomienda utilizar una fotografía existente, indicar qué tipo de fotografía se necesita.
+
+Si se requiere crear una imagen, indicar claramente el concepto visual.
+
+## Nivel de Detalle
+
+El nivel de detalle debe aumentar según la complejidad del formato.
+
+### Post
+
+Concepto + texto de pieza + visual + copy + CTA + hashtags.
+
+### Carrusel
+
+Slide por slide + texto + objetivo + visual + copy + CTA + hashtags.
+
+### Reel
+
+Escena por escena + tiempos + locución + texto en pantalla + visual + acción + copy + CTA + hashtags.
+
+### Historia
+
+Historia por historia + texto + visual + interacción + CTA + hashtags cuando corresponda.
+
+### Foto de evento
+
+Contexto + selección de fotografías + copy + CTA + hashtags.
+
+El objetivo es que el contenido pueda pasar directamente de planificación a producción.
