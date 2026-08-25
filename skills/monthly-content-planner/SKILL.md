@@ -457,3 +457,192 @@ Seguir siempre este orden:
 
 No saltar directamente a la generación masiva de publicaciones salvo que el usuario solicite explícitamente trabajar sobre una estrategia previamente definida.
 Do not skip strategic planning and immediately generate a calendar unless the user explicitly requests only a calendar based on already-defined strategy.
+## Monthly Brief and Strategic Planning
+
+Before creating the monthly content calendar, collect and organize the information required to understand the month's strategic context.
+
+The planner must not assume missing information when it can be requested from the user.
+
+### Monthly Brief
+
+The monthly brief should identify:
+
+- Brand or organization.
+- Month and planning period.
+- Main monthly objective.
+- Secondary objectives.
+- Target audience.
+- Priority social networks.
+- Content pillars.
+- Products or services to prioritize.
+- Active campaigns.
+- Important events.
+- Relevant dates or industry moments.
+- Recent content performance, when available.
+- Previous month's relevant content.
+- Available creative resources.
+- Existing visual or brand guidelines.
+- Publication frequency.
+- Known publication schedule.
+- Specific restrictions or requirements.
+
+If some information is already defined as a permanent rule in this skill, do not ask the user to provide it again.
+
+### Monthly Objective
+
+The monthly objective is variable and must be defined or confirmed for each planning period.
+
+The planner should determine:
+
+- What the brand wants to achieve during the month.
+- Why this objective is important.
+- Which audience should be influenced.
+- What type of content can contribute to the objective.
+- How success could be measured.
+
+The objective should be specific enough to guide content decisions.
+
+Avoid vague objectives such as:
+
+> "Create more content."
+
+Prefer objectives such as:
+
+> "Increase LinkedIn reach among banking decision-makers while contributing to organic follower growth."
+
+### Objective Alignment
+
+Every content idea must be connected to the monthly objective.
+
+For each proposed idea, identify:
+
+- Primary objective supported.
+- Secondary objective supported.
+- Target audience.
+- Expected contribution.
+- Recommended platform.
+- Recommended format.
+
+If an idea does not contribute meaningfully to the monthly objective, reconsider, modify, or discard it.
+
+### Audience Strategy
+
+The planner must distinguish between the strategic audience of each platform.
+
+For LinkedIn, prioritize:
+
+- Bank directors.
+- Bank managers.
+- Financial institution executives.
+- Decision-makers.
+- Professionals involved in financial services and digital transformation.
+
+For Facebook and Instagram, prioritize:
+
+- Broader audiences.
+- Potential followers.
+- People interested in financial innovation.
+- People interested in digital transformation.
+- Communities related to the brand's area of activity.
+
+The audience definition may change when the user provides a different campaign or objective.
+
+### Dual-Objective Content Strategy
+
+For B2B brands such as SOMMOS, content should ideally work toward two complementary goals:
+
+#### Strategic Audience Reach
+
+Reach and position the brand among decision-makers in banking and financial institutions.
+
+Content should demonstrate:
+
+- Industry knowledge.
+- Strategic understanding.
+- Relevant insights.
+- Understanding of institutional challenges.
+- Opportunities for innovation.
+- Practical value.
+
+#### Reach and Follower Growth
+
+Increase the possibility that content reaches people beyond the existing audience.
+
+Content should encourage:
+
+- Discovery.
+- Shares.
+- Saves.
+- Comments.
+- Reactions.
+- Profile visits.
+- New followers.
+
+The planner should prioritize ideas capable of balancing both goals whenever possible.
+
+### Monthly Content Strategy
+
+After defining the objective and audience, develop a monthly content strategy.
+
+The strategy should determine:
+
+1. What topics should be discussed.
+2. Which content pillars should receive more attention.
+3. Which audience segments should receive priority.
+4. Which platforms should receive priority.
+5. Which formats should be used.
+6. How content should be distributed throughout the month.
+7. Which content should prioritize authority.
+8. Which content should prioritize reach.
+9. Which content should connect both objectives.
+10. Which content should support products, services, campaigns, or events.
+
+### Strategic Content Mix
+
+The planner should seek a balanced content mix.
+
+Possible categories include:
+
+- Educational.
+- Strategic insights.
+- Industry trends.
+- Problem and solution.
+- Product or service.
+- Case study.
+- Authority and expertise.
+- Institutional.
+- Community.
+- Engagement.
+- Event or participation.
+- Awareness.
+- Innovation.
+- Financial inclusion.
+- Digital transformation.
+
+The exact mix should depend on the monthly objective.
+
+Do not force every category into every month.
+
+### Strategic Prioritization
+
+Before building the final calendar, prioritize content ideas according to:
+
+- Strategic relevance.
+- Audience relevance.
+- Potential reach.
+- Potential engagement.
+- Potential follower growth.
+- Brand positioning.
+- Timeliness.
+- Differentiation.
+- Production feasibility.
+
+Prioritize the ideas with the strongest combination of strategic value and execution potential.
+
+### Monthly Planning Decision
+
+Before moving to the content calendar, the planner must be able to summarize the monthly strategy in a concise statement:
+
+> This month's content strategy will focus on [main objective], targeting [priority audience], through [main content pillars and formats], with the purpose of achieving [expected strategic outcome].
+
+This statement becomes the strategic reference for evaluating all subsequent content ideas.
