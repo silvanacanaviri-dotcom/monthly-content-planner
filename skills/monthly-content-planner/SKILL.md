@@ -944,3 +944,300 @@ The selected ideas should collectively contribute to:
 The calendar should not consist entirely of high-reach content or entirely of highly technical content.
 
 The planner must balance short-term attention with long-term brand positioning.
+## Selección de Red Social y Formato
+
+Una vez aprobadas las ideas, el planificador debe determinar en qué red social y formato debe desarrollarse cada contenido.
+
+La selección debe responder al objetivo, audiencia, naturaleza de la idea, potencial de alcance y comportamiento observado de la audiencia.
+
+No seleccionar un formato únicamente para llenar el calendario.
+
+## Redes Sociales
+
+### LinkedIn
+
+Priorizar LinkedIn cuando la idea:
+
+- Sea relevante para directores y gerentes.
+- Aborde desafíos de bancos o entidades financieras.
+- Presente insights estratégicos.
+- Demuestre conocimiento del sector.
+- Presente tendencias o cambios relevantes.
+- Aborde innovación financiera o transformación digital.
+- Permita posicionar a la marca como referente.
+- Pueda generar conversación profesional.
+- Tenga potencial de alcance dentro y fuera de la audiencia actual.
+
+LinkedIn debe trabajar dos objetivos:
+
+1. Llegar y posicionarse ante tomadores de decisión.
+2. Aumentar el alcance y contribuir al crecimiento de seguidores.
+
+No asumir que todo contenido de LinkedIn debe ser exclusivamente técnico o corporativo.
+
+### Facebook
+
+Priorizar Facebook cuando la idea:
+
+- Tenga potencial de alcance.
+- Sea fácil de comprender.
+- Pueda generar interacción.
+- Sea visualmente atractiva.
+- Permita llegar a personas fuera de la audiencia actual.
+- Contribuya al reconocimiento de marca.
+- Tenga potencial de compartirse o guardarse.
+
+Facebook debe priorizar principalmente:
+
+- Alcance.
+- Reconocimiento.
+- Interacción.
+- Comunidad.
+- Crecimiento de audiencia.
+
+### Instagram
+
+Cuando Instagram forme parte del plan, priorizar contenidos:
+
+- Visuales.
+- Fáciles de consumir.
+- Con potencial de alcance.
+- Con potencial de interacción.
+- Adecuados para Reels, carruseles, posts e historias.
+- Orientados al crecimiento de comunidad.
+
+## Formatos de Contenido
+
+Los formatos principales disponibles son:
+
+1. Post.
+2. Carrusel.
+3. Reel.
+4. Historia.
+5. Foto de evento.
+
+No incorporar infografías ni otros formatos como categorías estándar del plan.
+
+### Post
+
+Utilizar un post cuando:
+
+- Existe una idea puntual.
+- Se necesita comunicar un mensaje breve.
+- La información puede entenderse rápidamente.
+- Una pieza visual puede comunicar el mensaje por sí misma.
+- Se busca reforzar reconocimiento o posicionamiento.
+- El tema no requiere una explicación extensa.
+
+Los posts deben tener una razón estratégica clara y no utilizarse únicamente para completar la cantidad de publicaciones del mes.
+
+### Carrusel
+
+El carrusel es uno de los formatos prioritarios debido a la buena respuesta observada de la audiencia.
+
+Recomendar un carrusel cuando:
+
+- El tema necesita explicación.
+- Existen varios puntos que desarrollar.
+- Se desea educar.
+- Se necesita presentar una lista.
+- Se quiere explicar un problema y sus soluciones.
+- Existe información que puede dividirse visualmente.
+- Se busca favorecer guardados o compartidos.
+- El contenido necesita una narrativa progresiva.
+
+El carrusel debe tener una estructura clara y conducir al usuario desde el primer slide hasta el CTA final.
+
+### Reel
+
+El Reel es uno de los formatos prioritarios debido a su potencial de alcance y a la buena respuesta observada de la audiencia.
+
+Recomendar un Reel cuando:
+
+- La idea necesita un hook fuerte.
+- Se busca aumentar el alcance.
+- El contenido puede comunicarse de forma dinámica.
+- Existe una historia que contar.
+- El concepto puede explicarse mediante escenas.
+- Se puede utilizar movimiento, narración o texto en pantalla.
+- Existe potencial para captar atención rápidamente.
+
+Todo Reel debe desarrollarse posteriormente mediante un guion detallado.
+
+### Historia
+
+Las historias son un formato prioritario debido a la buena respuesta observada de la audiencia.
+
+Utilizar historias principalmente para:
+
+- Reforzar contenidos publicados.
+- Generar interacción.
+- Mostrar detrás de cámaras.
+- Compartir eventos.
+- Recordar publicaciones.
+- Presentar novedades.
+- Crear contenido rápido y oportuno.
+- Llevar tráfico hacia otros contenidos cuando corresponda.
+- Mantener presencia activa.
+
+Las historias pueden planificarse como contenido independiente o como apoyo a una publicación principal.
+
+No deben utilizarse únicamente para replicar el contenido del feed.
+
+### Foto de Evento
+
+Las fotos de eventos deben utilizarse cuando exista una participación, actividad o evento relevante.
+
+Pueden servir para:
+
+- Mostrar participación institucional.
+- Comunicar presencia de la marca.
+- Destacar representantes.
+- Mostrar networking.
+- Compartir momentos relevantes.
+- Reforzar posicionamiento.
+- Generar contenido posterior al evento.
+
+No incluir fotos de eventos en el calendario si no existe un evento confirmado o información suficiente para desarrollarlas.
+
+## Priorización de Formatos
+
+Según el comportamiento observado de la audiencia, existe una buena respuesta hacia:
+
+1. Carruseles.
+2. Reels.
+3. Historias.
+
+Estos formatos deben recibir una consideración prioritaria al momento de seleccionar formatos.
+
+Sin embargo, no deben utilizarse de manera automática.
+
+La selección final debe considerar:
+
+- Objetivo del contenido.
+- Audiencia.
+- Tema.
+- Plataforma.
+- Potencial de alcance.
+- Potencial de interacción.
+- Recursos disponibles.
+- Tiempo de producción.
+- Resultados históricos.
+
+Los posts deben mantenerse como parte del mix de contenidos cuando tengan una función estratégica clara.
+
+Las fotos de eventos se incorporarán cuando exista una oportunidad real relacionada con un evento.
+
+## Distribución de Formatos
+
+El calendario mensual debe mantener variedad.
+
+Evitar publicar el mismo formato de manera consecutiva cuando no exista una justificación estratégica.
+
+Una distribución posible puede ser:
+
+Carrusel → Reel → Post → Carrusel → Reel → Post → Carrusel → Reel
+
+Esta secuencia es únicamente un ejemplo.
+
+La distribución debe adaptarse al objetivo del mes y a los resultados históricos.
+
+Las historias pueden utilizarse de manera adicional para acompañar las publicaciones principales y no necesariamente deben contabilizarse dentro de las 8 publicaciones principales, salvo que el usuario indique lo contrario.
+
+## Frecuencia de Publicación
+
+La frecuencia base establecida es:
+
+**2 publicaciones por semana.**
+
+La distribución estándar es:
+
+- Martes.
+- Jueves.
+
+Para una planificación mensual estándar de 8 publicaciones:
+
+- Semana 1: martes y jueves.
+- Semana 2: martes y jueves.
+- Semana 3: martes y jueves.
+- Semana 4: martes y jueves.
+
+### Cuando exista una frecuencia mayor
+
+Si la estrategia del mes justifica aumentar la cantidad de publicaciones, utilizar como distribución preferente:
+
+- Lunes.
+- Miércoles.
+- Viernes.
+
+Esto permite mantener una distribución equilibrada durante la semana.
+
+La frecuencia puede aumentar cuando existan:
+
+- Campañas.
+- Eventos.
+- Fechas importantes.
+- Oportunidades estratégicas.
+- Contenidos de alto potencial.
+- Necesidades específicas de comunicación.
+
+Aumentar la frecuencia no significa generar contenido por relleno.
+
+Cada publicación adicional debe tener un objetivo y una justificación estratégica.
+
+## Coordinación entre LinkedIn y Facebook
+
+Cuando LinkedIn y Facebook publiquen la misma idea central:
+
+- Mantener la misma fecha.
+- Mantener la misma hora.
+- Crear un copy específico para cada red.
+- Adaptar el mensaje a la audiencia de cada plataforma.
+
+El horario estándar actual es:
+
+**10:00 a. m.**
+
+LinkedIn y Facebook no deben programarse a horas diferentes por defecto.
+
+Este horario puede modificarse únicamente cuando exista suficiente evidencia de rendimiento que justifique una nueva recomendación y el cambio haya sido aprobado.
+
+## Fecha de Entrega
+
+La fecha de entrega debe establecerse antes de la fecha de publicación.
+
+Debe existir suficiente tiempo para:
+
+1. Desarrollo del contenido.
+2. Diseño o producción.
+3. Revisión.
+4. Correcciones.
+5. Aprobación.
+6. Programación.
+7. Publicación.
+
+Si el usuario proporciona una fecha de publicación pero no una fecha de entrega, proponer una fecha razonable considerando el flujo de producción.
+
+## Validación del Calendario
+
+Antes de presentar el calendario como final, comprobar:
+
+- ¿Tiene mínimo 8 publicaciones?
+- ¿Mantiene 2 publicaciones por semana como frecuencia base?
+- ¿Las publicaciones principales están programadas martes y jueves?
+- Si existen más publicaciones, ¿se distribuyen preferentemente lunes, miércoles y viernes?
+- ¿Las ideas tienen un objetivo?
+- ¿Los pilares están correctamente distribuidos?
+- ¿Existe variedad de formatos?
+- ¿Se priorizaron carruseles, Reels e historias cuando corresponde?
+- ¿Los posts tienen una función estratégica?
+- ¿Las fotos de eventos solamente aparecen cuando existe un evento?
+- ¿Se evitó incorporar formatos no utilizados?
+- ¿LinkedIn está orientado a tomadores de decisión y también a alcance?
+- ¿Facebook prioriza alcance y crecimiento?
+- ¿LinkedIn y Facebook comparten fecha y hora cuando corresponde?
+- ¿Los copies son diferentes por plataforma?
+- ¿Las fechas de entrega preceden a las fechas de publicación?
+- ¿Cada contenido tiene una prioridad?
+- ¿Cada contenido tiene un estado?
+- ¿Cada contenido tiene responsable y revisor cuando esa información está disponible?
