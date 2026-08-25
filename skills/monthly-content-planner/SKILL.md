@@ -2322,17 +2322,12 @@ Puede existir una misma idea adaptada para más de una red.
 
 Indicar la categoría estratégica correspondiente.
 
-Ejemplos:
-
 - Educativo.
-- Alcance.
-- Autoridad.
+- Comercial.
+- Inspiracional.
 - Institucional.
-- Producto/servicio.
-- Tendencia.
-- Evento.
-- Comunidad.
-- Thought leadership.
+- Humanización.
+- Informativo o evento.
 
 ### Pilar
 
