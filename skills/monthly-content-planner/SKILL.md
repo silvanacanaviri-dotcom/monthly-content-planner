@@ -2567,3 +2567,294 @@ Antes de entregar el plan como final, comprobar:
 - ¿Se descartó el contenido de relleno?
 - ¿Se realizó la validación final?
 - ¿El contenido está aprobado para pasar a producción o publicación?
+## Análisis de Rendimiento y Optimización Mensual
+
+El planificador debe utilizar los resultados de publicaciones anteriores para mejorar las decisiones del siguiente mes.
+
+La planificación mensual no debe comenzar desde cero.
+
+Cuando existan datos del mes anterior, utilizarlos como referencia para:
+
+- Seleccionar temas.
+- Seleccionar formatos.
+- Seleccionar plataformas.
+- Definir frecuencia.
+- Priorizar pilares.
+- Mejorar hooks.
+- Mejorar CTA.
+- Mejorar hashtags.
+- Identificar contenidos que deben repetirse con un nuevo enfoque.
+- Identificar contenidos que deben evitarse.
+- Detectar oportunidades de crecimiento.
+
+## Datos a Analizar
+
+Cuando estén disponibles, analizar:
+
+- Alcance.
+- Impresiones.
+- Visualizaciones.
+- Reproducciones de video.
+- Interacciones.
+- Me gusta.
+- Comentarios.
+- Compartidos.
+- Guardados.
+- Clics.
+- Visitas al perfil.
+- Nuevos seguidores.
+- Tasa de engagement.
+- Rendimiento por plataforma.
+- Rendimiento por formato.
+- Rendimiento por pilar.
+- Rendimiento por tema.
+- Rendimiento por CTA.
+- Rendimiento por horario.
+- Rendimiento por día de publicación.
+
+No asumir que una métrica alta significa automáticamente que el contenido fue exitoso.
+
+Interpretar los resultados según el objetivo del contenido.
+
+## Análisis por Objetivo
+
+### Alcance
+
+Identificar qué contenidos lograron llegar a más personas.
+
+Analizar:
+
+- Tema.
+- Formato.
+- Hook.
+- Plataforma.
+- Día.
+- Hora.
+- Hashtags.
+- Tipo de contenido.
+
+### Interacción
+
+Identificar qué contenidos generaron mayor interacción.
+
+Analizar:
+
+- Me gusta.
+- Comentarios.
+- Compartidos.
+- Guardados.
+
+Determinar qué características pudieron contribuir al resultado.
+
+### Crecimiento de Seguidores
+
+Identificar qué contenidos contribuyeron a:
+
+- Nuevos seguidores.
+- Visitas al perfil.
+- Descubrimiento de la marca.
+
+Priorizar formatos y temas que hayan demostrado capacidad para atraer nuevas audiencias.
+
+### Tomadores de Decisión
+
+Identificar qué contenidos tuvieron mayor relevancia para:
+
+- Directores.
+- Gerentes.
+- Ejecutivos.
+- Profesionales del sector financiero.
+
+Cuando existan datos cualitativos, comentarios o interacciones relevantes, utilizarlos como evidencia complementaria.
+
+## Comparación de Formatos
+
+Comparar el rendimiento de:
+
+- Posts.
+- Carruseles.
+- Reels.
+- Historias.
+- Fotos de eventos.
+
+No comparar únicamente por cantidad absoluta de interacciones.
+
+Cuando sea posible, utilizar métricas proporcionales como:
+
+- Engagement rate.
+- Interacciones por alcance.
+- Seguidores generados por publicación.
+- Visualizaciones por publicación.
+
+## Comparación de Plataformas
+
+Analizar por separado:
+
+- LinkedIn.
+- Facebook.
+- Instagram.
+
+No asumir que un contenido que funciona en una plataforma funcionará igual en otra.
+
+Identificar:
+
+- Qué temas funcionan mejor en LinkedIn.
+- Qué temas funcionan mejor en Facebook.
+- Qué formatos funcionan mejor en cada plataforma.
+- Qué tipo de contenido genera mayor alcance.
+- Qué tipo de contenido genera mayor interacción.
+
+## Análisis de CTA
+
+Identificar qué tipos de CTA generaron mejores resultados.
+
+Comparar CTA orientados a:
+
+- Compartir.
+- Guardar.
+- Comentar.
+- Reaccionar.
+- Seguir.
+- Visitar el perfil.
+- Conocer más.
+
+Determinar qué tipo de acción funcionó mejor según el objetivo.
+
+No repetir automáticamente el CTA ganador.
+
+Utilizar el aprendizaje para desarrollar nuevas variaciones.
+
+## Análisis de Hashtags
+
+Cuando existan datos suficientes, analizar:
+
+- Hashtags utilizados.
+- Alcance obtenido.
+- Descubrimiento.
+- Rendimiento por publicación.
+
+Identificar patrones.
+
+No concluir que un hashtag funciona únicamente porque apareció en una publicación exitosa.
+
+Analizar el contexto completo de la publicación.
+
+## Identificación de Ganadores
+
+Identificar los contenidos con mejor rendimiento.
+
+Para cada contenido ganador, registrar:
+
+- Tema.
+- Pilar.
+- Plataforma.
+- Formato.
+- Hook.
+- CTA.
+- Hashtags.
+- Objetivo.
+- Resultado.
+
+Determinar qué elementos podrían replicarse.
+
+No copiar exactamente el contenido ganador.
+
+Buscar nuevas aplicaciones o ángulos.
+
+## Identificación de Contenidos Débiles
+
+Identificar contenidos con bajo rendimiento.
+
+Analizar posibles causas:
+
+- Tema poco relevante.
+- Hook débil.
+- Formato incorrecto.
+- Copy poco atractivo.
+- CTA débil.
+- Mala adaptación a la plataforma.
+- Falta de diferenciación.
+- Publicación en un horario poco favorable.
+- Exceso de contenido técnico.
+- Falta de valor práctico.
+
+No eliminar automáticamente un tema por haber tenido bajo rendimiento una sola vez.
+
+Evaluar el contexto.
+
+## Recomendaciones para el Próximo Mes
+
+Al finalizar el análisis, generar recomendaciones concretas.
+
+Clasificar las recomendaciones como:
+
+### Mantener
+
+Elementos que demostraron buen desempeño y deben continuar.
+
+### Aumentar
+
+Elementos que deberían tener mayor presencia.
+
+### Reducir
+
+Elementos que deberían tener menor presencia.
+
+### Experimentar
+
+Nuevas ideas, formatos, temas o enfoques que deberían probarse.
+
+### Eliminar
+
+Elementos que consistentemente presentan bajo rendimiento o poca relevancia estratégica.
+
+## Informe de Aprendizaje Mensual
+
+Cuando existan datos suficientes, generar un resumen:
+
+**Lo que funcionó:**
+- [Hallazgo]
+
+**Lo que no funcionó:**
+- [Hallazgo]
+
+**Lo que debemos mantener:**
+- [Recomendación]
+
+**Lo que debemos aumentar:**
+- [Recomendación]
+
+**Lo que debemos reducir:**
+- [Recomendación]
+
+**Lo que debemos probar:**
+- [Experimento]
+
+**Principal aprendizaje del mes:**
+- [Insight]
+
+## Aplicación al Nuevo Calendario
+
+Los resultados del análisis deben utilizarse directamente en la nueva planificación.
+
+El planificador debe explicar cómo los aprendizajes modifican las decisiones del nuevo mes.
+
+Ejemplo:
+
+> El mes anterior los Reels educativos generaron mayor alcance y crecimiento de seguidores que los posts estáticos. Para este mes se recomienda aumentar la presencia de Reels, manteniendo los posts únicamente cuando cumplan una función estratégica específica.
+
+Las recomendaciones deben estar respaldadas por los datos disponibles.
+
+No presentar conclusiones que los datos no permitan sostener.
+
+## Regla de Experimentación
+
+El planificador debe mantener un equilibrio entre:
+
+- Repetir lo que funciona.
+- Mejorar lo que puede funcionar.
+- Experimentar con nuevas ideas.
+
+No convertir el calendario en una repetición de los contenidos exitosos del mes anterior.
+
+El objetivo es evolucionar la estrategia continuamente.
