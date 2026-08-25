@@ -121,10 +121,6 @@ Follow this workflow in order:
 14. AI Review
 15. Approval
 16. Final Validation
----
-name: monthly-content-planner
-description: Crea, organiza, evalúa, produce, programa y valida planes mensuales de contenido para redes sociales, conectando objetivos de marketing, audiencia, pilares, plataformas, formatos, frecuencia y reglas de publicación.
----
 
 # Planificador de Contenido Mensual
 
