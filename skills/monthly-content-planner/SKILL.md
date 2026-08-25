@@ -646,3 +646,301 @@ Before moving to the content calendar, the planner must be able to summarize the
 > This month's content strategy will focus on [main objective], targeting [priority audience], through [main content pillars and formats], with the purpose of achieving [expected strategic outcome].
 
 This statement becomes the strategic reference for evaluating all subsequent content ideas.
+## Content Pillars
+
+Content pillars are the strategic themes that organize the monthly content plan.
+
+Pillars must not be created simply to categorize posts. Each pillar must contribute to one or more monthly objectives.
+
+### Defining Content Pillars
+
+Before generating the final content calendar, define the pillars that will guide the month.
+
+For each pillar, identify:
+
+- Pillar name.
+- Strategic purpose.
+- Audience.
+- Main objective supported.
+- Topics that can be explored.
+- Recommended formats.
+- Recommended platforms.
+- Expected contribution to reach, authority, engagement, or follower growth.
+
+Do not force a fixed number of pillars.
+
+The number of pillars should depend on:
+
+- Monthly objective.
+- Publication frequency.
+- Brand strategy.
+- Audience.
+- Available resources.
+- Current campaigns.
+- Content opportunities.
+
+### Pillar Balance
+
+The planner must avoid concentrating the entire month on a single type of content.
+
+Seek a balanced combination of content that can:
+
+- Build authority.
+- Educate.
+- Generate reach.
+- Create engagement.
+- Address audience problems.
+- Demonstrate expertise.
+- Present products or services when strategically appropriate.
+- Strengthen brand recognition.
+- Encourage audience growth.
+
+The balance should be determined by the monthly objective.
+
+Do not assign equal weight to every pillar by default.
+
+### Pillar Prioritization
+
+Assign each pillar a priority:
+
+- High.
+- Medium.
+- Low.
+
+High-priority pillars should receive greater representation in the monthly calendar.
+
+Prioritization should consider:
+
+- Monthly objective.
+- Audience relevance.
+- Strategic importance.
+- Business relevance.
+- Potential reach.
+- Potential engagement.
+- Timeliness.
+- Available resources.
+
+## Content Ideation
+
+Once the monthly objective and content pillars are defined, generate content ideas.
+
+The goal is not to generate the largest possible number of ideas.
+
+The goal is to identify the ideas with the strongest strategic fit and execution potential.
+
+### Ideation Process
+
+For each pillar:
+
+1. Identify relevant audience problems.
+2. Identify audience questions.
+3. Identify common misconceptions.
+4. Identify industry trends.
+5. Identify useful insights.
+6. Identify opportunities for educational content.
+7. Identify opportunities for authority and thought leadership.
+8. Identify opportunities for reach and engagement.
+9. Identify opportunities to connect the brand with relevant conversations.
+10. Identify opportunities related to products, services, events, or campaigns.
+11. Review previously published content to avoid unnecessary repetition.
+
+### Idea Generation Principles
+
+Ideas should be:
+
+- Relevant.
+- Specific.
+- Useful.
+- Interesting.
+- Differentiated.
+- Appropriate for the audience.
+- Connected to a strategic objective.
+- Feasible to produce.
+
+Avoid generic ideas such as:
+
+> "Talk about digital transformation."
+
+Instead, develop a specific angle:
+
+> "3 signs that a financial institution is digitizing a process without actually improving the customer experience."
+
+The second idea provides a clearer communication angle, stronger relevance, and a more defined production path.
+
+### Idea Sources
+
+Ideas may be developed from:
+
+- Audience problems.
+- Frequently asked questions.
+- Industry trends.
+- Market changes.
+- Customer insights.
+- Internal expertise.
+- Product capabilities.
+- Services.
+- Case studies.
+- Events.
+- News relevant to the industry.
+- Previous high-performing content.
+- Underperforming content that can be reframed.
+- Competitor communication patterns.
+- Common misconceptions.
+- Educational opportunities.
+- Storytelling.
+- Data and research.
+- Community conversations.
+
+Do not invent statistics, customer experiences, case studies, or market claims.
+
+If evidence is required and is not available, identify the need for verification.
+
+## Idea Evaluation
+
+Every idea must be evaluated before entering the final calendar.
+
+The evaluation should consider:
+
+### Strategic Fit
+
+Does the idea contribute to the monthly objective?
+
+### Audience Relevance
+
+Does the idea matter to the intended audience?
+
+### Reach Potential
+
+Does the topic have the potential to attract people beyond the existing audience?
+
+### Engagement Potential
+
+Can the content encourage:
+
+- Reactions.
+- Comments.
+- Shares.
+- Saves.
+- Profile visits.
+- Conversations.
+
+### Follower Growth Potential
+
+Could the content make someone who discovers the publication interested in following the brand?
+
+### Authority Potential
+
+Does the idea demonstrate knowledge, expertise, perspective, or understanding of the industry?
+
+### Differentiation
+
+Does the idea offer a distinct perspective rather than repeating common information?
+
+### Format Fit
+
+Is the selected format appropriate for communicating the idea?
+
+### Platform Fit
+
+Is the idea appropriate for the selected social network?
+
+### Production Feasibility
+
+Can the team realistically create the content with the available resources and time?
+
+## Idea Scoring
+
+When useful, score each idea from 1 to 5 in:
+
+| Criterion | Score |
+|---|---:|
+| Strategic fit | 1–5 |
+| Audience relevance | 1–5 |
+| Reach potential | 1–5 |
+| Engagement potential | 1–5 |
+| Follower growth potential | 1–5 |
+| Authority potential | 1–5 |
+| Differentiation | 1–5 |
+| Format fit | 1–5 |
+| Production feasibility | 1–5 |
+
+The score should support decision-making, not replace strategic judgment.
+
+A lower-scoring idea may still be selected if it fulfills an important strategic or timely role.
+
+## Idea Decision
+
+After evaluation, classify each idea as:
+
+### 🟢 Approved
+
+The idea is strategically strong and can move to the content calendar.
+
+### 🟡 Needs Adjustment
+
+The idea has potential but needs changes to:
+
+- Angle.
+- Hook.
+- Audience.
+- Format.
+- Platform.
+- Message.
+- CTA.
+
+Revise and evaluate again before adding it to the final calendar.
+
+### 🔴 Rejected
+
+The idea should not be used in its current form because it has:
+
+- Weak strategic relevance.
+- Low audience relevance.
+- Excessive repetition.
+- Poor differentiation.
+- Low value.
+- Inappropriate format.
+- Inappropriate platform.
+- Insufficient production feasibility.
+
+Rejected ideas may be reformulated if a stronger angle exists.
+
+## Idea Recommendation Output
+
+When presenting proposed ideas before building the calendar, provide:
+
+- Idea name.
+- Core concept.
+- Content pillar.
+- Objective supported.
+- Target audience.
+- Recommended platform.
+- Recommended format.
+- Why it fits.
+- Expected outcome.
+- Priority.
+- AI evaluation.
+- Suggested next step.
+
+Do not overwhelm the user with an unnecessarily large list of ideas.
+
+Prioritize the strongest ideas first.
+
+## Strategic Selection
+
+The final selection of ideas must create a balanced monthly content portfolio.
+
+The selected ideas should collectively contribute to:
+
+1. Reaching strategic decision-makers.
+2. Increasing reach.
+3. Supporting follower growth.
+4. Building authority.
+5. Educating the audience.
+6. Creating engagement.
+7. Supporting the monthly objective.
+8. Maintaining variety of topics and formats.
+
+The calendar should not consist entirely of high-reach content or entirely of highly technical content.
+
+The planner must balance short-term attention with long-term brand positioning.
