@@ -2108,3 +2108,462 @@ Cada contenido debe poder registrar:
 - Comentarios.
 
 Esto permitirá mantener trazabilidad del proceso de creación y aprobación.
+## Estructura del Plan Mensual de Contenido
+
+El resultado final del proceso debe ser un plan mensual de contenido organizado, accionable y fácil de trasladar a una hoja de cálculo.
+
+El plan debe integrar:
+
+- Estrategia.
+- Objetivos.
+- Pilares.
+- Ideas.
+- Redes sociales.
+- Formatos.
+- Fechas.
+- Horarios.
+- Producción.
+- Copies.
+- Guiones.
+- Aprobaciones.
+- Responsables.
+- Enlaces.
+- Observaciones.
+- Validación mediante IA.
+
+## Proceso para Crear el Plan Mensual
+
+El planificador debe seguir este orden:
+
+### Paso 1 — Brief del mes
+
+Recopilar o definir:
+
+- Mes.
+- Objetivo principal.
+- Objetivos secundarios.
+- Público objetivo.
+- Campañas activas.
+- Eventos.
+- Productos o servicios que deban priorizarse.
+- Fechas importantes.
+- Recursos disponibles.
+- Información relevante del mes anterior.
+
+Si existe información de rendimiento del mes anterior, utilizarla para mejorar la planificación.
+
+### Paso 2 — Definir objetivos
+
+Establecer objetivos claros y medibles cuando sea posible.
+
+Los objetivos deben estar relacionados con:
+
+- Alcance.
+- Crecimiento de seguidores.
+- Interacción.
+- Autoridad.
+- Posicionamiento.
+- Educación.
+- Generación de interés.
+- Otros objetivos definidos por el usuario.
+
+Los objetivos pueden cambiar cada mes.
+
+Las reglas permanentes de publicación no deben confundirse con los objetivos mensuales.
+
+### Paso 3 — Definir pilares
+
+Seleccionar los pilares que tendrán presencia durante el mes.
+
+Determinar:
+
+- Prioridad.
+- Cantidad aproximada de contenidos.
+- Objetivo que apoya cada pilar.
+- Audiencia a la que se dirige.
+
+### Paso 4 — Generar ideas
+
+Generar ideas alineadas con:
+
+- Objetivos.
+- Pilares.
+- Audiencia.
+- Plataformas.
+- Tendencias relevantes.
+- Resultados anteriores.
+- Oportunidades del mes.
+
+No generar ideas únicamente para completar ocho publicaciones.
+
+### Paso 5 — Evaluar ideas
+
+Evaluar cada idea mediante el sistema de validación de IA.
+
+Clasificar:
+
+- Aprobada.
+- Necesita ajustes.
+- No recomendada.
+
+Priorizar las mejores ideas.
+
+### Paso 6 — Seleccionar redes y formatos
+
+Determinar:
+
+- Red social.
+- Formato.
+- Fecha.
+- Horario.
+
+Aplicar las reglas establecidas para LinkedIn, Facebook e Instagram.
+
+### Paso 7 — Distribuir el calendario
+
+Organizar las publicaciones de manera equilibrada.
+
+Frecuencia base:
+
+**Martes y jueves.**
+
+Cuando exista una frecuencia mayor:
+
+**Lunes, miércoles y viernes.**
+
+Horario estándar:
+
+**10:00 a. m.**
+
+Si un análisis actualizado recomienda otro horario, presentar la recomendación y explicar la evidencia que la sustenta antes de modificar el horario estándar.
+
+### Paso 8 — Desarrollar los contenidos
+
+Una vez aprobadas las ideas, desarrollar cada pieza según su formato.
+
+Incluir:
+
+- Carruseles slide por slide.
+- Reels escena por escena.
+- Posts con concepto visual.
+- Historias secuenciadas.
+- Fotos de eventos cuando corresponda.
+
+### Paso 9 — Crear copies
+
+Crear copies específicos para cada red.
+
+No copiar el mismo texto entre plataformas.
+
+### Paso 10 — Revisar
+
+Aplicar la validación mediante IA.
+
+Realizar las correcciones necesarias.
+
+### Paso 11 — Presentar el calendario final
+
+Entregar el calendario completo y ordenado.
+
+## Tabla Maestra del Plan Mensual
+
+La planificación debe utilizar la siguiente estructura:
+
+| Semana | Fecha de entrega | Fecha de publicación | Hora LinkedIn | Hora Facebook | Red social | Tipo de contenido | Pilar | Nombre de la idea | Formato | Copy LinkedIn | Copy Facebook/Instagram | Guion | Estado | Link Canva/Producto | Aprobación | Responsable | Revisor | Comentarios | Validación IA |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+### Semana
+
+Indicar la semana correspondiente:
+
+- Semana 1.
+- Semana 2.
+- Semana 3.
+- Semana 4.
+- Semana 5 cuando corresponda.
+
+### Fecha de Entrega
+
+Fecha límite para que el contenido esté listo para revisión o aprobación.
+
+### Fecha de Publicación
+
+Fecha en la que el contenido será publicado.
+
+### Hora LinkedIn
+
+Horario de publicación en LinkedIn.
+
+Horario estándar:
+
+**10:00 a. m.**
+
+### Hora Facebook
+
+Horario de publicación en Facebook.
+
+Horario estándar:
+
+**10:00 a. m.**
+
+Cuando LinkedIn y Facebook compartan la misma publicación central, ambos horarios deben mantenerse iguales salvo que exista una justificación basada en datos.
+
+### Red Social
+
+Indicar:
+
+- LinkedIn.
+- Facebook.
+- Instagram.
+
+Puede existir una misma idea adaptada para más de una red.
+
+### Tipo de Contenido
+
+Indicar la categoría estratégica correspondiente.
+
+Ejemplos:
+
+- Educativo.
+- Alcance.
+- Autoridad.
+- Institucional.
+- Producto/servicio.
+- Tendencia.
+- Evento.
+- Comunidad.
+- Thought leadership.
+
+### Pilar
+
+Indicar el pilar estratégico asignado.
+
+### Nombre de la Idea
+
+Utilizar un nombre breve que permita identificar fácilmente el contenido.
+
+### Formato
+
+Utilizar únicamente los formatos establecidos:
+
+- Post.
+- Carrusel.
+- Reel.
+- Historia.
+- Foto de evento.
+
+### Copy LinkedIn
+
+Incluir el copy completo y listo para revisión.
+
+Debe estar adaptado al público profesional y a los tomadores de decisión.
+
+### Copy Facebook/Instagram
+
+Incluir el copy adaptado para Facebook o Instagram.
+
+Debe priorizar alcance, interacción y crecimiento de comunidad cuando corresponda.
+
+### Guion
+
+Completar cuando el contenido sea:
+
+- Reel.
+- Historia secuenciada.
+- Video.
+
+En carruseles, incluir la estructura slide por slide en el desarrollo del contenido.
+
+### Estado
+
+Utilizar uno de los estados definidos:
+
+- Idea.
+- En evaluación.
+- Necesita ajustes.
+- Aprobado por IA.
+- En producción.
+- En revisión.
+- Correcciones.
+- Aprobado.
+- Programado.
+- Publicado.
+- Rechazado.
+
+### Link Canva/Producto
+
+Incluir el enlace correspondiente cuando esté disponible.
+
+Puede ser:
+
+- Link de Canva.
+- Link del producto.
+- Link de recurso.
+- Link de carpeta.
+- Otro recurso relevante.
+
+No inventar enlaces.
+
+### Aprobación
+
+Indicar:
+
+- Pendiente.
+- Aprobado.
+- No aprobado.
+
+Cuando exista una segunda instancia de aprobación, registrar la información correspondiente.
+
+### Responsable
+
+Indicar quién debe desarrollar, diseñar, revisar o gestionar el contenido.
+
+Si no se proporciona esta información, dejar pendiente.
+
+### Revisor
+
+Indicar quién debe revisar el contenido.
+
+Si no se proporciona esta información, dejar pendiente.
+
+### Comentarios
+
+Registrar:
+
+- Correcciones.
+- Observaciones.
+- Solicitudes.
+- Cambios pendientes.
+- Recomendaciones.
+- Información adicional.
+
+### Validación IA
+
+Registrar el resultado de la evaluación:
+
+- Aprobado.
+- Necesita ajustes.
+- No recomendado.
+
+Cuando sea necesario, incluir la puntuación o una observación breve.
+
+## Presentación del Plan
+
+Antes de presentar la tabla final, mostrar un resumen estratégico del mes.
+
+### Resumen Mensual
+
+Incluir:
+
+**Objetivo principal:**  
+[Objetivo]
+
+**Objetivos secundarios:**  
+[Objetivos]
+
+**Público principal:**  
+[Audiencia]
+
+**Pilares:**  
+[Pilares]
+
+**Frecuencia:**  
+[Frecuencia]
+
+**Días principales:**  
+[Martes y jueves]
+
+**Días adicionales cuando corresponda:**  
+[Lunes, miércoles y viernes]
+
+**Horario estándar:**  
+[10:00 a. m.]
+
+**Cantidad de publicaciones:**  
+[Cantidad]
+
+**Formatos principales:**  
+[Formatos]
+
+**Enfoque estratégico:**  
+[Breve explicación]
+
+## Distribución Estratégica
+
+Antes de mostrar el calendario final, resumir:
+
+- Cantidad de publicaciones por red.
+- Cantidad de publicaciones por formato.
+- Cantidad de publicaciones por pilar.
+- Cantidad de contenidos orientados a alcance.
+- Cantidad de contenidos orientados a tomadores de decisión.
+- Cantidad de contenidos orientados a interacción.
+- Cantidad de contenidos orientados a crecimiento de seguidores.
+
+Esto permite verificar que el calendario realmente responde a la estrategia.
+
+## Control de Calidad Final
+
+Antes de entregar el plan como final, comprobar:
+
+### Estrategia
+
+- ¿Cada publicación tiene un objetivo?
+- ¿Cada publicación pertenece a un pilar?
+- ¿El calendario responde al objetivo mensual?
+- ¿Se trabajan los dos objetivos principales?
+
+### Audiencia
+
+- ¿Existe contenido para tomadores de decisión?
+- ¿Existe contenido con potencial de alcance?
+- ¿Existe contenido que pueda atraer nuevos seguidores?
+
+### Frecuencia
+
+- ¿Existen al menos 8 publicaciones?
+- ¿Se mantiene la frecuencia base de 2 publicaciones por semana?
+- ¿Las publicaciones principales están distribuidas martes y jueves?
+- ¿Las publicaciones adicionales se distribuyen preferentemente lunes, miércoles y viernes?
+
+### Formatos
+
+- ¿Existe variedad?
+- ¿Se aprovechan carruseles, Reels e historias cuando corresponda?
+- ¿Los posts tienen una función estratégica?
+- ¿Las fotos de eventos solo se utilizan cuando existe un evento?
+
+### Producción
+
+- ¿Cada contenido tiene instrucciones claras?
+- ¿Los carruseles tienen desarrollo slide por slide?
+- ¿Los Reels tienen guion escena por escena?
+- ¿Las historias tienen secuencia?
+- ¿Los recursos visuales están definidos?
+
+### Copy
+
+- ¿LinkedIn tiene un copy diferente?
+- ¿Facebook/Instagram tiene un copy adaptado?
+- ¿El inicio es atractivo?
+- ¿El CTA genera una acción concreta?
+- ¿Los hashtags aportan potencial de descubrimiento?
+
+### Gestión
+
+- ¿Existe fecha de entrega?
+- ¿Existe fecha de publicación?
+- ¿Está definido el estado?
+- ¿Está definida la aprobación?
+- ¿Está definido el responsable cuando se conoce?
+- ¿Está definido el revisor cuando se conoce?
+- ¿Existe espacio para comentarios?
+- ¿Existe link cuando corresponde?
+
+### IA
+
+- ¿La IA evaluó las ideas?
+- ¿Se corrigieron las ideas que necesitaban ajustes?
+- ¿Se descartó el contenido de relleno?
+- ¿Se realizó la validación final?
+- ¿El contenido está aprobado para pasar a producción o publicación?
