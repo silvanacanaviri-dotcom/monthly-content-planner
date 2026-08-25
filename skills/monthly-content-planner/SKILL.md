@@ -2374,16 +2374,10 @@ En carruseles, incluir la estructura slide por slide en el desarrollo del conten
 Utilizar uno de los estados definidos:
 
 - Idea.
-- En evaluación.
-- Necesita ajustes.
-- Aprobado por IA.
-- En producción.
-- En revisión.
-- Correcciones.
-- Aprobado.
+- Producción.
+- Revisión.
 - Programado.
 - Publicado.
-- Rechazado.
 
 ### Link Canva/Producto
 
