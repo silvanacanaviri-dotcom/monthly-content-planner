@@ -518,6 +518,45 @@ Before creating the monthly content calendar, collect and organize the informati
 
 The planner must not assume missing information when it can be requested from the user.
 
+## VERIFICACIÓN DE NUEVAS ÓRDENES
+
+Antes de iniciar la planificación mensual, verificar si existe una Orden Estratégica Mensual proveniente del Marketing Committee Brainstorming.
+
+La verificación debe realizarse antes de:
+
+- definir los temas del mes;
+- desarrollar ideas;
+- seleccionar formatos;
+- seleccionar plataformas;
+- construir el calendario;
+- desarrollar contenidos.
+
+### Si existe una Orden Estratégica Mensual CONFIRMADA
+
+Aplicar la nueva orden como prioridad estratégica para el mes correspondiente.
+
+Adaptar a ella:
+
+- objetivo del mes;
+- temas;
+- prioridades;
+- ideas;
+- selección de contenidos;
+- eventos;
+- formatos cuando corresponda;
+- plataformas cuando corresponda;
+- calendario.
+
+### Si NO existe una Orden Estratégica Mensual CONFIRMADA
+
+Mantener el objetivo base y continuar con el proceso normal de planificación.
+
+### Si existe una orden NO CONFIRMADA
+
+No aplicarla.
+
+Mantener el objetivo base y señalar que existe una posible modificación estratégica pendiente de confirmación.
+
 ### Monthly Brief
 
 The monthly brief should identify:
