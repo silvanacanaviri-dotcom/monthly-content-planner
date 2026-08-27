@@ -1,7 +1,8 @@
 ---
+
 name: monthly-content-planner
-description: Create, organize, evaluate, produce, schedule, and validate monthly social media content plans based on marketing objectives, audience, content pillars, platforms, formats, and publication rules.
----
+description: Create, organize, evaluate, produce, schedule, and validate monthly social media content plans based on marketing objectives, audience, content pillars, platforms, formats, publication rules, and confirmed monthly strategic directives.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Monthly Content Planner
 
@@ -9,108 +10,223 @@ description: Create, organize, evaluate, produce, schedule, and validate monthly
 
 The Monthly Content Planner is a structured marketing planning skill designed to transform monthly marketing objectives into an actionable, organized, and production-ready social media content plan.
 
-It combines strategic planning, content ideation, idea evaluation, platform adaptation, publication scheduling, content production guidance, and quality validation.
+It combines strategic planning, content ideation, idea evaluation, platform adaptation, publication scheduling, content production guidance, performance analysis, and quality validation.
 
-The skill is designed to support recurring monthly planning while maintaining permanent brand and publication rules.
+The skill is designed to support recurring monthly planning while maintaining permanent brand and publication rules and adapting the strategy to the specific context of each month.
 
-## Primary Goals
+A key part of the planning process is verifying whether the **Marketing Committee Brainstorming** has established a **Confirmed Monthly Strategic Directive** for the corresponding month.
+
+The Monthly Strategic Directive can temporarily modify the strategic focus of the month, but it does not permanently replace the base objective or permanent rules of the Monthly Content Planner.
+
+---
+
+# Primary Goals
 
 The skill must:
 
 1. Translate monthly marketing objectives into a coherent content strategy.
-2. Define and prioritize content pillars and topics.
-3. Generate and evaluate content ideas.
-4. Select appropriate platforms and formats.
-5. Establish a realistic publication cadence.
-6. Build a complete monthly content calendar.
-7. Develop platform-specific copy.
-8. Create detailed production instructions for each content piece.
-9. Provide slide-by-slide structures for carousels.
-10. Provide scene-by-scene scripts for Reels and video content.
-11. Suggest visual resources and creative directions.
-12. Validate content against strategic and publication rules.
-13. Track approval, responsibility, production status, and comments.
-14. Deliver a plan that can be transferred to a spreadsheet or project management system.
-
-# ORDEN ESTRATÉGICA MENSUAL DEL COMITÉ
-
-El Monthly Content Planner debe verificar si existe una Orden Estratégica Mensual proveniente del Marketing Committee Brainstorming.
-
-La Orden Estratégica Mensual representa una instrucción estratégica específica para un mes determinado y puede modificar temporalmente el enfoque de planificación.
-
-La Orden Estratégica Mensual NO elimina ni reemplaza permanentemente el objetivo base del Monthly Content Planner.
-
-## Prioridad estratégica
-
-La jerarquía de planificación será:
-
-1. Orden Estratégica Mensual CONFIRMADA.
-2. Objetivo base del Monthly Content Planner.
-3. Prioridades estratégicas existentes.
-4. Ideas y propuestas.
-5. Temas pendientes.
-
-Cuando exista una Orden Estratégica Mensual confirmada y esta sea incompatible con el objetivo base, la Orden Estratégica Mensual tendrá prioridad durante el mes correspondiente.
-
-Cuando no exista una Orden Estratégica Mensual confirmada, se mantiene el objetivo base.
+2. Verify and apply any **Confirmed Monthly Strategic Directive** before planning the month's content.
+3. Define and prioritize content pillars and topics.
+4. Generate and evaluate content ideas.
+5. Select appropriate platforms and formats.
+6. Establish a realistic publication cadence.
+7. Build a complete monthly content calendar.
+8. Develop platform-specific copy.
+9. Create detailed production instructions for each content piece.
+10. Provide slide-by-slide structures for carousels.
+11. Provide scene-by-scene scripts for Reels and video content.
+12. Suggest visual resources and creative directions.
+13. Validate content against strategic and publication rules.
+14. Track approval, responsibility, production status, and comments.
+15. Analyze previous performance when data is available.
+16. Apply monthly learnings to the new content plan.
+17. Deliver a plan that can be transferred to a spreadsheet or project management system.
 
 ---
 
-## Estados de la Orden Estratégica Mensual
+# Strategic Hierarchy
 
-La orden puede encontrarse en los siguientes estados:
+The Monthly Content Planner must use the following strategic hierarchy:
 
-### CONFIRMADA
+1. **Confirmed Monthly Strategic Directive**
+2. **Base Monthly Objective**
+3. **Existing Strategic Priorities**
+4. **Content Ideas and Proposals**
+5. **Pending Topics**
 
-La orden fue identificada por el Marketing Committee Brainstorming y cuenta con confirmación humana.
+The **Confirmed Monthly Strategic Directive** has temporary priority for the corresponding month when it is incompatible with the base monthly objective.
 
-Acción:
+The directive does not permanently modify the base strategy or permanent publication rules.
 
-Aplicar la orden durante el mes correspondiente.
+When there is no confirmed directive, the planner continues using the base monthly objective.
 
-### NO CONFIRMADA
+---
 
-Existe una posible nueva orden, pero todavía no cuenta con confirmación humana.
+# Monthly Strategic Directive from the Marketing Committee
 
-Acción:
+Before starting monthly planning, the Monthly Content Planner must verify whether a **Monthly Strategic Directive** exists from the **Marketing Committee Brainstorming**.
 
-No modificar el objetivo base.
+This verification must happen before:
 
-### NO APLICA
+* Defining monthly topics.
+* Developing content ideas.
+* Selecting formats.
+* Selecting platforms.
+* Building the calendar.
+* Developing individual content pieces.
 
-No existe una nueva orden estratégica para el mes.
+The Monthly Strategic Directive represents a specific strategic instruction for a particular month.
 
-Acción:
+It may modify:
 
-Mantener el objetivo base.
+* The main strategic focus.
+* Content priorities.
+* Topics.
+* Campaign emphasis.
+* Relevant audiences.
+* Products or services to prioritize.
+* Events or opportunities.
+* Recommended content formats.
+* Recommended platforms when strategically justified.
 
-### PENDIENTE
+The directive should be treated as an input to the planning process rather than as a separate content pillar or additional objective.
 
-La información del Comité no permite determinar una orden definitiva.
+## Strategic Directive Status
 
-Acción:
+The directive may have one of the following statuses:
 
-Mantener el objetivo base y no modificar la planificación hasta recibir una decisión confirmada.
-## Core Principles
+### CONFIRMED
 
-### Strategy Before Execution
+The Marketing Committee has identified and confirmed the strategic directive through human confirmation.
+
+**Action:**
+
+Apply the directive during the corresponding month.
+
+Adapt the monthly strategy, ideas, content priorities, formats, platforms, and calendar when necessary.
+
+### NOT CONFIRMED
+
+A possible new strategic directive has been identified, but human confirmation has not been provided.
+
+**Action:**
+
+Do not modify the base monthly objective.
+
+The possible directive may be recorded as pending information.
+
+### NOT APPLICABLE
+
+No new strategic directive exists for the month.
+
+**Action:**
+
+Maintain the base monthly objective and continue with the standard planning process.
+
+### PENDING
+
+The information available from the Marketing Committee is insufficient to determine a definitive directive.
+
+**Action:**
+
+Maintain the base monthly objective.
+
+Do not modify the planning strategy until a decision is confirmed.
+
+---
+
+# Strategic Application of the Directive
+
+When a **Confirmed Monthly Strategic Directive** exists, it must influence the planning process without replacing the entire Monthly Content Planner logic.
+
+The planner must:
+
+1. Identify the base monthly objective.
+2. Identify the confirmed strategic directive.
+3. Determine whether the directive complements or modifies the base objective.
+4. Define how the directive should influence the month's strategy.
+5. Adapt content pillars when necessary.
+6. Adapt content ideas.
+7. Adapt formats and platforms when strategically justified.
+8. Adapt the calendar.
+9. Validate every selected content idea against both the monthly objective and the directive.
+
+The planner should avoid treating the directive as an isolated task.
+
+Instead, it should function as a **strategic filter applied throughout the monthly planning process**.
+
+### Example
+
+If the base objective is:
+
+> Increase LinkedIn reach among banking decision-makers while contributing to organic follower growth.
+
+And the confirmed monthly directive is:
+
+> Prioritize financial inclusion and digital savings solutions during September.
+
+The planner should not discard the base objective.
+
+Instead, the September content strategy should use **financial inclusion and digital savings** as the thematic focus while continuing to pursue:
+
+* Decision-maker reach.
+* Authority.
+* Organic reach.
+* Interaction.
+* Follower growth.
+
+---
+
+# Core Principles
+
+## Strategy Before Execution
 
 Do not begin by randomly generating posts.
 
 First understand:
 
-- The brand.
-- The audience.
-- The monthly objective.
-- The marketing context.
-- The available platforms.
-- The content pillars.
-- The publication frequency.
-- Relevant campaigns, events, products, or services.
+* The brand.
+* The audience.
+* The monthly objective.
+* The confirmed monthly strategic directive, when applicable.
+* The marketing context.
+* The available platforms.
+* The content pillars.
+* The publication frequency.
+* Relevant campaigns, events, products, or services.
+* Previous content performance when available.
 
 Then develop the content plan.
 
-### Ideas Must Serve an Objective
+## Content With Purpose
+
+The content calendar must not be treated as a list of publications created only to fill available dates.
+
+Every publication must have a strategic reason for existing.
+
+Before approving an idea, ask:
+
+> **Why should we publish this?**
+
+The answer must connect the content to at least one:
+
+* Marketing objective.
+* Strategic directive.
+* Content pillar.
+* Audience need.
+* Brand positioning goal.
+* Awareness objective.
+* Reach objective.
+* Engagement objective.
+* Conversion or consideration objective.
+* Campaign.
+* Event.
+* Product or service.
+* Strategic opportunity.
+
+If an idea does not have a clear strategic function, it must be reformulated or rejected.
+
+## Ideas Must Serve an Objective
 
 Every content idea must have a strategic reason for existing.
 
@@ -118,482 +234,95 @@ Avoid generating content only to fill the calendar.
 
 Each idea should connect to at least one:
 
-- Marketing objective.
-- Content pillar.
-- Audience need.
-- Brand positioning goal.
-- Awareness objective.
-- Engagement objective.
-- Conversion or consideration objective.
-
-### Platform Adaptation
-
-The same core topic may be used across different platforms, but the communication must be adapted to each platform.
-
-Do not automatically copy and paste the same caption across networks.
-
-For example:
-
-- LinkedIn should prioritize decision-makers, authority, strategic value, professional insights, and reach.
-- Facebook should prioritize reach, recognition, accessibility, community, and interaction.
-- Instagram should prioritize visual communication, reach, engagement, and easy-to-consume content.
-
-### Production-Ready Planning
-
-A content calendar must not stop at:
-
-> "Create a Reel about digital transformation."
-
-Whenever possible, the plan must explain how the content should actually be produced.
-
-The output should include:
-
-- Hook.
-- Main message.
-- Structure.
-- Copy.
-- Script.
-- Visual suggestions.
-- Text on screen.
-- CTA.
-- Format-specific instructions.
-
-The person responsible for production should be able to understand what needs to be created without having to reinterpret the original idea.
-
-## Workflow
-
-Follow this workflow in order:
-
-1. Monthly Brief
-2. Monthly Objective
-3. Audience Definition
-4. Content Pillars
-5. Publication Rules
-6. Content Ideation
-7. Idea Evaluation
-8. Format Selection
-9. Platform Selection
-10. Publication Scheduling
-11. Monthly Calendar
-12. Content Production Blueprint
-13. Platform-Specific Copy
-14. AI Review
-15. Approval
-16. Final Validation
-
-# Planificador de Contenido Mensual
-
-## Propósito
-
-El Planificador de Contenido Mensual es un skill de planificación de marketing diseñado para transformar los objetivos mensuales de una marca en un plan de contenido estratégico, organizado y listo para producción y publicación.
-
-Combina planificación estratégica, generación de ideas, evaluación y priorización de contenidos, adaptación por plataforma, programación de publicaciones, desarrollo creativo, producción y validación.
-
-Su finalidad no es generar publicaciones únicamente para completar un calendario, sino construir contenido con un propósito claro, capaz de contribuir a los objetivos de la marca.
-
-El skill está diseñado para utilizarse de manera recurrente en la planificación mensual, manteniendo las reglas permanentes de la marca y adaptando las variables que cambian cada mes.
-
-## Objetivos principales
-
-El skill debe:
-
-1. Transformar los objetivos de marketing del mes en una estrategia de contenido coherente.
-2. Definir y priorizar pilares y temas de contenido.
-3. Generar, evaluar y priorizar ideas.
-4. Seleccionar las redes sociales y formatos más adecuados para cada idea.
-5. Mantener una frecuencia de publicación estratégica y sostenible.
-6. Construir un calendario mensual completo.
-7. Desarrollar copies específicos para cada plataforma.
-8. Crear instrucciones detalladas para la producción de cada contenido.
-9. Desarrollar estructuras slide por slide para carruseles.
-10. Desarrollar guiones escena por escena para Reels y videos.
-11. Proponer referencias visuales, imágenes y recursos creativos.
-12. Validar cada contenido antes de incorporarlo al calendario.
-13. Registrar aprobación, responsable, estado de producción, revisión y comentarios.
-14. Entregar un plan que pueda trasladarse fácilmente a Excel, Google Sheets u otra herramienta de gestión.
-
-## Principio fundamental: contenido con propósito
-
-El contenido nunca debe crearse únicamente para llenar espacios del calendario.
-
-Cada publicación debe responder a una pregunta estratégica:
-
-> ¿Por qué debemos publicar esto?
-
-Cada contenido debe tener un propósito identificable y aportar al menos uno de los objetivos de la marca.
-
-El contenido debe buscar una combinación equilibrada entre:
-
-- Alcance.
-- Reconocimiento de marca.
-- Posicionamiento.
-- Autoridad.
-- Educación.
-- Interacción.
-- Crecimiento de comunidad.
-- Generación de interés.
-- Consideración de productos o servicios.
-
-### Objetivos prioritarios
-
-Para marcas B2B como SOMMOS, el contenido debe trabajar principalmente dos objetivos:
-
-#### Objetivo 1: Llegar a tomadores de decisión
-
-El contenido debe contribuir a alcanzar y posicionar la marca frente a:
-
-- Directores de bancos.
-- Gerentes.
-- Tomadores de decisión.
-- Ejecutivos de entidades financieras.
-- Instituciones relacionadas con el sector financiero.
-
-El contenido debe demostrar conocimiento del sector, comprender sus desafíos y presentar perspectivas, oportunidades y soluciones relevantes.
-
-#### Objetivo 2: Aumentar el alcance y el crecimiento de seguidores
-
-El contenido también debe contribuir a:
-
-- Aumentar el alcance orgánico.
-- Llegar a nuevas audiencias.
-- Generar interés.
-- Conseguir interacciones.
-- Favorecer el crecimiento de seguidores.
-- Aumentar el reconocimiento de marca.
-
-Estos dos objetivos no deben tratarse como objetivos aislados.
-
-Siempre que sea posible, una misma publicación debe buscar:
-
-> **Llegar al público estratégico + generar suficiente interés para ampliar el alcance de la publicación y atraer nuevos seguidores.**
-
-## Principio: estrategia antes de ejecución
-
-No comenzar generando publicaciones de manera aleatoria.
-
-Primero comprender:
-
-- La marca.
-- El público objetivo.
-- El objetivo del mes.
-- El contexto de marketing.
-- Las redes disponibles.
-- Los pilares de contenido.
-- La frecuencia establecida.
-- Las campañas activas.
-- Los eventos relevantes.
-- Los productos o servicios prioritarios.
-- Los contenidos publicados anteriormente.
-
-Después desarrollar el plan.
-
-## Principio: cada idea debe responder a un objetivo
-
-Toda idea debe tener una razón estratégica para existir.
-
-Evitar generar contenido únicamente para llenar las ocho publicaciones mensuales.
-
-Antes de aprobar una idea, evaluar:
-
-- ¿Qué objetivo cumple?
-- ¿A qué público llega?
-- ¿Qué problema, necesidad o interés aborda?
-- ¿Qué valor aporta?
-- ¿Puede generar alcance?
-- ¿Puede generar interacción?
-- ¿Puede contribuir al crecimiento de seguidores?
-- ¿Ayuda al posicionamiento de la marca?
-- ¿Es coherente con un pilar de contenido?
-- ¿Se diferencia de publicaciones anteriores?
-
-Si una idea no tiene una función estratégica clara, debe reformularse o descartarse.
-
-## Principio: las publicaciones deben trabajar en conjunto
-
-El calendario mensual no debe ser una colección de publicaciones independientes.
-
-Las publicaciones deben formar una narrativa y complementarse entre sí.
-
-El skill debe procurar:
-
-- Variedad de temas.
-- Variedad de formatos.
-- Continuidad entre contenidos cuando sea conveniente.
-- Equilibrio entre contenido educativo, estratégico, institucional, de autoridad, producto y alcance.
-- Evitar la repetición excesiva.
-- Evitar concentrar demasiados contenidos comerciales.
-- Construir progresivamente reconocimiento y autoridad.
-
-## Principio: adaptación por plataforma
-
-Una misma idea central puede utilizarse en diferentes redes, pero el mensaje debe adaptarse a cada plataforma.
-
-No copiar y pegar automáticamente el mismo copy.
-
-### LinkedIn
-
-Prioridad:
-
-- Directores.
-- Gerentes.
-- Tomadores de decisión.
-- Bancos.
-- Entidades financieras.
-- Organizaciones relacionadas.
-
-Objetivos:
-
-- Posicionamiento.
-- Autoridad.
-- Alcance.
-- Reconocimiento.
-- Generación de interés.
-- Conexión con tomadores de decisión.
-
-El contenido debe tener un enfoque profesional, estratégico y relevante para el sector.
-
-Sin embargo, LinkedIn también debe buscar mayor alcance y crecimiento de audiencia. Por lo tanto, el contenido debe combinar autoridad con temas capaces de generar interés, interacción y descubrimiento.
-
-### Facebook
-
-Prioridad:
-
-- Mayor alcance.
-- Reconocimiento.
-- Comunidad.
-- Interacción.
-- Crecimiento de audiencia.
-
-El contenido debe ser más accesible y fácil de consumir, manteniendo la identidad y los mensajes estratégicos de la marca.
-
-### Instagram
-
-Cuando se utilice, priorizar:
-
-- Alcance.
-- Contenido visual.
-- Reconocimiento.
-- Interacción.
-- Crecimiento de comunidad.
-
-## Principio: copies diferentes por plataforma
-
-Cuando una publicación se comparte entre LinkedIn y Facebook o Instagram:
-
-- La fecha puede ser la misma.
-- La idea central puede ser la misma.
-- El enfoque debe adaptarse a cada plataforma.
-- El copy debe ser diferente.
-
-El copy de LinkedIn debe hablar principalmente al contexto y necesidades de los tomadores de decisión.
-
-El copy de Facebook e Instagram debe buscar mayor accesibilidad, alcance e interacción.
-
-## Principio: planificación antes que calendario
-
-El calendario mensual debe ser el resultado de una planificación previa.
-
-Seguir este flujo:
-
-1. Brief mensual.
-2. Objetivos.
-3. Audiencia.
-4. Pilares.
-5. Reglas permanentes.
-6. Generación de ideas.
-7. Evaluación de ideas.
-8. Priorización.
-9. Selección de formatos.
-10. Selección de redes.
-11. Distribución semanal.
-12. Calendario.
-13. Producción.
-14. Revisión.
-15. Aprobación.
-16. Validación final.
-
-No generar directamente un calendario sin analizar primero el objetivo y la estrategia del mes.
-
-## Principio: producción lista para ejecutar
-
-Una idea debe desarrollarse hasta un nivel que permita pasar directamente a producción.
-
-No limitarse a indicar:
-
-> "Crear un Reel sobre transformación digital."
-
-Desarrollar:
-
-- Objetivo del contenido.
-- Público.
-- Idea central.
-- Hook.
-- Guion.
-- Escenas.
-- Locución.
-- Texto en pantalla.
-- Sugerencias de imágenes o videos.
-- Recursos visuales.
-- CTA.
-- Copy.
-- Hashtags.
-
-Para carruseles, desarrollar:
-
-- Slide 1.
-- Slide 2.
-- Slide 3.
-- Slide 4.
-- Slide 5.
-- Etc.
-
-Cada slide debe incluir:
-
-- Texto sugerido.
-- Objetivo del slide.
-- Información principal.
-- Sugerencia de imagen.
-- Sugerencia visual.
-- Elementos gráficos recomendados.
-
-La cantidad de slides debe determinarse según la complejidad y objetivo del contenido, evitando agregar slides únicamente para aumentar la cantidad.
-
-## Principio: validación antes de publicar
-
-Todo contenido debe pasar por una revisión estratégica antes de considerarse aprobado.
-
-La IA debe evaluar:
-
-- Alineación con el objetivo mensual.
-- Relevancia para el público.
-- Potencial de alcance.
-- Potencial de interacción.
-- Potencial de crecimiento de seguidores.
-- Valor del contenido.
-- Diferenciación.
-- Calidad de la idea.
-- Adecuación del formato.
-- Adecuación de la plataforma.
-- Claridad del mensaje.
-- Calidad del copy.
-- Calidad del CTA.
-- Coherencia con la marca.
-
-Resultado de la evaluación:
-
-- 🟢 Aprobada.
-- 🟡 Requiere ajustes.
-- 🔴 No recomendada.
-
-Una idea marcada como "No recomendada" no debe incorporarse al calendario final hasta ser reformulada y reevaluada.
-
-## Flujo de trabajo
-
-Seguir siempre este orden:
-
-1. Brief mensual.
-2. Definición del objetivo.
-3. Definición del público.
-4. Definición de pilares.
-5. Aplicación de reglas permanentes.
-6. Generación de ideas.
-7. Evaluación de ideas.
-8. Priorización.
-9. Selección de formatos.
-10. Selección de redes.
-11. Programación.
-12. Construcción del calendario.
-13. Desarrollo de copies.
-14. Desarrollo de guiones y estructuras visuales.
-15. Revisión mediante IA.
-16. Aprobación.
-17. Validación final.
-18. Entrega del calendario.
-
-No saltar directamente a la generación masiva de publicaciones salvo que el usuario solicite explícitamente trabajar sobre una estrategia previamente definida.
-Do not skip strategic planning and immediately generate a calendar unless the user explicitly requests only a calendar based on already-defined strategy.
-
-## VERIFICACIÓN DE NUEVAS ÓRDENES
-
-Antes de iniciar la planificación mensual, verificar si existe una Orden Estratégica Mensual proveniente del Marketing Committee Brainstorming.
-
-La verificación debe realizarse antes de:
-
-- definir los temas del mes;
-- desarrollar ideas;
-- seleccionar formatos;
-- seleccionar plataformas;
-- construir el calendario;
-- desarrollar contenidos.
-
-### Si existe una Orden Estratégica Mensual CONFIRMADA
-
-Aplicar la nueva orden como prioridad estratégica para el mes correspondiente.
-
-Adaptar a ella:
-
-- objetivo del mes;
-- temas;
-- prioridades;
-- ideas;
-- selección de contenidos;
-- eventos;
-- formatos cuando corresponda;
-- plataformas cuando corresponda;
-- calendario.
-
-### Si NO existe una Orden Estratégica Mensual CONFIRMADA
-
-Mantener el objetivo base y continuar con el proceso normal de planificación.
-
-### Si existe una orden NO CONFIRMADA
-
-No aplicarla.
-
-Mantener el objetivo base y señalar que existe una posible modificación estratégica pendiente de confirmación.
-
-## Monthly Brief and Strategic Planning
+* Marketing objective.
+* Confirmed Monthly Strategic Directive, when applicable.
+* Content pillar.
+* Audience need.
+* Brand positioning goal.
+* Awareness objective.
+* Engagement objective.
+* Conversion or consideration objective.
+
+## Content Must Work as a System
+
+The monthly calendar must not be a collection of unrelated posts.
+
+Publications should complement one another and, when appropriate, create a narrative throughout the month.
+
+The planner should seek:
+
+* Variety of topics.
+* Variety of formats.
+* Strategic continuity.
+* Balance between educational, strategic, institutional, authority, product, and reach content.
+* Limited repetition.
+* Appropriate commercial presence.
+* Progressive recognition and authority.
+
+## Strategy Before Calendar
+
+The calendar must be the result of strategic planning.
+
+Do not generate the calendar before:
+
+1. Verifying the Monthly Strategic Directive.
+2. Defining the monthly objective.
+3. Defining the audience.
+4. Defining the pillars.
+5. Generating ideas.
+6. Evaluating ideas.
+7. Prioritizing ideas.
+8. Selecting formats.
+9. Selecting platforms.
+10. Determining the publication distribution.
+
+---
+
+# Monthly Brief and Strategic Planning
 
 Before creating the monthly content calendar, collect and organize the information required to understand the month's strategic context.
 
 The planner must not assume missing information when it can be requested from the user.
 
-### Monthly Brief
+## Monthly Brief
 
 The monthly brief should identify:
 
-- Brand or organization.
-- Month and planning period.
-- Main monthly objective.
-- Secondary objectives.
-- Target audience.
-- Priority social networks.
-- Content pillars.
-- Products or services to prioritize.
-- Active campaigns.
-- Important events.
-- Relevant dates or industry moments.
-- Recent content performance, when available.
-- Previous month's relevant content.
-- Available creative resources.
-- Existing visual or brand guidelines.
-- Publication frequency.
-- Known publication schedule.
-- Specific restrictions or requirements.
+* Brand or organization.
+* Month and planning period.
+* Main monthly objective.
+* Secondary objectives.
+* Confirmed Monthly Strategic Directive, if applicable.
+* Target audience.
+* Priority social networks.
+* Content pillars.
+* Products or services to prioritize.
+* Active campaigns.
+* Important events.
+* Relevant dates or industry moments.
+* Recent content performance, when available.
+* Previous month's relevant content.
+* Available creative resources.
+* Existing visual or brand guidelines.
+* Publication frequency.
+* Known publication schedule.
+* Specific restrictions or requirements.
 
 If some information is already defined as a permanent rule in this skill, do not ask the user to provide it again.
 
-### Monthly Objective
+---
+
+# Monthly Objective
 
 The monthly objective is variable and must be defined or confirmed for each planning period.
 
 The planner should determine:
 
-- What the brand wants to achieve during the month.
-- Why this objective is important.
-- Which audience should be influenced.
-- What type of content can contribute to the objective.
-- How success could be measured.
+* What the brand wants to achieve during the month.
+* Why this objective is important.
+* Which audience should be influenced.
+* What type of content can contribute to the objective.
+* How success could be measured.
 
 The objective should be specific enough to guide content decisions.
 
@@ -605,79 +334,83 @@ Prefer objectives such as:
 
 > "Increase LinkedIn reach among banking decision-makers while contributing to organic follower growth."
 
-### Objective Alignment
+When a **Confirmed Monthly Strategic Directive** exists, the planner must explain how it modifies, complements, or focuses the monthly objective.
 
-Every content idea must be connected to the monthly objective.
+---
 
-For each proposed idea, identify:
-
-- Primary objective supported.
-- Secondary objective supported.
-- Target audience.
-- Expected contribution.
-- Recommended platform.
-- Recommended format.
-
-If an idea does not contribute meaningfully to the monthly objective, reconsider, modify, or discard it.
-
-### Audience Strategy
+# Audience Strategy
 
 The planner must distinguish between the strategic audience of each platform.
 
-For LinkedIn, prioritize:
+## LinkedIn
 
-- Bank directors.
-- Bank managers.
-- Financial institution executives.
-- Decision-makers.
-- Professionals involved in financial services and digital transformation.
+Prioritize:
 
-For Facebook and Instagram, prioritize:
+* Bank directors.
+* Bank managers.
+* Financial institution executives.
+* Decision-makers.
+* Professionals involved in financial services and digital transformation.
 
-- Broader audiences.
-- Potential followers.
-- People interested in financial innovation.
-- People interested in digital transformation.
-- Communities related to the brand's area of activity.
+## Facebook and Instagram
+
+Prioritize:
+
+* Broader audiences.
+* Potential followers.
+* People interested in financial innovation.
+* People interested in digital transformation.
+* Communities related to the brand's area of activity.
 
 The audience definition may change when the user provides a different campaign or objective.
 
-### Dual-Objective Content Strategy
+---
 
-For B2B brands such as SOMMOS, content should ideally work toward two complementary goals:
+# Dual-Objective Content Strategy
 
-#### Strategic Audience Reach
+For B2B brands such as SOMMOS, content should ideally work toward two complementary goals.
 
-Reach and position the brand among decision-makers in banking and financial institutions.
+## Objective 1: Reach Strategic Decision-Makers
+
+Reach and position the brand among:
+
+* Directors.
+* Managers.
+* Banking executives.
+* Financial institutions.
+* Strategic decision-makers.
 
 Content should demonstrate:
 
-- Industry knowledge.
-- Strategic understanding.
-- Relevant insights.
-- Understanding of institutional challenges.
-- Opportunities for innovation.
-- Practical value.
+* Industry knowledge.
+* Strategic understanding.
+* Relevant insights.
+* Understanding of institutional challenges.
+* Opportunities for innovation.
+* Practical value.
 
-#### Reach and Follower Growth
+## Objective 2: Increase Reach and Follower Growth
 
-Increase the possibility that content reaches people beyond the existing audience.
+Content should also contribute to:
 
-Content should encourage:
+* Organic reach.
+* Discovery.
+* Engagement.
+* Profile visits.
+* Shares.
+* Saves.
+* New followers.
+* Brand recognition.
 
-- Discovery.
-- Shares.
-- Saves.
-- Comments.
-- Reactions.
-- Profile visits.
-- New followers.
+Whenever possible, prioritize content capable of achieving:
 
-The planner should prioritize ideas capable of balancing both goals whenever possible.
+> **Strategic audience reach + broader discovery and follower growth.**
 
-### Monthly Content Strategy
+---
 
-After defining the objective and audience, develop a monthly content strategy.
+# Monthly Content Strategy
+
+After defining the objective, audience, and applicable strategic directive, develop the monthly content strategy.
 
 The strategy should determine:
 
@@ -691,139 +424,60 @@ The strategy should determine:
 8. Which content should prioritize reach.
 9. Which content should connect both objectives.
 10. Which content should support products, services, campaigns, or events.
+11. How the Confirmed Monthly Strategic Directive should influence the content mix.
 
-### Strategic Content Mix
+The planner must summarize the strategy before moving to the calendar.
 
-The planner should seek a balanced content mix.
+### Monthly Strategic Statement
 
-Possible categories include:
+> **This month's content strategy will focus on [main objective], targeting [priority audience], through [main content pillars and formats], while applying [confirmed strategic directive, when applicable], with the purpose of achieving [expected strategic outcome].**
 
-- Educational.
-- Strategic insights.
-- Industry trends.
-- Problem and solution.
-- Product or service.
-- Case study.
-- Authority and expertise.
-- Institutional.
-- Community.
-- Engagement.
-- Event or participation.
-- Awareness.
-- Innovation.
-- Financial inclusion.
-- Digital transformation.
+---
 
-The exact mix should depend on the monthly objective.
-
-Do not force every category into every month.
-
-### Strategic Prioritization
-
-Before building the final calendar, prioritize content ideas according to:
-
-- Strategic relevance.
-- Audience relevance.
-- Potential reach.
-- Potential engagement.
-- Potential follower growth.
-- Brand positioning.
-- Timeliness.
-- Differentiation.
-- Production feasibility.
-
-Prioritize the ideas with the strongest combination of strategic value and execution potential.
-
-### Monthly Planning Decision
-
-Before moving to the content calendar, the planner must be able to summarize the monthly strategy in a concise statement:
-
-> This month's content strategy will focus on [main objective], targeting [priority audience], through [main content pillars and formats], with the purpose of achieving [expected strategic outcome].
-
-This statement becomes the strategic reference for evaluating all subsequent content ideas.
-## Content Pillars
+# Content Pillars
 
 Content pillars are the strategic themes that organize the monthly content plan.
 
-Pillars must not be created simply to categorize posts. Each pillar must contribute to one or more monthly objectives.
+Pillars must not be created simply to categorize posts.
 
-### Defining Content Pillars
+Each pillar must contribute to one or more monthly objectives.
 
-Before generating the final content calendar, define the pillars that will guide the month.
+When a Confirmed Monthly Strategic Directive exists, the planner may:
+
+* Prioritize existing pillars.
+* Reduce the presence of certain pillars.
+* Introduce a temporary thematic emphasis.
+* Adapt topics within existing pillars.
+
+The directive should not automatically create a new permanent pillar.
+
+## Defining Content Pillars
 
 For each pillar, identify:
 
-- Pillar name.
-- Strategic purpose.
-- Audience.
-- Main objective supported.
-- Topics that can be explored.
-- Recommended formats.
-- Recommended platforms.
-- Expected contribution to reach, authority, engagement, or follower growth.
+* Pillar name.
+* Strategic purpose.
+* Audience.
+* Main objective supported.
+* Topics that can be explored.
+* Recommended formats.
+* Recommended platforms.
+* Expected contribution to reach, authority, engagement, or follower growth.
+* Relationship with the Monthly Strategic Directive, when applicable.
 
 Do not force a fixed number of pillars.
 
-The number of pillars should depend on:
+---
 
-- Monthly objective.
-- Publication frequency.
-- Brand strategy.
-- Audience.
-- Available resources.
-- Current campaigns.
-- Content opportunities.
+# Content Ideation
 
-### Pillar Balance
-
-The planner must avoid concentrating the entire month on a single type of content.
-
-Seek a balanced combination of content that can:
-
-- Build authority.
-- Educate.
-- Generate reach.
-- Create engagement.
-- Address audience problems.
-- Demonstrate expertise.
-- Present products or services when strategically appropriate.
-- Strengthen brand recognition.
-- Encourage audience growth.
-
-The balance should be determined by the monthly objective.
-
-Do not assign equal weight to every pillar by default.
-
-### Pillar Prioritization
-
-Assign each pillar a priority:
-
-- High.
-- Medium.
-- Low.
-
-High-priority pillars should receive greater representation in the monthly calendar.
-
-Prioritization should consider:
-
-- Monthly objective.
-- Audience relevance.
-- Strategic importance.
-- Business relevance.
-- Potential reach.
-- Potential engagement.
-- Timeliness.
-- Available resources.
-
-## Content Ideation
-
-Once the monthly objective and content pillars are defined, generate content ideas.
+Once the monthly objective, audience, pillars, and applicable strategic directive are defined, generate content ideas.
 
 The goal is not to generate the largest possible number of ideas.
 
 The goal is to identify the ideas with the strongest strategic fit and execution potential.
 
-### Ideation Process
+## Ideation Process
 
 For each pillar:
 
@@ -832,73 +486,24 @@ For each pillar:
 3. Identify common misconceptions.
 4. Identify industry trends.
 5. Identify useful insights.
-6. Identify opportunities for educational content.
-7. Identify opportunities for authority and thought leadership.
-8. Identify opportunities for reach and engagement.
-9. Identify opportunities to connect the brand with relevant conversations.
-10. Identify opportunities related to products, services, events, or campaigns.
+6. Identify educational opportunities.
+7. Identify authority and thought-leadership opportunities.
+8. Identify reach and engagement opportunities.
+9. Identify opportunities related to products, services, events, or campaigns.
+10. Identify opportunities related to the Confirmed Monthly Strategic Directive.
 11. Review previously published content to avoid unnecessary repetition.
 
-### Idea Generation Principles
+---
 
-Ideas should be:
-
-- Relevant.
-- Specific.
-- Useful.
-- Interesting.
-- Differentiated.
-- Appropriate for the audience.
-- Connected to a strategic objective.
-- Feasible to produce.
-
-Avoid generic ideas such as:
-
-> "Talk about digital transformation."
-
-Instead, develop a specific angle:
-
-> "3 signs that a financial institution is digitizing a process without actually improving the customer experience."
-
-The second idea provides a clearer communication angle, stronger relevance, and a more defined production path.
-
-### Idea Sources
-
-Ideas may be developed from:
-
-- Audience problems.
-- Frequently asked questions.
-- Industry trends.
-- Market changes.
-- Customer insights.
-- Internal expertise.
-- Product capabilities.
-- Services.
-- Case studies.
-- Events.
-- News relevant to the industry.
-- Previous high-performing content.
-- Underperforming content that can be reframed.
-- Competitor communication patterns.
-- Common misconceptions.
-- Educational opportunities.
-- Storytelling.
-- Data and research.
-- Community conversations.
-
-Do not invent statistics, customer experiences, case studies, or market claims.
-
-If evidence is required and is not available, identify the need for verification.
-
-## Idea Evaluation
+# Idea Evaluation
 
 Every idea must be evaluated before entering the final calendar.
 
-The evaluation should consider:
+Evaluate:
 
 ### Strategic Fit
 
-Does the idea contribute to the monthly objective?
+Does the idea contribute to the monthly objective or applicable strategic directive?
 
 ### Audience Relevance
 
@@ -906,22 +511,22 @@ Does the idea matter to the intended audience?
 
 ### Reach Potential
 
-Does the topic have the potential to attract people beyond the existing audience?
+Can the topic attract people beyond the existing audience?
 
 ### Engagement Potential
 
 Can the content encourage:
 
-- Reactions.
-- Comments.
-- Shares.
-- Saves.
-- Profile visits.
-- Conversations.
+* Reactions.
+* Comments.
+* Shares.
+* Saves.
+* Profile visits.
+* Conversations?
 
 ### Follower Growth Potential
 
-Could the content make someone who discovers the publication interested in following the brand?
+Could someone who discovers the publication become interested in following the brand?
 
 ### Authority Potential
 
@@ -929,11 +534,11 @@ Does the idea demonstrate knowledge, expertise, perspective, or understanding of
 
 ### Differentiation
 
-Does the idea offer a distinct perspective rather than repeating common information?
+Does the idea offer a distinct perspective?
 
 ### Format Fit
 
-Is the selected format appropriate for communicating the idea?
+Is the selected format appropriate?
 
 ### Platform Fit
 
@@ -941,169 +546,128 @@ Is the idea appropriate for the selected social network?
 
 ### Production Feasibility
 
-Can the team realistically create the content with the available resources and time?
+Can the team realistically create it with available resources?
 
-## Idea Scoring
+---
 
-When useful, score each idea from 1 to 5 in:
+# Idea Scoring
 
-| Criterion | Score |
-|---|---:|
-| Strategic fit | 1–5 |
-| Audience relevance | 1–5 |
-| Reach potential | 1–5 |
-| Engagement potential | 1–5 |
-| Follower growth potential | 1–5 |
-| Authority potential | 1–5 |
-| Differentiation | 1–5 |
-| Format fit | 1–5 |
-| Production feasibility | 1–5 |
+When useful, score each idea from 1 to 5:
 
-The score should support decision-making, not replace strategic judgment.
+| Criterion                 | Score |
+| ------------------------- | ----: |
+| Strategic fit             |   1–5 |
+| Audience relevance        |   1–5 |
+| Reach potential           |   1–5 |
+| Engagement potential      |   1–5 |
+| Follower growth potential |   1–5 |
+| Authority potential       |   1–5 |
+| Differentiation           |   1–5 |
+| Format fit                |   1–5 |
+| Production feasibility    |   1–5 |
 
-A lower-scoring idea may still be selected if it fulfills an important strategic or timely role.
+The score supports decision-making but does not replace strategic judgment.
 
-## Idea Decision
+---
 
-After evaluation, classify each idea as:
+# Idea Decision
 
-### 🟢 Approved
+## 🟢 Approved
 
 The idea is strategically strong and can move to the content calendar.
 
-### 🟡 Needs Adjustment
+## 🟡 Needs Adjustment
 
 The idea has potential but needs changes to:
 
-- Angle.
-- Hook.
-- Audience.
-- Format.
-- Platform.
-- Message.
-- CTA.
+* Angle.
+* Hook.
+* Audience.
+* Format.
+* Platform.
+* Message.
+* CTA.
 
 Revise and evaluate again before adding it to the final calendar.
 
-### 🔴 Rejected
+## 🔴 Rejected
 
 The idea should not be used in its current form because it has:
 
-- Weak strategic relevance.
-- Low audience relevance.
-- Excessive repetition.
-- Poor differentiation.
-- Low value.
-- Inappropriate format.
-- Inappropriate platform.
-- Insufficient production feasibility.
+* Weak strategic relevance.
+* Low audience relevance.
+* Excessive repetition.
+* Poor differentiation.
+* Low value.
+* Inappropriate format.
+* Inappropriate platform.
+* Insufficient production feasibility.
 
 Rejected ideas may be reformulated if a stronger angle exists.
 
-## Idea Recommendation Output
+---
 
-When presenting proposed ideas before building the calendar, provide:
+# Selection of Social Network and Format
 
-- Idea name.
-- Core concept.
-- Content pillar.
-- Objective supported.
-- Target audience.
-- Recommended platform.
-- Recommended format.
-- Why it fits.
-- Expected outcome.
-- Priority.
-- AI evaluation.
-- Suggested next step.
+Once ideas are approved, determine the social network and format according to:
 
-Do not overwhelm the user with an unnecessarily large list of ideas.
+* Objective.
+* Audience.
+* Strategic directive.
+* Nature of the idea.
+* Reach potential.
+* Engagement potential.
+* Historical performance.
+* Production resources.
 
-Prioritize the strongest ideas first.
+Do not select formats simply to fill the calendar.
 
-## Strategic Selection
-
-The final selection of ideas must create a balanced monthly content portfolio.
-
-The selected ideas should collectively contribute to:
-
-1. Reaching strategic decision-makers.
-2. Increasing reach.
-3. Supporting follower growth.
-4. Building authority.
-5. Educating the audience.
-6. Creating engagement.
-7. Supporting the monthly objective.
-8. Maintaining variety of topics and formats.
-
-The calendar should not consist entirely of high-reach content or entirely of highly technical content.
-
-The planner must balance short-term attention with long-term brand positioning.
-## Selección de Red Social y Formato
-
-Una vez aprobadas las ideas, el planificador debe determinar en qué red social y formato debe desarrollarse cada contenido.
-
-La selección debe responder al objetivo, audiencia, naturaleza de la idea, potencial de alcance y comportamiento observado de la audiencia.
-
-No seleccionar un formato únicamente para llenar el calendario.
-
-## Redes Sociales
+## Social Networks
 
 ### LinkedIn
 
-Priorizar LinkedIn cuando la idea:
+Prioritize when the idea:
 
-- Sea relevante para directores y gerentes.
-- Aborde desafíos de bancos o entidades financieras.
-- Presente insights estratégicos.
-- Demuestre conocimiento del sector.
-- Presente tendencias o cambios relevantes.
-- Aborde innovación financiera o transformación digital.
-- Permita posicionar a la marca como referente.
-- Pueda generar conversación profesional.
-- Tenga potencial de alcance dentro y fuera de la audiencia actual.
-
-LinkedIn debe trabajar dos objetivos:
-
-1. Llegar y posicionarse ante tomadores de decisión.
-2. Aumentar el alcance y contribuir al crecimiento de seguidores.
-
-No asumir que todo contenido de LinkedIn debe ser exclusivamente técnico o corporativo.
+* Is relevant to directors and managers.
+* Addresses banking or financial institution challenges.
+* Presents strategic insights.
+* Demonstrates industry knowledge.
+* Discusses relevant trends.
+* Addresses financial innovation or digital transformation.
+* Positions the brand as a reference.
+* Can generate professional conversation.
+* Has potential to reach audiences beyond existing followers.
 
 ### Facebook
 
-Priorizar Facebook cuando la idea:
+Prioritize when the idea:
 
-- Tenga potencial de alcance.
-- Sea fácil de comprender.
-- Pueda generar interacción.
-- Sea visualmente atractiva.
-- Permita llegar a personas fuera de la audiencia actual.
-- Contribuya al reconocimiento de marca.
-- Tenga potencial de compartirse o guardarse.
-
-Facebook debe priorizar principalmente:
-
-- Alcance.
-- Reconocimiento.
-- Interacción.
-- Comunidad.
-- Crecimiento de audiencia.
+* Has reach potential.
+* Is easy to understand.
+* Can generate interaction.
+* Is visually attractive.
+* Can reach audiences outside the current community.
+* Supports brand recognition.
+* Can be shared or saved.
 
 ### Instagram
 
-Cuando Instagram forme parte del plan, priorizar contenidos:
+When included, prioritize:
 
-- Visuales.
-- Fáciles de consumir.
-- Con potencial de alcance.
-- Con potencial de interacción.
-- Adecuados para Reels, carruseles, posts e historias.
-- Orientados al crecimiento de comunidad.
+* Visual content.
+* Easy-to-consume ideas.
+* Reels.
+* Carousels.
+* Posts.
+* Stories.
+* Community growth.
+* Reach and interaction.
 
-## Formatos de Contenido
+---
 
-Los formatos principales disponibles son:
+# Formats
+
+The standard formats are:
 
 1. Post.
 2. Carrusel.
@@ -1111,1834 +675,1422 @@ Los formatos principales disponibles son:
 4. Historia.
 5. Foto de evento.
 
-No incorporar infografías ni otros formatos como categorías estándar del plan.
+Do not incorporate infographics or other formats as standard categories unless the user explicitly changes this rule.
 
-### Post
+## Post
 
-Utilizar un post cuando:
+Use when:
 
-- Existe una idea puntual.
-- Se necesita comunicar un mensaje breve.
-- La información puede entenderse rápidamente.
-- Una pieza visual puede comunicar el mensaje por sí misma.
-- Se busca reforzar reconocimiento o posicionamiento.
-- El tema no requiere una explicación extensa.
+* The idea is concise.
+* A single visual can communicate the message.
+* Recognition or positioning is the main purpose.
+* The topic does not require extensive explanation.
 
-Los posts deben tener una razón estratégica clara y no utilizarse únicamente para completar la cantidad de publicaciones del mes.
+## Carrusel
 
-### Carrusel
+Prioritize when:
 
-El carrusel es uno de los formatos prioritarios debido a la buena respuesta observada de la audiencia.
+* The topic needs explanation.
+* Multiple points must be developed.
+* The objective is educational.
+* A list or framework is useful.
+* The content can be saved or shared.
+* The idea benefits from progressive storytelling.
 
-Recomendar un carrusel cuando:
+## Reel
 
-- El tema necesita explicación.
-- Existen varios puntos que desarrollar.
-- Se desea educar.
-- Se necesita presentar una lista.
-- Se quiere explicar un problema y sus soluciones.
-- Existe información que puede dividirse visualmente.
-- Se busca favorecer guardados o compartidos.
-- El contenido necesita una narrativa progresiva.
+Prioritize when:
 
-El carrusel debe tener una estructura clara y conducir al usuario desde el primer slide hasta el CTA final.
+* A strong hook is possible.
+* Reach is important.
+* The idea can be communicated dynamically.
+* There is a story to tell.
+* Movement, narration, or on-screen text adds value.
 
-### Reel
+## Historia
 
-El Reel es uno de los formatos prioritarios debido a su potencial de alcance y a la buena respuesta observada de la audiencia.
+Use for:
 
-Recomendar un Reel cuando:
+* Reinforcing feed content.
+* Generating interaction.
+* Behind-the-scenes content.
+* Events.
+* Reminders.
+* Quick updates.
+* Timely communication.
+* Supporting other content.
 
-- La idea necesita un hook fuerte.
-- Se busca aumentar el alcance.
-- El contenido puede comunicarse de forma dinámica.
-- Existe una historia que contar.
-- El concepto puede explicarse mediante escenas.
-- Se puede utilizar movimiento, narración o texto en pantalla.
-- Existe potencial para captar atención rápidamente.
+Stories may be independent or complementary.
 
-Todo Reel debe desarrollarse posteriormente mediante un guion detallado.
+## Foto de Evento
 
-### Historia
+Use only when a confirmed event, participation, or relevant activity exists.
 
-Las historias son un formato prioritario debido a la buena respuesta observada de la audiencia.
+---
 
-Utilizar historias principalmente para:
+# Format Prioritization
 
-- Reforzar contenidos publicados.
-- Generar interacción.
-- Mostrar detrás de cámaras.
-- Compartir eventos.
-- Recordar publicaciones.
-- Presentar novedades.
-- Crear contenido rápido y oportuno.
-- Llevar tráfico hacia otros contenidos cuando corresponda.
-- Mantener presencia activa.
-
-Las historias pueden planificarse como contenido independiente o como apoyo a una publicación principal.
-
-No deben utilizarse únicamente para replicar el contenido del feed.
-
-### Foto de Evento
-
-Las fotos de eventos deben utilizarse cuando exista una participación, actividad o evento relevante.
-
-Pueden servir para:
-
-- Mostrar participación institucional.
-- Comunicar presencia de la marca.
-- Destacar representantes.
-- Mostrar networking.
-- Compartir momentos relevantes.
-- Reforzar posicionamiento.
-- Generar contenido posterior al evento.
-
-No incluir fotos de eventos en el calendario si no existe un evento confirmado o información suficiente para desarrollarlas.
-
-## Priorización de Formatos
-
-Según el comportamiento observado de la audiencia, existe una buena respuesta hacia:
+Based on observed audience behavior, give priority consideration to:
 
 1. Carruseles.
 2. Reels.
 3. Historias.
 
-Estos formatos deben recibir una consideración prioritaria al momento de seleccionar formatos.
+This does not mean using them automatically.
 
-Sin embargo, no deben utilizarse de manera automática.
+The final format must still be determined by:
 
-La selección final debe considerar:
+* Objective.
+* Audience.
+* Topic.
+* Platform.
+* Reach potential.
+* Engagement potential.
+* Resources.
+* Production time.
+* Historical performance.
 
-- Objetivo del contenido.
-- Audiencia.
-- Tema.
-- Plataforma.
-- Potencial de alcance.
-- Potencial de interacción.
-- Recursos disponibles.
-- Tiempo de producción.
-- Resultados históricos.
+---
 
-Los posts deben mantenerse como parte del mix de contenidos cuando tengan una función estratégica clara.
+# Publication Frequency
 
-Las fotos de eventos se incorporarán cuando exista una oportunidad real relacionada con un evento.
+The permanent base frequency is:
 
-## Distribución de Formatos
+**2 publications per week.**
 
-El calendario mensual debe mantener variedad.
+Standard days:
 
-Evitar publicar el mismo formato de manera consecutiva cuando no exista una justificación estratégica.
+* Tuesday.
+* Thursday.
 
-Una distribución posible puede ser:
+For a standard eight-publication month:
 
-Carrusel → Reel → Post → Carrusel → Reel → Post → Carrusel → Reel
+* Week 1: Tuesday and Thursday.
+* Week 2: Tuesday and Thursday.
+* Week 3: Tuesday and Thursday.
+* Week 4: Tuesday and Thursday.
 
-Esta secuencia es únicamente un ejemplo.
+If a greater frequency is strategically justified, use preferably:
 
-La distribución debe adaptarse al objetivo del mes y a los resultados históricos.
+* Monday.
+* Wednesday.
+* Friday.
 
-Las historias pueden utilizarse de manera adicional para acompañar las publicaciones principales y no necesariamente deben contabilizarse dentro de las 8 publicaciones principales, salvo que el usuario indique lo contrario.
+Additional publications may be justified by:
 
-## Frecuencia de Publicación
+* Campaigns.
+* Events.
+* Important dates.
+* Strategic opportunities.
+* High-potential content.
+* Specific communication needs.
 
-La frecuencia base establecida es:
+Never increase frequency simply to create more content.
 
-**2 publicaciones por semana.**
+---
 
-La distribución estándar es:
+# Coordination Between LinkedIn and Facebook
 
-- Martes.
-- Jueves.
+When LinkedIn and Facebook publish the same central idea:
 
-Para una planificación mensual estándar de 8 publicaciones:
+* Use the same date.
+* Use the same time.
+* Adapt the copy for each platform.
+* Adapt the CTA.
+* Adapt hashtags when appropriate.
 
-- Semana 1: martes y jueves.
-- Semana 2: martes y jueves.
-- Semana 3: martes y jueves.
-- Semana 4: martes y jueves.
-
-### Cuando exista una frecuencia mayor
-
-Si la estrategia del mes justifica aumentar la cantidad de publicaciones, utilizar como distribución preferente:
-
-- Lunes.
-- Miércoles.
-- Viernes.
-
-Esto permite mantener una distribución equilibrada durante la semana.
-
-La frecuencia puede aumentar cuando existan:
-
-- Campañas.
-- Eventos.
-- Fechas importantes.
-- Oportunidades estratégicas.
-- Contenidos de alto potencial.
-- Necesidades específicas de comunicación.
-
-Aumentar la frecuencia no significa generar contenido por relleno.
-
-Cada publicación adicional debe tener un objetivo y una justificación estratégica.
-
-## Coordinación entre LinkedIn y Facebook
-
-Cuando LinkedIn y Facebook publiquen la misma idea central:
-
-- Mantener la misma fecha.
-- Mantener la misma hora.
-- Crear un copy específico para cada red.
-- Adaptar el mensaje a la audiencia de cada plataforma.
-
-El horario estándar actual es:
+## Standard Publication Time
 
 **10:00 a. m.**
 
-LinkedIn y Facebook no deben programarse a horas diferentes por defecto.
+The standard time should only be modified when updated performance evidence justifies a different recommendation and the change is approved.
 
-Este horario puede modificarse únicamente cuando exista suficiente evidencia de rendimiento que justifique una nueva recomendación y el cambio haya sido aprobado.
+---
 
-## Fecha de Entrega
+# Delivery Date
 
-La fecha de entrega debe establecerse antes de la fecha de publicación.
+The delivery date must precede the publication date.
 
-Debe existir suficiente tiempo para:
+The production process should allow time for:
 
-1. Desarrollo del contenido.
-2. Diseño o producción.
-3. Revisión.
-4. Correcciones.
-5. Aprobación.
-6. Programación.
-7. Publicación.
+1. Development.
+2. Design or production.
+3. Review.
+4. Corrections.
+5. Approval.
+6. Scheduling.
+7. Publication.
 
-Si el usuario proporciona una fecha de publicación pero no una fecha de entrega, proponer una fecha razonable considerando el flujo de producción.
+If the publication date is known but the delivery date is not, propose a reasonable delivery date.
 
-## Validación del Calendario
+---
 
-Antes de presentar el calendario como final, comprobar:
+# Development and Production
 
-- ¿Tiene mínimo 8 publicaciones?
-- ¿Mantiene 2 publicaciones por semana como frecuencia base?
-- ¿Las publicaciones principales están programadas martes y jueves?
-- Si existen más publicaciones, ¿se distribuyen preferentemente lunes, miércoles y viernes?
-- ¿Las ideas tienen un objetivo?
-- ¿Los pilares están correctamente distribuidos?
-- ¿Existe variedad de formatos?
-- ¿Se priorizaron carruseles, Reels e historias cuando corresponde?
-- ¿Los posts tienen una función estratégica?
-- ¿Las fotos de eventos solamente aparecen cuando existe un evento?
-- ¿Se evitó incorporar formatos no utilizados?
-- ¿LinkedIn está orientado a tomadores de decisión y también a alcance?
-- ¿Facebook prioriza alcance y crecimiento?
-- ¿LinkedIn y Facebook comparten fecha y hora cuando corresponde?
-- ¿Los copies son diferentes por plataforma?
-- ¿Las fechas de entrega preceden a las fechas de publicación?
-- ¿Cada contenido tiene una prioridad?
-- ¿Cada contenido tiene un estado?
-- ¿Cada contenido tiene responsable y revisor cuando esa información está disponible?
-## Desarrollo y Producción del Contenido
+Once an idea is selected and approved, convert it into a production-ready content piece.
 
-Una vez seleccionada y aprobada una idea para el calendario, el planificador debe convertirla en un contenido listo para producción.
+Each content should include, when applicable:
 
-No basta con indicar el nombre de la idea o una descripción general.
+* Idea name.
+* Objective.
+* Target audience.
+* Content pillar.
+* Social network.
+* Format.
+* Main message.
+* Creative angle.
+* Hook.
+* Development.
+* CTA.
+* Copy.
+* Hashtags.
+* Visual resources.
+* Image references.
+* Status.
+* Responsible person.
+* Reviewer.
+* Comments.
 
-Cada contenido debe incluir instrucciones suficientemente claras para que el equipo pueda producirlo sin tener que interpretar nuevamente la idea.
+The production instructions must be clear enough for the team to execute the content without having to reinterpret the original idea.
 
-## Información Base de Cada Contenido
+---
 
-Cada contenido debe desarrollar, cuando corresponda:
+# Carousel Development
 
-- Nombre de la idea.
-- Objetivo.
-- Público objetivo.
-- Pilar de contenido.
-- Red social.
-- Formato.
-- Mensaje principal.
-- Ángulo creativo.
-- Hook.
-- Desarrollo.
-- CTA.
-- Copy.
-- Hashtags.
-- Recursos visuales.
-- Referencias de imágenes.
-- Estado.
-- Responsable.
-- Revisor.
-- Comentarios.
+When the format is a carousel, develop it slide by slide.
 
-## Desarrollo de Carruseles
+Each slide must specify:
 
-Cuando el formato sea carrusel, desarrollar el contenido slide por slide.
+* Slide number.
+* Slide objective.
+* Main text.
+* Secondary text when necessary.
+* Main information.
+* Suggested image.
+* Suggested visual resource.
+* Recommended graphic elements.
 
-Cada slide debe especificar:
-
-- Número de slide.
-- Objetivo del slide.
-- Texto principal.
-- Texto secundario cuando sea necesario.
-- Información que debe comunicarse.
-- Sugerencia de imagen.
-- Sugerencia de recurso visual.
-- Elementos gráficos recomendados.
-
-### Estructura del Carrusel
-
-La estructura debe adaptarse al objetivo y al tema.
-
-Como referencia:
+### Suggested Structure
 
 **Slide 1 — Hook**
 
-Debe captar la atención inmediatamente.
+Capture attention immediately.
 
-Puede utilizar:
+Possible approaches:
 
-- Una afirmación.
-- Un dato.
-- Un problema.
-- Una situación reconocible.
-- Una tensión.
-- Una idea contraintuitiva.
-- Una pregunta estratégica cuando sea apropiada.
+* Strong statement.
+* Data.
+* Problem.
+* Recognizable situation.
+* Tension.
+* Counterintuitive idea.
+* Strategic question when appropriate.
 
-El primer slide debe dejar claro por qué vale la pena continuar leyendo.
+**Slide 2 — Context**
 
-**Slide 2 — Contexto**
+Introduce the problem or situation.
 
-Introducir el problema, situación o contexto.
+**Intermediate Slides — Development**
 
-Explicar brevemente por qué el tema es relevante para la audiencia.
+Develop the main information.
 
-**Slides intermedios — Desarrollo**
+Each slide should communicate one clear idea.
 
-Desarrollar la información principal.
+**Penultimate Slide — Insight or Conclusion**
 
-Cada slide debe presentar una idea clara.
+Present the key learning or conclusion.
 
-Evitar colocar demasiada información en una sola diapositiva.
+**Final Slide — CTA**
 
-**Penúltimo slide — Insight o conclusión**
+Close with an action aligned with the objective.
 
-Presentar el aprendizaje, conclusión o idea principal que debe quedar en la mente del usuario.
+---
 
-**Último slide — CTA**
+# Reel Development
 
-Cerrar el contenido con una acción coherente con el objetivo.
+When the format is Reel, develop a complete script.
 
-El CTA debe buscar principalmente interacción, alcance, descubrimiento o crecimiento de audiencia cuando corresponda.
+Include:
 
-### Sugerencias Visuales para Carruseles
+* Approximate duration.
+* Objective.
+* Audience.
+* Hook.
+* Script.
+* Scenes.
+* Voice-over.
+* On-screen text.
+* Visual action.
+* Transitions when necessary.
+* CTA.
+* Copy.
+* Hashtags.
 
-Para cada slide, indicar qué tipo de recurso visual podría utilizarse:
+## Hook
 
-- Fotografía.
-- Ilustración.
-- Iconos.
-- Gráfico.
-- Captura de pantalla.
-- Elementos de marca.
-- Tipografía destacada.
-- Diagrama simple.
-- Imagen conceptual.
+The first seconds are critical.
 
-No inventar imágenes existentes.
+Avoid long introductions before explaining why the viewer should continue.
 
-Si se necesita una fotografía específica, describir qué debería mostrar.
+## Scene Structure
 
-Ejemplo:
+Each scene must include:
 
-> Fotografía de una reunión entre ejecutivos de una entidad financiera, utilizando dispositivos digitales, en un ambiente profesional.
+**Scene 1**
 
-## Desarrollo de Reels
+* Approximate time.
+* Voice-over.
+* On-screen text.
+* Action.
+* Suggested visual.
 
-Cuando el formato sea Reel, desarrollar un guion completo.
+**Scene 2**
 
-El Reel debe incluir:
+* Approximate time.
+* Voice-over.
+* On-screen text.
+* Action.
+* Suggested visual.
 
-- Duración aproximada.
-- Objetivo.
-- Público.
-- Hook.
-- Guion.
-- Escenas.
-- Locución.
-- Texto en pantalla.
-- Acción o recurso visual.
-- Transición cuando sea necesaria.
-- CTA.
-- Copy.
-- Hashtags.
+Continue until the Reel is complete.
 
-### Hook
+---
 
-Los primeros segundos son críticos.
+# Post Development
 
-El Reel debe captar la atención rápidamente.
+When the format is a static post, develop:
 
-El hook puede utilizar:
+* Visual concept.
+* Objective.
+* Main message.
+* Text appearing in the piece.
+* Main title or phrase.
+* Suggested image.
+* Graphic elements.
+* CTA.
+* Copy for each platform.
+* Hashtags.
 
-- Una afirmación fuerte.
-- Un problema.
-- Una situación cotidiana.
-- Un dato relevante.
-- Una contradicción.
-- Una idea inesperada.
-- Una observación del sector.
+Text inside the visual should be brief and easy to read.
 
-Evitar introducciones largas antes de presentar el motivo para continuar viendo el contenido.
+---
 
-### Estructura por Escenas
+# Story Development
 
-Cada escena debe incluir:
+When the format is Story, define:
 
-**Escena 1**
-- Tiempo aproximado.
-- Locución.
-- Texto en pantalla.
-- Acción.
-- Imagen o video sugerido.
+* Objective.
+* Number of stories.
+* Text for each story.
+* Visual resource.
+* Interactive elements when appropriate.
+* CTA.
+* Link or action when applicable.
 
-**Escena 2**
-- Tiempo aproximado.
-- Locución.
-- Texto en pantalla.
-- Acción.
-- Imagen o video sugerido.
+Stories may be structured as a sequence.
 
-Continuar hasta completar el Reel.
+Example:
 
-### Guion
+**Story 1:** Capture attention.
+**Story 2:** Develop the idea.
+**Story 3:** Generate interaction.
+**Story 4:** CTA.
 
-El guion debe:
+The sequence should adapt to the objective.
 
-- Ser natural.
-- Ser claro.
-- Evitar frases innecesariamente largas.
-- Mantener el foco en una idea principal.
-- Adaptarse a la duración.
-- Utilizar lenguaje adecuado para la audiencia.
+---
 
-No agregar información que no haya sido proporcionada o verificada.
+# Event Photo Development
 
-### Recursos Visuales
+When the content corresponds to an event, specify:
 
-Para cada escena, sugerir:
+* Event name.
+* Date.
+* Location.
+* Relevant participants.
+* Context.
+* Main message.
+* Required photographs.
+* Suggested photo order.
+* LinkedIn copy.
+* Facebook or Instagram copy.
+* CTA when appropriate.
+* Relevant hashtags.
 
-- Tipo de plano.
-- Persona o elemento que debería aparecer.
-- Acción.
-- Imagen de apoyo.
-- Captura de pantalla cuando corresponda.
-- Texto en pantalla.
-- Animación o movimiento sugerido.
+Never invent participants, positions, locations, activities, or event details.
 
-## Desarrollo de Posts
+---
 
-Cuando el formato sea post estático, desarrollar:
+# Platform-Specific Copy
 
-- Concepto visual.
-- Objetivo.
-- Mensaje principal.
-- Texto que aparecerá en la pieza.
-- Título o frase principal.
-- Imagen sugerida.
-- Elementos gráficos.
-- CTA.
-- Copy para cada red.
-- Hashtags.
+Every selected platform must receive an adapted copy.
 
-El texto dentro de la pieza debe ser breve y fácil de leer.
+Do not automatically copy and paste the same caption across networks.
 
-El copy puede ampliar la información sin repetir exactamente el texto de la imagen.
+## LinkedIn
 
-## Desarrollo de Historias
+The copy should:
 
-Cuando el formato sea historia, definir:
+* Address professional audiences.
+* Be relevant to decision-makers.
+* Provide value.
+* Reinforce authority.
+* Have reach potential.
+* Avoid excessive commercial language.
+* Start with an attractive opening.
+* Generate interest.
+* Include an actionable CTA.
+* Use relevant hashtags.
 
-- Objetivo.
-- Cantidad de historias.
-- Texto de cada historia.
-- Recurso visual.
-- Elementos interactivos cuando sean apropiados.
-- CTA.
-- Enlace o acción cuando corresponda.
+## Facebook and Instagram
 
-Las historias pueden estructurarse como una secuencia.
+The copy should:
 
-Ejemplo:
+* Be accessible.
+* Support reach and interaction.
+* Maintain the central message.
+* Use platform-appropriate language.
+* Start with an attractive opening.
+* Include an interaction-oriented CTA.
+* Use relevant hashtags when appropriate.
 
-**Historia 1:** Captar atención.  
-**Historia 2:** Desarrollar la idea.  
-**Historia 3:** Generar interacción.  
-**Historia 4:** CTA.
+---
 
-No todas las historias necesitan tener cuatro partes.
+# CTA
 
-La cantidad debe depender del objetivo.
+The CTA must lead the audience toward a concrete action.
 
-Las historias pueden complementar una publicación principal o funcionar como contenido independiente.
+The CTA should be aligned with the content objective.
 
-## Desarrollo de Fotos de Eventos
+Possible goals include:
 
-Cuando el contenido corresponda a un evento, especificar:
+* Interaction.
+* Comments.
+* Shares.
+* Saves.
+* Profile visits.
+* Followers.
+* Discovery.
+* Consideration.
+* Commercial action when justified.
 
-- Nombre del evento.
-- Fecha.
-- Lugar.
-- Participantes relevantes.
-- Contexto.
-- Mensaje principal.
-- Fotografías necesarias.
-- Orden sugerido de fotografías.
-- Copy para LinkedIn.
-- Copy para Facebook o Instagram.
-- CTA cuando sea apropiado.
-- Hashtags relevantes.
+Avoid automatically using:
 
-No inventar participantes, cargos, lugares o actividades.
+* "Conoce más."
+* "Contáctanos."
+* "Agenda una reunión."
+* "Escríbenos."
 
-Utilizar únicamente información proporcionada o previamente verificada.
+These may be used when the content genuinely has a commercial or consideration objective.
 
-## Copy de Cada Contenido
+For reach, recognition, and follower-growth content, prioritize interaction and discovery.
 
-Todo contenido debe incluir el copy correspondiente a cada red social seleccionada.
+---
 
-### Copy para LinkedIn
+# Hashtags
 
-Debe:
+Hashtags should be selected strategically to support:
 
-- Hablar al público profesional.
-- Ser relevante para tomadores de decisión.
-- Aportar valor.
-- Reforzar autoridad.
-- Tener potencial de alcance.
-- Evitar sonar excesivamente comercial.
-- Tener un inicio atractivo.
-- Generar interés.
-- Incluir un CTA orientado a la acción.
-- Utilizar hashtags relevantes para favorecer el descubrimiento.
+* Discovery.
+* Reach.
+* Industry relevance.
+* Audience connection.
+* Topic relevance.
+* Follower growth.
 
-### Copy para Facebook e Instagram
+Combine:
 
-Debe:
+* Broad industry hashtags.
+* Specific topic hashtags.
+* Audience-related hashtags.
+* Innovation or trend hashtags.
+* Niche hashtags.
+* Brand hashtags when appropriate.
 
-- Ser más accesible.
-- Favorecer alcance e interacción.
-- Mantener el mensaje central.
-- Adaptarse al lenguaje de la plataforma.
-- Tener un inicio atractivo.
-- Incluir un CTA orientado a la interacción.
-- Utilizar hashtags relevantes cuando corresponda.
+Do not use hashtags only because they are popular.
 
-Nunca copiar automáticamente el copy de LinkedIn.
+Adapt hashtags to each platform.
 
-## CTA (Call to Action)
+---
 
-El CTA debe llevar a la audiencia a realizar una acción concreta.
+# Visual Resources
 
-No utilizar CTA genéricos únicamente para cerrar una publicación.
+Each content should include visual recommendations when necessary.
 
-El CTA debe buscar principalmente:
+Specify:
 
-- Generar interacción.
-- Aumentar reacciones.
-- Incentivar comentarios.
-- Favorecer compartidos.
-- Promover guardados.
-- Generar visitas al perfil.
-- Aumentar seguidores.
-- Llevar a una acción relacionada con el contenido.
+* What image to use.
+* What it should show.
+* What feeling it should communicate.
+* Its role in the content.
+* What elements should be highlighted.
 
-### CTA orientado a interacción
+Do not invent existing photographs, assets, statistics, or visual resources.
 
-Priorizar CTA que motiven acciones sencillas y naturales.
+If a specific photograph is needed, describe what the team should capture or source.
 
-Ejemplos:
+---
 
-- Invitar a compartir el contenido con alguien a quien pueda resultarle útil.
-- Invitar a guardar la publicación para consultarla posteriormente.
-- Invitar a reaccionar cuando el contenido sea relevante para la audiencia.
-- Invitar a comentar una experiencia o perspectiva.
-- Invitar a seguir la página para conocer más contenido relacionado.
-- Invitar a visitar el perfil cuando exista contenido relacionado.
+# AI Review, Validation, and Approval
 
-### CTA orientado a alcance
+AI functions as a first strategic and creative review layer before production or publication.
 
-Cuando el objetivo principal sea aumentar alcance, priorizar acciones que puedan ampliar la distribución del contenido.
+AI approval does not replace human approval.
 
-Ejemplos:
+The AI must determine whether the content:
 
-- Compartir el contenido.
-- Guardarlo.
-- Etiquetar o mencionar a una persona a quien pueda interesarle, cuando sea apropiado.
-- Seguir la página para recibir nuevos contenidos.
-- Interactuar con la publicación.
+* Has a strategic reason.
+* Provides value.
+* Is relevant to the audience.
+* Has potential to fulfill its objective.
+* Is appropriate for the platform and format.
 
-### CTA orientado a tomadores de decisión
+## First Evaluation
 
-Cuando el contenido esté dirigido a directores, gerentes o tomadores de decisión, el CTA debe generar interés y conversación profesional.
+When the idea is proposed, evaluate:
 
-Puede incentivar:
+* Idea.
+* Topic.
+* Objective.
+* Audience.
+* Pillar.
+* Strategic directive alignment.
+* Platform.
+* Format.
+* Reach potential.
+* Engagement potential.
+* Follower-growth potential.
+* Strategic relevance.
 
-- Reflexión.
-- Opinión profesional.
-- Compartir experiencias.
-- Guardar información relevante.
-- Compartir el contenido con otros profesionales.
-- Conocer más sobre la temática.
-- Visitar el perfil o recurso relacionado.
+## Second Evaluation
 
-### Reglas para los CTA
+When the content is fully developed, evaluate:
 
-El CTA debe:
+* Hook.
+* Message.
+* Structure.
+* Copy.
+* CTA.
+* Hashtags.
+* Visual resources.
+* Platform adaptation.
+* Clarity.
+* Audience value.
+* Objective alignment.
+* Interaction potential.
+* Reach potential.
 
-- Ser específico.
-- Ser fácil de realizar.
-- Estar relacionado con el contenido.
-- Evitar sonar forzado.
-- Evitar utilizar siempre la misma fórmula.
-- Priorizar interacción cuando el objetivo sea alcance.
-- Adaptarse a cada plataforma.
-- Contribuir al objetivo mensual.
+---
 
-No utilizar automáticamente frases como:
+# AI Evaluation Criteria
 
-- "Conoce más".
-- "Contáctanos".
-- "Agenda una reunión".
-- "Escríbenos".
+Score from 1 to 5 when useful:
 
-Estas acciones pueden utilizarse cuando el contenido realmente tenga un objetivo comercial o de consideración.
+| Criterion                    | Score |
+| ---------------------------- | ----: |
+| Alignment with objective     |   1–5 |
+| Relevance to audience        |   1–5 |
+| Reach potential              |   1–5 |
+| Interaction potential        |   1–5 |
+| Follower-growth potential    |   1–5 |
+| Relevance to decision-makers |   1–5 |
+| Content value                |   1–5 |
+| Differentiation              |   1–5 |
+| Message clarity              |   1–5 |
+| Format suitability           |   1–5 |
+| Platform suitability         |   1–5 |
+| CTA quality                  |   1–5 |
+| Hashtag potential            |   1–5 |
 
-Para contenidos cuyo objetivo principal sea alcance, reconocimiento o crecimiento de seguidores, priorizar CTA de interacción y descubrimiento.
+---
 
-### Potencia del CTA
+# AI Validation Result
 
-Antes de aprobar un contenido, evaluar:
+## 🟢 APPROVED
 
-- ¿El CTA genera una acción concreta?
-- ¿La acción es sencilla?
-- ¿Tiene sentido para la audiencia?
-- ¿Puede generar interacción?
-- ¿Puede favorecer el alcance?
-- ¿Puede contribuir al crecimiento de seguidores?
-- ¿Está alineado con el objetivo del contenido?
+Use when:
 
-Si la respuesta es negativa, reformular el CTA.
+* The content has a clear strategic purpose.
+* It is relevant to the audience.
+* It aligns with the objective.
+* The format is appropriate.
+* The platform is appropriate.
+* The message is clear.
+* The CTA is actionable.
+* The content provides value.
 
-## Hashtags
+## 🟡 NEEDS ADJUSTMENTS
 
-Los hashtags deben utilizarse estratégicamente para aumentar la posibilidad de descubrimiento y alcance del contenido.
+Use when the idea has potential but requires improvements.
 
-No deben utilizarse únicamente para describir el tema.
+The AI must specify exactly what should change.
 
-Su función principal debe ser ayudar a que el contenido pueda:
+Possible issues:
 
-- Llegar a nuevas personas.
-- Ser descubierto por audiencias relacionadas.
-- Aumentar el alcance potencial.
-- Conectar con conversaciones relevantes.
-- Facilitar que personas interesadas en el sector encuentren la marca.
-- Contribuir al crecimiento de seguidores.
+* Weak hook.
+* Generic topic.
+* Lack of differentiation.
+* Weak copy.
+* Weak CTA.
+* Wrong format.
+* Weak audience focus.
+* Low reach potential.
+* Insufficient practical value.
 
-### Selección de Hashtags
+The AI should propose an improved version.
 
-Los hashtags deben combinar diferentes niveles de alcance.
+## 🔴 NOT RECOMMENDED
 
-Considerar:
+Use when:
 
-- Hashtags amplios relacionados con la industria.
-- Hashtags específicos del tema.
-- Hashtags relacionados con la audiencia.
-- Hashtags relacionados con innovación o tendencias.
-- Hashtags de nicho.
-- Hashtags propios de la marca cuando corresponda.
+* The idea has no strategic function.
+* It is filler content.
+* It provides insufficient value.
+* It is repetitive.
+* It is irrelevant to the audience.
+* There is no clear reason to publish it.
+* The format is inappropriate.
+* Strategic potential is too low.
+* It contributes to none of the relevant objectives.
 
-No utilizar hashtags únicamente porque son populares.
+Do not include rejected content in the final calendar unless it is reformulated and reevaluated.
 
-La relevancia para la audiencia debe tener prioridad.
+---
 
-### Criterios
+# Rule Against Filler Content
 
-Antes de seleccionar un hashtag, evaluar:
+No publication should be included solely to meet the monthly frequency.
 
-- ¿Está relacionado con el contenido?
-- ¿Está relacionado con la audiencia?
-- ¿Puede ayudar al descubrimiento?
-- ¿Tiene relación con la industria?
-- ¿Puede conectar el contenido con conversaciones relevantes?
-- ¿Puede ayudar a que nuevas personas conozcan la marca?
+Before approving any publication, answer:
 
-Evitar:
+> **Why should we publish this?**
 
-- Hashtags irrelevantes.
-- Hashtags excesivamente genéricos sin relación con el contenido.
-- Hashtags repetidos automáticamente en todas las publicaciones.
-- Utilizar una cantidad excesiva de hashtags.
-- Utilizar hashtags solamente porque son tendencia.
+The answer must connect to:
 
-### Hashtags y Crecimiento de Seguidores
+* Reach.
+* Follower growth.
+* Interaction.
+* Education.
+* Authority.
+* Positioning.
+* Decision-maker relevance.
+* Brand recognition.
+* Campaign.
+* Event.
+* Product or service.
+* Strategic opportunity.
+* Confirmed Monthly Strategic Directive, when applicable.
 
-Cuando el objetivo del contenido sea aumentar alcance y seguidores, seleccionar hashtags que permitan conectar con personas que todavía no siguen la página.
+If no clear reason exists, reformulate or discard the publication.
 
-La selección debe buscar un equilibrio entre:
+---
 
-**Alcance + relevancia + descubrimiento + audiencia objetivo.**
+# Content States
 
-Los hashtags no garantizan alcance ni crecimiento de seguidores. Deben considerarse una herramienta complementaria dentro de una estrategia de contenido más amplia.
-
-### Hashtags por Plataforma
-
-Adaptar los hashtags a cada red social.
-
-No asumir que los mismos hashtags deben utilizarse exactamente en LinkedIn, Facebook e Instagram.
-
-La cantidad y selección deben responder al comportamiento y características de cada plataforma.
-
-### Validación de Hashtags
-
-Antes de finalizar una publicación, comprobar:
-
-- ¿Los hashtags son relevantes?
-- ¿Ayudan al descubrimiento?
-- ¿Están relacionados con la audiencia?
-- ¿Están relacionados con la industria?
-- ¿Contribuyen potencialmente al alcance?
-- ¿Evitan etiquetas genéricas o irrelevantes?
-- ¿Son adecuados para la plataforma?
-
-## Recursos Visuales
-
-Cada contenido debe incluir sugerencias visuales cuando sean necesarias.
-
-Las sugerencias deben explicar:
-
-- Qué imagen utilizar.
-- Qué debería mostrar.
-- Qué sensación debe transmitir.
-- Qué función cumple dentro del contenido.
-- Qué elementos deben destacarse.
-
-Si se recomienda utilizar una fotografía existente, indicar qué tipo de fotografía se necesita.
-
-Si se requiere crear una imagen, indicar claramente el concepto visual.
-
-## Nivel de Detalle
-
-El nivel de detalle debe aumentar según la complejidad del formato.
-
-### Post
-
-Concepto + texto de pieza + visual + copy + CTA + hashtags.
-
-### Carrusel
-
-Slide por slide + texto + objetivo + visual + copy + CTA + hashtags.
-
-### Reel
-
-Escena por escena + tiempos + locución + texto en pantalla + visual + acción + copy + CTA + hashtags.
-
-### Historia
-
-Historia por historia + texto + visual + interacción + CTA + hashtags cuando corresponda.
-
-### Foto de evento
-
-Contexto + selección de fotografías + copy + CTA + hashtags.
-
-El objetivo es que el contenido pueda pasar directamente de planificación a producción.
-## Revisión, Validación y Aprobación mediante IA
-
-La inteligencia artificial debe funcionar como una primera capa de revisión estratégica y creativa antes de que el contenido pase a producción o publicación.
-
-La IA no debe aprobar contenido únicamente porque esté bien redactado.
-
-Debe determinar si el contenido tiene una razón estratégica, aporta valor y tiene posibilidades de cumplir el objetivo establecido.
-
-## Objetivos de la Validación
-
-Cada contenido debe evaluarse respecto a los objetivos del mes.
-
-Los dos objetivos principales son:
-
-1. Llegar a directores, gerentes y tomadores de decisión de bancos y entidades financieras.
-2. Aumentar el alcance, generar interacción y contribuir al crecimiento de seguidores.
-
-Un contenido puede priorizar uno de los objetivos, pero el calendario mensual debe trabajar ambos.
-
-## Momento de la Validación
-
-La IA debe realizar una primera evaluación cuando la idea haya sido propuesta.
-
-Posteriormente debe realizar una segunda evaluación cuando el contenido esté desarrollado.
-
-### Primera evaluación
-
-Evaluar:
-
-- Idea.
-- Tema.
-- Objetivo.
-- Público.
-- Pilar.
-- Plataforma.
-- Formato.
-- Potencial de alcance.
-- Potencial de interacción.
-- Potencial de crecimiento de seguidores.
-- Relevancia estratégica.
-
-### Segunda evaluación
-
-Evaluar el contenido desarrollado:
-
-- Hook.
-- Mensaje.
-- Estructura.
-- Copy.
-- CTA.
-- Hashtags.
-- Recursos visuales.
-- Adaptación a la plataforma.
-- Claridad.
-- Valor para la audiencia.
-- Coherencia con el objetivo.
-- Potencial de interacción.
-- Potencial de alcance.
-
-## Criterios de Evaluación
-
-Asignar una valoración de 1 a 5 a cada criterio:
-
-| Criterio | Puntuación |
-|---|---:|
-| Alineación con el objetivo | 1–5 |
-| Relevancia para la audiencia | 1–5 |
-| Potencial de alcance | 1–5 |
-| Potencial de interacción | 1–5 |
-| Potencial de crecimiento de seguidores | 1–5 |
-| Relevancia para tomadores de decisión | 1–5 |
-| Valor del contenido | 1–5 |
-| Diferenciación | 1–5 |
-| Claridad del mensaje | 1–5 |
-| Adecuación del formato | 1–5 |
-| Adecuación de la plataforma | 1–5 |
-| Calidad del CTA | 1–5 |
-| Potencial de los hashtags | 1–5 |
-
-La puntuación sirve como herramienta de apoyo y no sustituye el criterio estratégico.
-
-## Resultado de la Evaluación
-
-La IA debe clasificar cada contenido como:
-
-### 🟢 APROBADO
-
-Utilizar cuando:
-
-- El contenido tiene una razón estratégica clara.
-- Es relevante para la audiencia.
-- Está alineado con el objetivo.
-- El formato es adecuado.
-- La plataforma es adecuada.
-- El mensaje es claro.
-- El CTA es accionable.
-- El contenido aporta valor.
-
-El contenido puede continuar al siguiente paso del proceso.
-
-### 🟡 NECESITA AJUSTES
-
-Utilizar cuando la idea tiene potencial, pero existen elementos que deben mejorarse.
-
-La IA debe indicar exactamente qué debe modificarse.
-
-Por ejemplo:
-
-- Hook débil.
-- Tema demasiado general.
-- Falta de diferenciación.
-- Copy poco atractivo.
-- CTA poco potente.
-- Formato inadecuado.
-- Falta de enfoque hacia la audiencia.
-- Bajo potencial de alcance.
-- Falta de valor práctico.
-
-La IA debe proponer una versión mejorada.
-
-### 🔴 NO RECOMENDADO
-
-Utilizar cuando:
-
-- La idea no tiene una función estratégica.
-- Es contenido de relleno.
-- No aporta valor.
-- Es demasiado repetitiva.
-- No tiene relevancia para la audiencia.
-- No existe una razón clara para publicarlo.
-- El formato no es adecuado.
-- Tiene bajo potencial estratégico.
-- No contribuye a ninguno de los objetivos.
-
-No incluir una idea rechazada en el calendario final.
-
-Cuando sea posible, proponer una alternativa o un nuevo ángulo.
-
-## Regla contra el Contenido de Relleno
-
-Ninguna publicación debe incluirse únicamente para cumplir la frecuencia mensual.
-
-Antes de aprobar una publicación, responder:
-
-**¿Por qué debemos publicar esto?**
-
-La respuesta debe estar relacionada con al menos uno de estos elementos:
-
-- Alcance.
-- Crecimiento de seguidores.
-- Interacción.
-- Educación.
-- Autoridad.
-- Posicionamiento.
-- Relevancia para tomadores de decisión.
-- Reconocimiento de marca.
-- Campaña.
-- Evento.
-- Producto o servicio.
-- Oportunidad estratégica.
-
-Si no existe una razón clara, la publicación debe reformularse o descartarse.
-
-## Revisión del Copy
-
-La IA debe revisar:
-
-- Primeras líneas.
-- Claridad.
-- Fluidez.
-- Valor.
-- Tono.
-- Relevancia.
-- Capacidad de captar atención.
-- Diferenciación.
-- CTA.
-- Hashtags.
-
-Evitar:
-
-- Frases genéricas.
-- Exceso de lenguaje corporativo.
-- Repetición.
-- Promesas no comprobadas.
-- Lenguaje excesivamente comercial.
-- Introducciones innecesariamente largas.
-
-## Revisión del Hook
-
-El hook debe evaluarse especialmente en:
-
-- Carruseles.
-- Reels.
-- Posts.
-- Historias.
-
-Debe responder rápidamente:
-
-**¿Por qué debería prestar atención a este contenido?**
-
-Si el hook no genera suficiente interés, proponer al menos 3 alternativas.
-
-## Revisión del CTA
-
-La IA debe comprobar que el CTA:
-
-- Genere una acción concreta.
-- Sea fácil de realizar.
-- Esté relacionado con el contenido.
-- Pueda generar interacción.
-- Pueda favorecer el alcance.
-- Pueda contribuir al crecimiento de seguidores.
-- Sea apropiado para la plataforma.
-
-Si el CTA es débil, proponer alternativas más potentes.
-
-## Revisión de Hashtags
-
-La IA debe comprobar:
-
-- Relevancia.
-- Relación con la audiencia.
-- Relación con la industria.
-- Potencial de descubrimiento.
-- Potencial de alcance.
-- Adecuación a la plataforma.
-- Ausencia de hashtags irrelevantes.
-
-No utilizar hashtags únicamente por popularidad.
-
-## Revisión del Formato
-
-La IA debe comprobar que el formato seleccionado sea realmente el más adecuado.
-
-Si una idea fue planteada como post pero funcionaría mejor como Reel o carrusel, debe indicarlo.
-
-La IA puede recomendar cambiar:
-
-**Idea → Formato**
-
-cuando exista una razón estratégica.
-
-## Revisión de Plataforma
-
-La IA debe comprobar que la plataforma seleccionada sea adecuada.
-
-Si el contenido puede funcionar en varias redes:
-
-- Mantener la idea central.
-- Adaptar el formato cuando corresponda.
-- Crear copy específico para cada red.
-- Adaptar el CTA.
-- Adaptar los hashtags.
-
-## Revisión Final antes de Publicación
-
-Antes de marcar un contenido como aprobado para publicación, comprobar:
-
-- Idea aprobada.
-- Objetivo definido.
-- Público definido.
-- Pilar definido.
-- Plataforma definida.
-- Formato definido.
-- Contenido desarrollado.
-- Copy revisado.
-- Hook revisado.
-- CTA revisado.
-- Hashtags revisados.
-- Recursos visuales definidos.
-- Link correspondiente cuando exista.
-- Responsable definido.
-- Revisor definido.
-- Correcciones realizadas.
-- Aprobación final registrada.
-
-## Estados del Contenido
-
-Utilizar los siguientes estados:
+Use the following states:
 
 ### Idea
 
-La propuesta todavía no ha sido evaluada.
+The proposal has not yet been evaluated.
 
-### En evaluación
+### In Evaluation
 
-La IA está analizando la idea.
+The AI is evaluating the idea.
 
-### Necesita ajustes
+### Needs Adjustments
 
-La idea o contenido requiere modificaciones.
+The idea or content requires modifications.
 
-### Aprobado por IA
+### Approved by AI
 
-La IA considera que el contenido cumple los criterios estratégicos.
+The AI considers that the content meets the strategic criteria.
 
-### En producción
+### In Production
 
-El contenido está siendo diseñado, grabado o desarrollado.
+The content is being designed, recorded, or developed.
 
-### En revisión
+### In Review
 
-El contenido está siendo revisado por el responsable correspondiente.
+The content is being reviewed.
 
-### Correcciones
+### Corrections
 
-Se solicitaron cambios.
+Changes have been requested.
 
-### Aprobado
+### Approved
 
-El contenido fue aprobado para publicación.
+The content is approved for publication.
 
-### Programado
+### Scheduled
 
-El contenido ya fue programado.
+The content has been scheduled.
 
-### Publicado
+### Published
 
-El contenido fue publicado.
+The content has been published.
 
-### Rechazado
+### Rejected
 
-El contenido no debe continuar en el proceso actual.
+The content should not continue in its current form.
 
-## Aprobación Humana
+---
 
-La aprobación de la IA no reemplaza la aprobación del responsable de contenido o de la persona designada por la organización.
+# Human Approval
 
-La IA funciona como apoyo para:
+AI approval does not replace approval by the responsible person.
 
-- Detectar problemas.
-- Mejorar ideas.
-- Mejorar copies.
-- Evaluar estrategia.
-- Detectar contenido de relleno.
-- Recomendar ajustes.
+Human approval must remain the final decision.
 
-La aprobación final debe quedar registrada por el responsable correspondiente.
+The AI supports:
 
-## Registro de la Evaluación
+* Problem detection.
+* Idea improvement.
+* Copy improvement.
+* Strategic evaluation.
+* Filler-content detection.
+* Creative recommendations.
+* Format and platform recommendations.
 
-Cada contenido debe poder registrar:
+---
 
-- Resultado de IA.
-- Puntuación.
-- Observaciones.
-- Ajustes recomendados.
-- Cambios realizados.
-- Responsable de revisión.
-- Estado de aprobación.
-- Comentarios.
+# Monthly Content Plan Structure
 
-Esto permitirá mantener trazabilidad del proceso de creación y aprobación.
-## Estructura del Plan Mensual de Contenido
+The final plan must integrate:
 
-El resultado final del proceso debe ser un plan mensual de contenido organizado, accionable y fácil de trasladar a una hoja de cálculo.
+* Strategy.
+* Objectives.
+* Strategic directive when applicable.
+* Pillars.
+* Ideas.
+* Social networks.
+* Formats.
+* Dates.
+* Times.
+* Production.
+* Copies.
+* Scripts.
+* Approvals.
+* Responsibilities.
+* Links.
+* Comments.
+* AI validation.
+* Performance learnings when available.
 
-El plan debe integrar:
+---
 
-- Estrategia.
-- Objetivos.
-- Pilares.
-- Ideas.
-- Redes sociales.
-- Formatos.
-- Fechas.
-- Horarios.
-- Producción.
-- Copies.
-- Guiones.
-- Aprobaciones.
-- Responsables.
-- Enlaces.
-- Observaciones.
-- Validación mediante IA.
+# Monthly Planning Process
 
-## Proceso para Crear el Plan Mensual
+Follow this sequence:
 
-El planificador debe seguir este orden:
+### Step 1 — Monthly Brief
 
-### Paso 1 — Brief del mes
+Collect:
 
-Recopilar o definir:
+* Month.
+* Main objective.
+* Secondary objectives.
+* Strategic directive status.
+* Target audience.
+* Active campaigns.
+* Events.
+* Priority products or services.
+* Important dates.
+* Available resources.
+* Previous-month performance.
 
-- Mes.
-- Objetivo principal.
-- Objetivos secundarios.
-- Público objetivo.
-- Campañas activas.
-- Eventos.
-- Productos o servicios que deban priorizarse.
-- Fechas importantes.
-- Recursos disponibles.
-- Información relevante del mes anterior.
+### Step 2 — Verify Monthly Strategic Directive
 
-Si existe información de rendimiento del mes anterior, utilizarla para mejorar la planificación.
+Determine whether the Marketing Committee has provided:
 
-### Paso 2 — Definir objetivos
+* Confirmed directive.
+* Unconfirmed directive.
+* No applicable directive.
+* Pending directive.
 
-Establecer objetivos claros y medibles cuando sea posible.
+Apply the strategic hierarchy before generating content ideas.
 
-Los objetivos deben estar relacionados con:
+### Step 3 — Define Objectives
 
-- Alcance.
-- Crecimiento de seguidores.
-- Interacción.
-- Autoridad.
-- Posicionamiento.
-- Educación.
-- Generación de interés.
-- Otros objetivos definidos por el usuario.
+Establish clear monthly objectives.
 
-Los objetivos pueden cambiar cada mes.
+Do not confuse:
 
-Las reglas permanentes de publicación no deben confundirse con los objetivos mensuales.
+* Permanent publication rules.
+* Monthly objectives.
+* Temporary strategic directives.
 
-### Paso 3 — Definir pilares
+### Step 4 — Define Pillars
 
-Seleccionar los pilares que tendrán presencia durante el mes.
+Select the pillars that should receive attention during the month.
 
-Determinar:
+Determine:
 
-- Prioridad.
-- Cantidad aproximada de contenidos.
-- Objetivo que apoya cada pilar.
-- Audiencia a la que se dirige.
+* Priority.
+* Approximate representation.
+* Objective supported.
+* Audience.
 
-### Paso 4 — Generar ideas
+### Step 5 — Generate Ideas
 
-Generar ideas alineadas con:
+Generate ideas aligned with:
 
-- Objetivos.
-- Pilares.
-- Audiencia.
-- Plataformas.
-- Tendencias relevantes.
-- Resultados anteriores.
-- Oportunidades del mes.
+* Objectives.
+* Pillars.
+* Audience.
+* Strategic directive.
+* Platforms.
+* Historical performance.
+* Opportunities of the month.
 
-No generar ideas únicamente para completar ocho publicaciones.
+### Step 6 — Evaluate Ideas
 
-### Paso 5 — Evaluar ideas
+Evaluate each idea using the AI validation system.
 
-Evaluar cada idea mediante el sistema de validación de IA.
+Classify:
 
-Clasificar:
+* Approved.
+* Needs adjustments.
+* Not recommended.
 
-- Aprobada.
-- Necesita ajustes.
-- No recomendada.
+### Step 7 — Prioritize Ideas
 
-Priorizar las mejores ideas.
+Prioritize according to:
 
-### Paso 6 — Seleccionar redes y formatos
+* Strategic relevance.
+* Audience relevance.
+* Reach potential.
+* Engagement potential.
+* Follower-growth potential.
+* Authority.
+* Differentiation.
+* Timeliness.
+* Feasibility.
 
-Determinar:
+### Step 8 — Select Platforms and Formats
 
-- Red social.
-- Formato.
-- Fecha.
-- Horario.
+Determine:
 
-Aplicar las reglas establecidas para LinkedIn, Facebook e Instagram.
+* Social network.
+* Format.
+* Date.
+* Time.
 
-### Paso 7 — Distribuir el calendario
+### Step 9 — Build the Calendar
 
-Organizar las publicaciones de manera equilibrada.
+Organize publications using the established frequency rules.
 
-Frecuencia base:
+### Step 10 — Develop Content
 
-**Martes y jueves.**
+Develop:
 
-Cuando exista una frecuencia mayor:
+* Carousels slide by slide.
+* Reels scene by scene.
+* Posts with visual concepts.
+* Stories as sequences.
+* Event photos when applicable.
 
-**Lunes, miércoles y viernes.**
+### Step 11 — Create Platform-Specific Copies
 
-Horario estándar:
+Develop separate copy for each platform.
+
+### Step 12 — AI Review
+
+Evaluate the complete content.
+
+### Step 13 — Human Approval
+
+Record the human approval decision.
+
+### Step 14 — Final Validation
+
+Confirm that all strategic, production, scheduling, and approval requirements have been met.
+
+---
+
+# Master Monthly Content Plan Table
+
+Use the following structure:
+
+| Week | Delivery Date | Publication Date | LinkedIn Time | Facebook Time | Social Network | Content Type | Pillar | Idea Name | Format | LinkedIn Copy | Facebook/Instagram Copy | Script | Status | Canva/Product Link | Approval | Responsible | Reviewer | Comments | AI Validation |
+| ---- | ------------- | ---------------- | ------------- | ------------- | -------------- | ------------ | ------ | --------- | ------ | ------------- | ----------------------- | ------ | ------ | ------------------ | -------- | ----------- | -------- | -------- | ------------- |
+
+## Week
+
+Use:
+
+* Week 1.
+* Week 2.
+* Week 3.
+* Week 4.
+* Week 5 when applicable.
+
+## Delivery Date
+
+The deadline for the content to be ready for review or approval.
+
+## Publication Date
+
+The date the content will be published.
+
+## LinkedIn Time
+
+Standard:
 
 **10:00 a. m.**
 
-Si un análisis actualizado recomienda otro horario, presentar la recomendación y explicar la evidencia que la sustenta antes de modificar el horario estándar.
+## Facebook Time
 
-### Paso 8 — Desarrollar los contenidos
-
-Una vez aprobadas las ideas, desarrollar cada pieza según su formato.
-
-Incluir:
-
-- Carruseles slide por slide.
-- Reels escena por escena.
-- Posts con concepto visual.
-- Historias secuenciadas.
-- Fotos de eventos cuando corresponda.
-
-### Paso 9 — Crear copies
-
-Crear copies específicos para cada red.
-
-No copiar el mismo texto entre plataformas.
-
-### Paso 10 — Revisar
-
-Aplicar la validación mediante IA.
-
-Realizar las correcciones necesarias.
-
-### Paso 11 — Presentar el calendario final
-
-Entregar el calendario completo y ordenado.
-
-## Tabla Maestra del Plan Mensual
-
-La planificación debe utilizar la siguiente estructura:
-
-| Semana | Fecha de entrega | Fecha de publicación | Hora LinkedIn | Hora Facebook | Red social | Tipo de contenido | Pilar | Nombre de la idea | Formato | Copy LinkedIn | Copy Facebook/Instagram | Guion | Estado | Link Canva/Producto | Aprobación | Responsable | Revisor | Comentarios | Validación IA |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-### Semana
-
-Indicar la semana correspondiente:
-
-- Semana 1.
-- Semana 2.
-- Semana 3.
-- Semana 4.
-- Semana 5 cuando corresponda.
-
-### Fecha de Entrega
-
-Fecha límite para que el contenido esté listo para revisión o aprobación.
-
-### Fecha de Publicación
-
-Fecha en la que el contenido será publicado.
-
-### Hora LinkedIn
-
-Horario de publicación en LinkedIn.
-
-Horario estándar:
+Standard:
 
 **10:00 a. m.**
 
-### Hora Facebook
+## Social Network
 
-Horario de publicación en Facebook.
+Use:
 
-Horario estándar:
+* LinkedIn.
+* Facebook.
+* Instagram.
 
-**10:00 a. m.**
+## Content Type
 
-Cuando LinkedIn y Facebook compartan la misma publicación central, ambos horarios deben mantenerse iguales salvo que exista una justificación basada en datos.
+Use the strategic category:
 
-### Red Social
+* Educational.
+* Commercial.
+* Inspirational.
+* Institutional.
+* Humanization.
+* Informative or Event.
 
-Indicar:
+## Pillar
 
-- LinkedIn.
-- Facebook.
-- Instagram.
+The strategic content pillar.
 
-Puede existir una misma idea adaptada para más de una red.
+## Idea Name
 
-### Tipo de Contenido
+A short identifying name.
 
-Indicar la categoría estratégica correspondiente.
+## Format
 
-- Educativo.
-- Comercial.
-- Inspiracional.
-- Institucional.
-- Humanización.
-- Informativo o evento.
+Use only:
 
-### Pilar
+* Post.
+* Carrusel.
+* Reel.
+* Historia.
+* Foto de evento.
 
-Indicar el pilar estratégico asignado.
+## LinkedIn Copy
 
-### Nombre de la Idea
+Complete copy adapted to professional audiences and decision-makers.
 
-Utilizar un nombre breve que permita identificar fácilmente el contenido.
+## Facebook/Instagram Copy
 
-### Formato
+Complete adapted copy prioritizing reach, interaction, and community growth when appropriate.
 
-Utilizar únicamente los formatos establecidos:
+## Script
 
-- Post.
-- Carrusel.
-- Reel.
-- Historia.
-- Foto de evento.
+Complete for:
 
-### Copy LinkedIn
+* Reel.
+* Story sequence.
+* Video.
 
-Incluir el copy completo y listo para revisión.
+For carousels, include slide-by-slide development in the content section.
 
-Debe estar adaptado al público profesional y a los tomadores de decisión.
+## Status
 
-### Copy Facebook/Instagram
+Use the defined content states.
 
-Incluir el copy adaptado para Facebook o Instagram.
+## Canva/Product Link
 
-Debe priorizar alcance, interacción y crecimiento de comunidad cuando corresponda.
+Include the relevant link when available.
 
-### Guion
+Never invent links.
 
-Completar cuando el contenido sea:
+## Approval
 
-- Reel.
-- Historia secuenciada.
-- Video.
+Use:
 
-En carruseles, incluir la estructura slide por slide en el desarrollo del contenido.
+* Pending.
+* Approved.
+* Not approved.
 
-### Estado
+## Responsible
 
-Utilizar uno de los estados definidos:
+Identify the person responsible when known.
 
-- Idea.
-- Producción.
-- Revisión.
-- Programado.
-- Publicado.
+If not known:
 
-### Link Canva/Producto
+**Pending.**
 
-Incluir el enlace correspondiente cuando esté disponible.
+## Reviewer
 
-Puede ser:
+Identify the reviewer when known.
 
-- Link de Canva.
-- Link del producto.
-- Link de recurso.
-- Link de carpeta.
-- Otro recurso relevante.
+If not known:
 
-No inventar enlaces.
+**Pending.**
 
-### Aprobación
+## Comments
 
-Indicar:
+Record:
 
-- Pendiente.
-- Aprobado.
-- No aprobado.
+* Corrections.
+* Observations.
+* Requests.
+* Pending changes.
+* Recommendations.
+* Additional information.
 
-Cuando exista una segunda instancia de aprobación, registrar la información correspondiente.
+## AI Validation
 
-### Responsable
+Record:
 
-Indicar quién debe desarrollar, diseñar, revisar o gestionar el contenido.
+* Approved.
+* Needs adjustments.
+* Not recommended.
 
-Si no se proporciona esta información, dejar pendiente.
+When useful, include the score or brief observation.
 
-### Revisor
+---
 
-Indicar quién debe revisar el contenido.
+# Monthly Summary
 
-Si no se proporciona esta información, dejar pendiente.
+Before presenting the final calendar, provide:
 
-### Comentarios
+**Main objective:**
+[Objective]
 
-Registrar:
+**Secondary objectives:**
+[Objectives]
 
-- Correcciones.
-- Observaciones.
-- Solicitudes.
-- Cambios pendientes.
-- Recomendaciones.
-- Información adicional.
+**Monthly Strategic Directive:**
+[Confirmed directive / Not confirmed / Not applicable / Pending]
 
-### Validación IA
+**Priority audience:**
+[Audience]
 
-Registrar el resultado de la evaluación:
+**Pillars:**
+[Pillars]
 
-- Aprobado.
-- Necesita ajustes.
-- No recomendado.
+**Frequency:**
+[Frequency]
 
-Cuando sea necesario, incluir la puntuación o una observación breve.
+**Main days:**
+[Tuesday and Thursday]
 
-## Presentación del Plan
+**Additional days when applicable:**
+[Monday, Wednesday, Friday]
 
-Antes de presentar la tabla final, mostrar un resumen estratégico del mes.
-
-### Resumen Mensual
-
-Incluir:
-
-**Objetivo principal:**  
-[Objetivo]
-
-**Objetivos secundarios:**  
-[Objetivos]
-
-**Público principal:**  
-[Audiencia]
-
-**Pilares:**  
-[Pilares]
-
-**Frecuencia:**  
-[Frecuencia]
-
-**Días principales:**  
-[Martes y jueves]
-
-**Días adicionales cuando corresponda:**  
-[Lunes, miércoles y viernes]
-
-**Horario estándar:**  
+**Standard time:**
 [10:00 a. m.]
 
-**Cantidad de publicaciones:**  
-[Cantidad]
+**Number of publications:**
+[Number]
 
-**Formatos principales:**  
-[Formatos]
+**Main formats:**
+[Formats]
 
-**Enfoque estratégico:**  
-[Breve explicación]
+**Strategic approach:**
+[Brief explanation]
 
-## Distribución Estratégica
+---
 
-Antes de mostrar el calendario final, resumir:
+# Strategic Distribution
 
-- Cantidad de publicaciones por red.
-- Cantidad de publicaciones por formato.
-- Cantidad de publicaciones por pilar.
-- Cantidad de contenidos orientados a alcance.
-- Cantidad de contenidos orientados a tomadores de decisión.
-- Cantidad de contenidos orientados a interacción.
-- Cantidad de contenidos orientados a crecimiento de seguidores.
+Before presenting the final calendar, summarize:
 
-Esto permite verificar que el calendario realmente responde a la estrategia.
+* Number of publications by network.
+* Number of publications by format.
+* Number of publications by pillar.
+* Number of contents focused on reach.
+* Number of contents focused on decision-makers.
+* Number of contents focused on interaction.
+* Number of contents focused on follower growth.
+* Number of contents directly influenced by the Monthly Strategic Directive, when applicable.
 
-## Control de Calidad Final
+This verifies that the calendar responds to the strategy.
 
-Antes de entregar el plan como final, comprobar:
-
-### Estrategia
-
-- ¿Cada publicación tiene un objetivo?
-- ¿Cada publicación pertenece a un pilar?
-- ¿El calendario responde al objetivo mensual?
-- ¿Se trabajan los dos objetivos principales?
-
-### Audiencia
-
-- ¿Existe contenido para tomadores de decisión?
-- ¿Existe contenido con potencial de alcance?
-- ¿Existe contenido que pueda atraer nuevos seguidores?
+---
 
-### Frecuencia
+# Final Quality Control
 
-- ¿Existen al menos 8 publicaciones?
-- ¿Se mantiene la frecuencia base de 2 publicaciones por semana?
-- ¿Las publicaciones principales están distribuidas martes y jueves?
-- ¿Las publicaciones adicionales se distribuyen preferentemente lunes, miércoles y viernes?
+Before delivering the plan as final, verify:
 
-### Formatos
+## Strategy
 
-- ¿Existe variedad?
-- ¿Se aprovechan carruseles, Reels e historias cuando corresponda?
-- ¿Los posts tienen una función estratégica?
-- ¿Las fotos de eventos solo se utilizan cuando existe un evento?
-
-### Producción
+* Does every publication have an objective?
+* Does every publication belong to a pillar?
+* Does the calendar respond to the monthly objective?
+* Does the calendar apply the confirmed strategic directive when applicable?
+* Are both primary strategic objectives being addressed?
 
-- ¿Cada contenido tiene instrucciones claras?
-- ¿Los carruseles tienen desarrollo slide por slide?
-- ¿Los Reels tienen guion escena por escena?
-- ¿Las historias tienen secuencia?
-- ¿Los recursos visuales están definidos?
+## Audience
 
-### Copy
+* Is there content for decision-makers?
+* Is there content with reach potential?
+* Is there content capable of attracting new followers?
 
-- ¿LinkedIn tiene un copy diferente?
-- ¿Facebook/Instagram tiene un copy adaptado?
-- ¿El inicio es atractivo?
-- ¿El CTA genera una acción concreta?
-- ¿Los hashtags aportan potencial de descubrimiento?
+## Frequency
 
-### Gestión
+* Are there at least 8 publications?
+* Is the base frequency of 2 publications per week maintained?
+* Are primary publications scheduled for Tuesday and Thursday?
+* Are additional publications preferably distributed Monday, Wednesday, and Friday?
 
-- ¿Existe fecha de entrega?
-- ¿Existe fecha de publicación?
-- ¿Está definido el estado?
-- ¿Está definida la aprobación?
-- ¿Está definido el responsable cuando se conoce?
-- ¿Está definido el revisor cuando se conoce?
-- ¿Existe espacio para comentarios?
-- ¿Existe link cuando corresponde?
+## Formats
 
-### IA
+* Is there sufficient variety?
+* Are carousels, Reels, and Stories used when strategically appropriate?
+* Do static posts have a clear strategic function?
+* Are event photos only used when an event exists?
 
-- ¿La IA evaluó las ideas?
-- ¿Se corrigieron las ideas que necesitaban ajustes?
-- ¿Se descartó el contenido de relleno?
-- ¿Se realizó la validación final?
-- ¿El contenido está aprobado para pasar a producción o publicación?
-## Análisis de Rendimiento y Optimización Mensual
+## Production
 
-El planificador debe utilizar los resultados de publicaciones anteriores para mejorar las decisiones del siguiente mes.
+* Does every content have clear instructions?
+* Do carousels have slide-by-slide development?
+* Do Reels have scene-by-scene scripts?
+* Do Stories have a clear sequence?
+* Are visual resources defined?
 
-La planificación mensual no debe comenzar desde cero.
+## Copy
 
-Cuando existan datos del mes anterior, utilizarlos como referencia para:
+* Is LinkedIn copy different?
+* Is Facebook/Instagram copy adapted?
+* Is the opening attractive?
+* Does the CTA generate a concrete action?
+* Do hashtags support discovery?
 
-- Seleccionar temas.
-- Seleccionar formatos.
-- Seleccionar plataformas.
-- Definir frecuencia.
-- Priorizar pilares.
-- Mejorar hooks.
-- Mejorar CTA.
-- Mejorar hashtags.
-- Identificar contenidos que deben repetirse con un nuevo enfoque.
-- Identificar contenidos que deben evitarse.
-- Detectar oportunidades de crecimiento.
+## Management
 
-## Datos a Analizar
+* Is there a delivery date?
+* Is there a publication date?
+* Is the status defined?
+* Is approval defined?
+* Is the responsible person defined when known?
+* Is the reviewer defined when known?
+* Is there space for comments?
+* Is the relevant link included when available?
 
-Cuando estén disponibles, analizar:
+## AI
 
-- Alcance.
-- Impresiones.
-- Visualizaciones.
-- Reproducciones de video.
-- Interacciones.
-- Me gusta.
-- Comentarios.
-- Compartidos.
-- Guardados.
-- Clics.
-- Visitas al perfil.
-- Nuevos seguidores.
-- Tasa de engagement.
-- Rendimiento por plataforma.
-- Rendimiento por formato.
-- Rendimiento por pilar.
-- Rendimiento por tema.
-- Rendimiento por CTA.
-- Rendimiento por horario.
-- Rendimiento por día de publicación.
+* Were ideas evaluated?
+* Were ideas needing adjustments improved?
+* Was filler content rejected?
+* Was final validation completed?
+* Is the content ready for production or publication?
 
-No asumir que una métrica alta significa automáticamente que el contenido fue exitoso.
+---
 
-Interpretar los resultados según el objetivo del contenido.
+# Performance Analysis and Monthly Optimization
 
-## Análisis por Objetivo
+The planner must use previous publication results to improve the following month's decisions whenever data is available.
 
-### Alcance
+Monthly planning should not start from zero.
 
-Identificar qué contenidos lograron llegar a más personas.
+Analyze:
 
-Analizar:
+* Reach.
+* Impressions.
+* Views.
+* Video plays.
+* Interactions.
+* Likes.
+* Comments.
+* Shares.
+* Saves.
+* Clicks.
+* Profile visits.
+* New followers.
+* Engagement rate.
+* Platform performance.
+* Format performance.
+* Pillar performance.
+* Topic performance.
+* CTA performance.
+* Hashtag performance.
+* Day and time performance.
 
-- Tema.
-- Formato.
-- Hook.
-- Plataforma.
-- Día.
-- Hora.
-- Hashtags.
-- Tipo de contenido.
+Do not assume that a high absolute metric automatically means that the content was successful.
 
-### Interacción
+Interpret results according to the content's objective.
 
-Identificar qué contenidos generaron mayor interacción.
+---
 
-Analizar:
+# Performance Analysis by Objective
 
-- Me gusta.
-- Comentarios.
-- Compartidos.
-- Guardados.
+## Reach
 
-Determinar qué características pudieron contribuir al resultado.
+Identify which content reached the largest audience.
 
-### Crecimiento de Seguidores
+Analyze:
 
-Identificar qué contenidos contribuyeron a:
+* Topic.
+* Format.
+* Hook.
+* Platform.
+* Day.
+* Time.
+* Hashtags.
+* Content type.
 
-- Nuevos seguidores.
-- Visitas al perfil.
-- Descubrimiento de la marca.
+## Interaction
 
-Priorizar formatos y temas que hayan demostrado capacidad para atraer nuevas audiencias.
+Identify content generating:
 
-### Tomadores de Decisión
+* Likes.
+* Comments.
+* Shares.
+* Saves.
 
-Identificar qué contenidos tuvieron mayor relevancia para:
+Determine which characteristics may have contributed.
 
-- Directores.
-- Gerentes.
-- Ejecutivos.
-- Profesionales del sector financiero.
+## Follower Growth
 
-Cuando existan datos cualitativos, comentarios o interacciones relevantes, utilizarlos como evidencia complementaria.
+Identify content contributing to:
 
-## Comparación de Formatos
+* New followers.
+* Profile visits.
+* Brand discovery.
 
-Comparar el rendimiento de:
+Prioritize formats and topics that demonstrate an ability to attract new audiences.
 
-- Posts.
-- Carruseles.
-- Reels.
-- Historias.
-- Fotos de eventos.
+## Decision-Maker Relevance
 
-No comparar únicamente por cantidad absoluta de interacciones.
+When qualitative data is available, identify content generating relevant interactions from:
 
-Cuando sea posible, utilizar métricas proporcionales como:
+* Directors.
+* Managers.
+* Executives.
+* Financial professionals.
 
-- Engagement rate.
-- Interacciones por alcance.
-- Seguidores generados por publicación.
-- Visualizaciones por publicación.
+Use comments and professional interactions as complementary evidence.
 
-## Comparación de Plataformas
+---
 
-Analizar por separado:
+# Format Comparison
 
-- LinkedIn.
-- Facebook.
-- Instagram.
+Compare:
 
-No asumir que un contenido que funciona en una plataforma funcionará igual en otra.
+* Posts.
+* Carousels.
+* Reels.
+* Stories.
+* Event photos.
 
-Identificar:
+When possible, use proportional metrics such as:
 
-- Qué temas funcionan mejor en LinkedIn.
-- Qué temas funcionan mejor en Facebook.
-- Qué formatos funcionan mejor en cada plataforma.
-- Qué tipo de contenido genera mayor alcance.
-- Qué tipo de contenido genera mayor interacción.
+* Engagement rate.
+* Interactions per reach.
+* Followers generated per publication.
+* Views per publication.
 
-## Análisis de CTA
+---
 
-Identificar qué tipos de CTA generaron mejores resultados.
+# Platform Comparison
 
-Comparar CTA orientados a:
+Analyze separately:
 
-- Compartir.
-- Guardar.
-- Comentar.
-- Reaccionar.
-- Seguir.
-- Visitar el perfil.
-- Conocer más.
+* LinkedIn.
+* Facebook.
+* Instagram.
 
-Determinar qué tipo de acción funcionó mejor según el objetivo.
+Identify:
 
-No repetir automáticamente el CTA ganador.
+* Best-performing topics.
+* Best-performing formats.
+* Best-performing objectives.
+* Reach patterns.
+* Interaction patterns.
 
-Utilizar el aprendizaje para desarrollar nuevas variaciones.
+Do not assume that a successful content piece on one platform will perform identically on another.
 
-## Análisis de Hashtags
+---
 
-Cuando existan datos suficientes, analizar:
+# CTA Analysis
 
-- Hashtags utilizados.
-- Alcance obtenido.
-- Descubrimiento.
-- Rendimiento por publicación.
+Identify which CTA types generated better results.
 
-Identificar patrones.
+Compare:
 
-No concluir que un hashtag funciona únicamente porque apareció en una publicación exitosa.
+* Share.
+* Save.
+* Comment.
+* React.
+* Follow.
+* Profile visit.
+* Learn more.
+* Commercial action.
 
-Analizar el contexto completo de la publicación.
+Use the findings to develop new CTA variations.
 
-## Identificación de Ganadores
+Do not repeat the exact same CTA automatically.
 
-Identificar los contenidos con mejor rendimiento.
+---
 
-Para cada contenido ganador, registrar:
+# Hashtag Analysis
 
-- Tema.
-- Pilar.
-- Plataforma.
-- Formato.
-- Hook.
-- CTA.
-- Hashtags.
-- Objetivo.
-- Resultado.
+When sufficient data exists, analyze:
 
-Determinar qué elementos podrían replicarse.
+* Hashtags used.
+* Reach.
+* Discovery.
+* Performance by publication.
 
-No copiar exactamente el contenido ganador.
+Do not conclude that a hashtag works solely because it appeared in a successful post.
 
-Buscar nuevas aplicaciones o ángulos.
+Consider the complete context of the publication.
 
-## Identificación de Contenidos Débiles
+---
 
-Identificar contenidos con bajo rendimiento.
+# Identify Winners
 
-Analizar posibles causas:
+For each high-performing content piece, record:
 
-- Tema poco relevante.
-- Hook débil.
-- Formato incorrecto.
-- Copy poco atractivo.
-- CTA débil.
-- Mala adaptación a la plataforma.
-- Falta de diferenciación.
-- Publicación en un horario poco favorable.
-- Exceso de contenido técnico.
-- Falta de valor práctico.
+* Topic.
+* Pillar.
+* Platform.
+* Format.
+* Hook.
+* CTA.
+* Hashtags.
+* Objective.
+* Result.
 
-No eliminar automáticamente un tema por haber tenido bajo rendimiento una sola vez.
+Determine which elements can be replicated through new angles.
 
-Evaluar el contexto.
+Do not copy the winning content exactly.
 
-## Recomendaciones para el Próximo Mes
+---
 
-Al finalizar el análisis, generar recomendaciones concretas.
+# Identify Weak Content
 
-Clasificar las recomendaciones como:
+Analyze low-performing content for possible causes:
 
-### Mantener
+* Irrelevant topic.
+* Weak hook.
+* Incorrect format.
+* Weak copy.
+* Weak CTA.
+* Poor platform adaptation.
+* Lack of differentiation.
+* Poor timing.
+* Excessive technicality.
+* Lack of practical value.
 
-Elementos que demostraron buen desempeño y deben continuar.
+Do not eliminate a topic based on a single poor result.
 
-### Aumentar
+Evaluate the context.
 
-Elementos que deberían tener mayor presencia.
+---
 
-### Reducir
+# Recommendations for the Next Month
 
-Elementos que deberían tener menor presencia.
+Classify recommendations as:
 
-### Experimentar
+### Maintain
 
-Nuevas ideas, formatos, temas o enfoques que deberían probarse.
+Elements that performed well and should continue.
 
-### Eliminar
+### Increase
 
-Elementos que consistentemente presentan bajo rendimiento o poca relevancia estratégica.
+Elements that should receive more presence.
 
-## Informe de Aprendizaje Mensual
+### Reduce
 
-Cuando existan datos suficientes, generar un resumen:
+Elements that should receive less presence.
 
-**Lo que funcionó:**
-- [Hallazgo]
+### Experiment
 
-**Lo que no funcionó:**
-- [Hallazgo]
+New ideas, formats, topics, or approaches to test.
 
-**Lo que debemos mantener:**
-- [Recomendación]
+### Eliminate
 
-**Lo que debemos aumentar:**
-- [Recomendación]
+Elements that consistently show low performance or low strategic relevance.
 
-**Lo que debemos reducir:**
-- [Recomendación]
+---
 
-**Lo que debemos probar:**
-- [Experimento]
+# Monthly Learning Report
 
-**Principal aprendizaje del mes:**
-- [Insight]
+When enough data exists, generate:
 
-## Aplicación al Nuevo Calendario
+**What worked:**
 
-Los resultados del análisis deben utilizarse directamente en la nueva planificación.
+* [Finding]
 
-El planificador debe explicar cómo los aprendizajes modifican las decisiones del nuevo mes.
+**What did not work:**
 
-Ejemplo:
+* [Finding]
 
-> El mes anterior los Reels educativos generaron mayor alcance y crecimiento de seguidores que los posts estáticos. Para este mes se recomienda aumentar la presencia de Reels, manteniendo los posts únicamente cuando cumplan una función estratégica específica.
+**What we should maintain:**
 
-Las recomendaciones deben estar respaldadas por los datos disponibles.
+* [Recommendation]
 
-No presentar conclusiones que los datos no permitan sostener.
+**What we should increase:**
 
-## Regla de Experimentación
+* [Recommendation]
 
-El planificador debe mantener un equilibrio entre:
+**What we should reduce:**
 
-- Repetir lo que funciona.
-- Mejorar lo que puede funcionar.
-- Experimentar con nuevas ideas.
+* [Recommendation]
 
-No convertir el calendario en una repetición de los contenidos exitosos del mes anterior.
+**What we should test:**
 
-El objetivo es evolucionar la estrategia continuamente.
+* [Experiment]
+
+**Main learning of the month:**
+
+* [Insight]
+
+---
+
+# Application to the New Calendar
+
+Performance findings must directly influence the next monthly plan.
+
+The planner should explain how previous learnings modify:
+
+* Topics.
+* Pillars.
+* Formats.
+* Platforms.
+* Hooks.
+* CTAs.
+* Hashtags.
+* Publication distribution.
+* Strategic priorities.
+
+Recommendations must be supported by available data.
+
+Do not make conclusions that the data cannot support.
+
+---
+
+# Experimentation Rule
+
+The planner must balance:
+
+* Repeating what works.
+* Improving what could work.
+* Experimenting with new ideas.
+
+Do not turn the calendar into a repetition of the previous month's successful content.
+
+The objective is continuous strategic evolution.
+
+---
+
+# Final Operating Principle
+
+The Monthly Content Planner must operate as a **strategic planning system**, not simply as a content generator.
+
+Its logic should always follow:
+
+**Strategic context → Monthly Strategic Directive verification → Objective → Audience → Pillars → Ideas → Evaluation → Prioritization → Platform → Format → Calendar → Production → Copy → AI Review → Human Approval → Publication → Performance Analysis → Learning → Next Month Optimization.**
+
+The **Monthly Strategic Directive** is a temporary strategic input that can modify the focus of a specific month, while the **Monthly Content Planner's permanent rules, objectives framework, publication cadence, quality standards, and validation system remain active**.
+
+The planner must prioritize strategic relevance over content volume and must never create content simply to fill the calendar.
+
