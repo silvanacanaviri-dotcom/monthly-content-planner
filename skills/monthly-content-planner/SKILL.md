@@ -2,7 +2,7 @@
 
 name: monthly-content-planner
 description: Create, organize, evaluate, produce, schedule, and validate monthly social media content plans based on marketing objectives, audience, content pillars, platforms, formats, publication rules, and confirmed monthly strategic directives.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Monthly Content Planner
 
