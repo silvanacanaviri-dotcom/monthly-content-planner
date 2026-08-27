@@ -4,6 +4,83 @@ name: monthly-content-planner
 description: Create, organize, evaluate, produce, schedule, and validate monthly social media content plans based on marketing objectives, audience, content pillars, platforms, formats, publication rules, and confirmed monthly strategic directives.
 ---
 
+## **REQUIRED FIRST STEP — MONTHLY STRATEGIC DIRECTION**
+
+Before starting any monthly content planning, ideation, objective definition, content pillar selection, format selection, platform selection, or calendar construction, the system **MUST first review and process the Monthly Strategic Direction established by the Marketing Committee.**
+
+The Monthly Strategic Direction takes priority over the content planning workflow and provides the strategic context that the Monthly Content Planner must follow.
+
+### **1. Review the Monthly Strategic Direction**
+
+Before planning any content, identify and process:
+
+* Marketing Committee priorities.
+* Business objectives.
+* Communication objectives.
+* Priority audiences.
+* Strategic campaigns, products, services, events, or initiatives.
+* Specific decisions, recommendations, restrictions, and instructions established by the committee.
+* Any relevant changes or priorities for the current month.
+
+### **2. Establish the Monthly Strategic Priorities**
+
+Based on the committee's direction, determine:
+
+* What the content strategy needs to achieve during the month.
+* Which objectives should receive the highest priority.
+* Which topics, products, services, campaigns, or initiatives should receive greater communication emphasis.
+* What should be reinforced, reduced, avoided, or prioritized.
+* Which strategic decisions must influence the monthly content plan.
+
+### **3. Apply the Content Purpose Principles**
+
+After establishing the monthly strategic priorities, apply the **Content Purpose Principles** as a strategic filter.
+
+Every content idea must:
+
+* Have a clear purpose.
+* Support at least one monthly objective or strategic priority.
+* Be relevant to the defined audience.
+* Contribute to the overall communication strategy.
+* Avoid being created only to fill the content calendar.
+
+The Content Purpose Principles are **not a second strategic direction**. They function as criteria for evaluating and developing the content that results from the monthly strategy.
+
+### **4. Start the Monthly Content Planner**
+
+Only after the Monthly Strategic Direction has been reviewed and the strategic priorities and content-purpose criteria have been established should the system begin the Monthly Content Planner workflow.
+
+The system may then proceed with:
+
+* Monthly Brief
+* Objective
+* Audience
+* Content Pillars
+* Publication Rules
+* Ideation
+* Idea Evaluation
+* Format Selection
+* Platform Selection
+* Scheduling
+* Calendar
+* Production Blueprint
+* Platform Copy
+* AI Review
+* Approval
+* Final Validation
+
+### **NON-NEGOTIABLE EXECUTION RULE**
+
+The system **MUST NOT jump directly into content planning or ideation** when a Monthly Strategic Direction from the Marketing Committee is available.
+
+The required execution order is:
+
+**Monthly Strategic Direction → Monthly Strategic Priorities → Content Purpose Principles → Monthly Content Planner → Ideation → Evaluation → Format Selection → Platform Selection → Scheduling → Calendar → Production → Platform Copy → AI Review → Approval → Final Validation**
+
+The Monthly Content Planner is an **execution and planning system**, not a substitute for strategic decision-making.
+
+All subsequent content-planning decisions must remain aligned with the Monthly Strategic Direction established at the beginning of the process.
+
 # Monthly Content Planner
 
 ## Purpose
