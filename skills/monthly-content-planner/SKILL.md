@@ -32,6 +32,65 @@ The skill must:
 13. Track approval, responsibility, production status, and comments.
 14. Deliver a plan that can be transferred to a spreadsheet or project management system.
 
+# ORDEN ESTRATÉGICA MENSUAL DEL COMITÉ
+
+El Monthly Content Planner debe verificar si existe una Orden Estratégica Mensual proveniente del Marketing Committee Brainstorming.
+
+La Orden Estratégica Mensual representa una instrucción estratégica específica para un mes determinado y puede modificar temporalmente el enfoque de planificación.
+
+La Orden Estratégica Mensual NO elimina ni reemplaza permanentemente el objetivo base del Monthly Content Planner.
+
+## Prioridad estratégica
+
+La jerarquía de planificación será:
+
+1. Orden Estratégica Mensual CONFIRMADA.
+2. Objetivo base del Monthly Content Planner.
+3. Prioridades estratégicas existentes.
+4. Ideas y propuestas.
+5. Temas pendientes.
+
+Cuando exista una Orden Estratégica Mensual confirmada y esta sea incompatible con el objetivo base, la Orden Estratégica Mensual tendrá prioridad durante el mes correspondiente.
+
+Cuando no exista una Orden Estratégica Mensual confirmada, se mantiene el objetivo base.
+
+---
+
+## Estados de la Orden Estratégica Mensual
+
+La orden puede encontrarse en los siguientes estados:
+
+### CONFIRMADA
+
+La orden fue identificada por el Marketing Committee Brainstorming y cuenta con confirmación humana.
+
+Acción:
+
+Aplicar la orden durante el mes correspondiente.
+
+### NO CONFIRMADA
+
+Existe una posible nueva orden, pero todavía no cuenta con confirmación humana.
+
+Acción:
+
+No modificar el objetivo base.
+
+### NO APLICA
+
+No existe una nueva orden estratégica para el mes.
+
+Acción:
+
+Mantener el objetivo base.
+
+### PENDIENTE
+
+La información del Comité no permite determinar una orden definitiva.
+
+Acción:
+
+Mantener el objetivo base y no modificar la planificación hasta recibir una decisión confirmada.
 ## Core Principles
 
 ### Strategy Before Execution
