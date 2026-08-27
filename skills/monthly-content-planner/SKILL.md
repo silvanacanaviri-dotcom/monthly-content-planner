@@ -512,11 +512,6 @@ Seguir siempre este orden:
 
 No saltar directamente a la generación masiva de publicaciones salvo que el usuario solicite explícitamente trabajar sobre una estrategia previamente definida.
 Do not skip strategic planning and immediately generate a calendar unless the user explicitly requests only a calendar based on already-defined strategy.
-## Monthly Brief and Strategic Planning
-
-Before creating the monthly content calendar, collect and organize the information required to understand the month's strategic context.
-
-The planner must not assume missing information when it can be requested from the user.
 
 ## VERIFICACIÓN DE NUEVAS ÓRDENES
 
@@ -556,6 +551,12 @@ Mantener el objetivo base y continuar con el proceso normal de planificación.
 No aplicarla.
 
 Mantener el objetivo base y señalar que existe una posible modificación estratégica pendiente de confirmación.
+
+## Monthly Brief and Strategic Planning
+
+Before creating the monthly content calendar, collect and organize the information required to understand the month's strategic context.
+
+The planner must not assume missing information when it can be requested from the user.
 
 ### Monthly Brief
 
