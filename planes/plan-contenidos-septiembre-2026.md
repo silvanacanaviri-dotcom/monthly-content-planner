@@ -67,6 +67,24 @@ Acción: Vale a cámara y escenas de colaboración.
 **VALE:** “Seguimos aprendiendo y mejorando el proceso. Porque la transformación también empieza dentro.”  
 Pantalla final: “LA TRANSFORMACIÓN TAMBIÉN EMPIEZA DENTRO. — SOMMOS”
 
+### Guion completo — listo para grabar
+
+**SIL:**
+
+“La transformación digital no empieza con una herramienta. Empieza cuando cuestionamos cómo trabajamos.
+
+En Marketing analizamos nuestro workflow y detectamos tareas repetitivas que consumían tiempo y desconectaban etapas del proceso.
+
+Integramos ChatGPT, Claude, Granola, Miro y Canva para apoyar la investigación, las reuniones, la ideación y la producción de contenidos.”
+
+**VALE:**
+
+“Así simplificamos pasos manuales y dedicamos más tiempo al análisis, la creatividad y las decisiones que sí necesitan criterio humano.
+
+Seguimos aprendiendo y mejorando el proceso. Porque la transformación también empieza dentro.”
+
+---
+
 ### Copy para LinkedIn
 
 La transformación digital no comienza cuando una empresa adopta una nueva herramienta. Comienza cuando revisa críticamente cómo trabaja.
@@ -133,6 +151,24 @@ Acción: Vale a cámara y revisión conjunta del proceso.
 **Escena 5 — Cierre (27–35 s)**  
 **VALE:** “La tecnología cobra valor cuando resuelve problemas reales. Porque la transformación también empieza dentro.”  
 Pantalla final: “LA TRANSFORMACIÓN TAMBIÉN EMPIEZA DENTRO. — SOMMOS”
+
+### Guion completo — listo para grabar
+
+**ÁLVARO:**
+
+“La inteligencia artificial no solo crea contenido. También puede ayudarnos a ordenar procesos financieros complejos.
+
+En Finanzas identificamos procesos con múltiples fuentes, monedas y tareas manuales que exigían mucho tiempo de consolidación.
+
+Por eso diseñamos un workflow apoyado en automatización para organizar la consolidación bancaria multimoneda.”
+
+**VALE:**
+
+“Así reducimos pasos repetitivos y hacemos que la revisión sea más clara, manteniendo el control y el criterio del equipo.
+
+La tecnología cobra valor cuando resuelve problemas reales. Porque la transformación también empieza dentro.”
+
+---
 
 ### Copy para LinkedIn
 
