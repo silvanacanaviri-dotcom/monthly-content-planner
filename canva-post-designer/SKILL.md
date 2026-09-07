@@ -135,9 +135,59 @@ Los colores #100B5C y #FFFFFF funcionan como colores complementarios, fondos, co
 
 No utilizar colores externos salvo autorización expresa.
 
+### Uso del blanco
+
+El blanco es un color institucional fundamental y debe utilizarse como espacio de respiración y base visual.
+
+Cuando el contenido no requiera un fondo de color, priorizar un fondo blanco o predominantemente blanco.
+
+El blanco debe permitir que los titulares, elementos morados, turquesas, imágenes e íconos tengan suficiente contraste.
+
+No interpretar "moderno" o "tecnológico" como obligación de utilizar fondos oscuros.
+
 ---
 
-## 6. Gradientes
+### Fondos
+
+Los fondos deben mantener una apariencia limpia, clara y corporativa.
+
+El fondo blanco o predominantemente blanco es una de las bases principales del lenguaje visual de SOMMOS y debe priorizarse cuando el contenido lo permita.
+
+No utilizar fondos completamente morados, multicolor o excesivamente tecnológicos como recurso predeterminado.
+
+El morado debe utilizarse principalmente como color institucional de contraste, jerarquía, bloques, titulares, franjas, contenedores y elementos gráficos.
+
+El turquesa debe utilizarse como color de acento y para destacar conceptos, palabras clave, datos, líneas, botones, íconos y elementos relevantes.
+
+Los fondos con gradientes están permitidos únicamente utilizando colores institucionales de SOMMOS y cuando aporten valor a la composición.
+
+No utilizar gradientes por defecto.
+
+No utilizar fondos con demasiados elementos, circuitos, partículas, luces, brillos o efectos tecnológicos que compitan con el contenido.
+
+## 6. Tipografía
+
+La tipografía institucional principal para todas las publicaciones es RUBIK.
+
+RUBIK debe utilizarse como fuente dominante y predeterminada en títulos, subtítulos, textos informativos, datos, beneficios y CTA.
+
+No utilizar tipografías serif, manuscritas, decorativas, retro, clásicas o de apariencia editorial como fuente principal.
+
+La jerarquía visual debe construirse mediante:
+- Tamaño.
+- Peso tipográfico.
+- Color.
+- Interlineado.
+- Posición.
+- Contraste.
+
+No cambiar la familia tipográfica para generar variedad. La variedad debe lograrse principalmente mediante pesos y tamaños de RUBIK.
+
+PLAYLIST SCRIPT solo puede utilizarse de manera excepcional para una palabra o frase muy corta cuando exista una justificación conceptual y estética clara. Nunca debe utilizarse como tipografía principal.
+
+Si RUBIK está disponible en Canva, debe utilizarse obligatoriamente.
+
+# Gradientes
 
 Los gradientes están permitidos únicamente utilizando colores institucionales.
 
@@ -160,6 +210,29 @@ Su función debe ser:
 - Reforzar una sensación tecnológica o innovadora.
 
 No utilizar gradientes que reduzcan la legibilidad.
+
+## Referencia visual de publicaciones SOMMOS
+
+Las piezas gráficas de referencia proporcionadas para este skill representan el lenguaje visual institucional de SOMMOS.
+
+Estas referencias deben utilizarse como guía para:
+- Color.
+- Jerarquía.
+- Composición.
+- Tratamiento tipográfico.
+- Uso de íconos.
+- Uso de fotografías.
+- Uso de dispositivos.
+- Tarjetas y contenedores.
+- Líneas y conectores.
+- Tratamiento de CTA.
+- Equilibrio entre información y espacio visual.
+
+No copiar literalmente las composiciones de referencia.
+
+El objetivo es reproducir el lenguaje gráfico y la identidad visual de SOMMOS, adaptándolos al contenido específico de cada publicación.
+
+La pieza final debe sentirse perteneciente a la misma familia visual de las referencias, aunque la composición sea nueva.
 
 ---
 
@@ -270,6 +343,57 @@ Puede ubicarse en diferentes áreas de la composición según el concepto visual
 
 Playlist Script puede utilizarse únicamente cuando exista una justificación estética o conceptual clara.
 
+### Iconografía
+
+Utilizar íconos vectoriales simples, profesionales y consistentes entre sí.
+
+Los íconos pueden representar:
+- Ahorro.
+- Finanzas.
+- Bancos.
+- Personas.
+- Tecnología.
+- Integración.
+- Configuración.
+- Escalabilidad.
+- Crecimiento.
+- Inclusión.
+- Comunicación.
+- Conectividad.
+
+Preferir íconos lineales o vectoriales de apariencia limpia.
+
+Los íconos pueden utilizarse dentro de círculos, tarjetas, cápsulas o contenedores.
+
+Mantener coherencia de estilo entre todos los íconos utilizados en una misma pieza.
+
+No utilizar emojis, íconos infantiles, caricaturescos o estilos visuales mezclados.
+
+Los íconos deben apoyar el contenido y no convertirse en el elemento principal si el mensaje requiere otra jerarquía.
+
+### Recursos tecnológicos
+
+Los recursos tecnológicos pueden incluir:
+- Smartphones.
+- Interfaces digitales.
+- Computadoras.
+- Circuitos.
+- Líneas de conexión.
+- Nodos.
+- Redes.
+- Gráficos.
+- Elementos abstractos de conectividad.
+
+Su utilización debe responder directamente al contenido.
+
+No incorporar elementos tecnológicos únicamente para hacer que el diseño parezca moderno.
+
+La tecnología debe complementar el mensaje y mantener una apariencia sobria, institucional y profesional.
+
+No saturar la composición con circuitos, redes, dispositivos o efectos tecnológicos.
+
+Cuando se utilice un recurso tecnológico, debe existir una relación conceptual clara con el contenido.
+
 ---
 
 ## 12. Imágenes y recursos visuales
@@ -323,6 +447,61 @@ Se pueden utilizar elementos minimalistas como:
 Los elementos gráficos deben tener una función visual o comunicacional.
 
 No utilizar elementos decorativos únicamente para llenar espacios.
+
+### Criterio de dirección artística
+
+El resultado debe parecer una pieza gráfica profesional desarrollada por un diseñador de marca para SOMMOS, no una composición genérica generada por inteligencia artificial.
+
+Evitar:
+- Exceso de efectos tecnológicos.
+- Fondos futuristas.
+- Brillos artificiales.
+- Partículas.
+- Neones.
+- Elementos 3D innecesarios.
+- Composiciones visualmente saturadas.
+- Recursos tecnológicos utilizados únicamente como decoración.
+- Estéticas genéricas de inteligencia artificial.
+
+La tecnología debe representarse de forma sobria, corporativa y funcional.
+
+Priorizar:
+- Espacios blancos.
+- Jerarquía clara.
+- Composición equilibrada.
+- Formas geométricas simples.
+- Tarjetas y contenedores.
+- Íconos vectoriales.
+- Líneas y nodos.
+- Fotografías o mockups relevantes.
+- Contraste entre morado, turquesa y blanco.
+- Elegancia y claridad.
+
+### Composición
+
+Priorizar composiciones claras, equilibradas y organizadas.
+
+Utilizar el espacio en blanco como parte activa del diseño.
+
+Los elementos deben distribuirse mediante una jerarquía visual clara.
+
+Se pueden utilizar:
+- Tarjetas.
+- Bloques de color.
+- Contenedores.
+- Líneas.
+- Separadores.
+- Círculos.
+- Rectángulos.
+- Formas redondeadas.
+- Franjas.
+- Marcos.
+
+Las formas y contenedores deben facilitar la lectura y organización del contenido.
+
+No llenar todos los espacios disponibles.
+
+No utilizar una gran cantidad de elementos gráficos únicamente para evitar espacios vacíos.
 
 ---
 
@@ -672,3 +851,20 @@ El objetivo es convertir cada contenido aprobado en una pieza visual que:
 - Apoye el alcance y descubrimiento cuando corresponda.
 - Mantenga una identidad visual consistente.
 - Sea adecuada para una audiencia profesional y financiera.
+
+## Prioridades de diseño
+
+Cuando exista conflicto entre creatividad y consistencia de marca, priorizar en este orden:
+
+1. Identidad visual de SOMMOS.
+2. Legibilidad del contenido.
+3. Jerarquía visual.
+4. Coherencia con el tipo de contenido.
+5. Claridad del mensaje.
+6. Estética y creatividad.
+
+La creatividad nunca debe modificar la identidad visual institucional.
+
+No utilizar una estética tecnológica genérica para representar innovación.
+
+El resultado debe ser moderno e innovador, pero reconociblemente SOMMOS.
