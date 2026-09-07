@@ -40,6 +40,24 @@ El skill debe heredar del planificador:
 
 No debe inventar objetivos, públicos, datos, estadísticas, beneficios, características de productos ni afirmaciones que no estén presentes en el contenido aprobado.
 
+### Audiencia
+
+El diseño debe considerar siempre la audiencia definida en Monthly Content Planner.
+
+La comunicación visual de SOMMOS está principalmente dirigida a directores, gerentes, ejecutivos y tomadores de decisión de instituciones financieras.
+
+El diseño debe transmitir:
+- Profesionalismo.
+- Confianza.
+- Innovación.
+- Solidez.
+- Capacidad tecnológica.
+- Valor estratégico.
+
+Evitar recursos visuales excesivamente juveniles, informales, infantiles o propios de comunicación B2C masiva.
+
+El diseño debe resultar atractivo y suficientemente relevante para captar la atención de nuevos seguidores dentro del sector financiero y aumentar el interés por SOMMOS.
+
 ### Orden Estratégica Mensual
 
 Antes de diseñar, verificar si existe una Orden Estratégica Mensual confirmada proveniente de la etapa de brainstorming.
@@ -288,6 +306,21 @@ El logo debe:
 - No modificarse cromáticamente sin autorización.
 
 El logo debe integrarse de forma profesional y no competir visualmente con el mensaje principal.
+
+### Recursos oficiales del logo
+
+Los archivos oficiales del logo se encuentran en la carpeta `assets` de este skill:
+
+- `assets/Logotipo de Somos a Color`
+- `assets/Logotipo de Somos color blanco`
+
+Utilizar únicamente estos archivos oficiales para las publicaciones.
+
+Seleccionar la versión a color o blanca según el fondo y el contraste de la composición.
+
+No generar, recrear, redibujar ni sustituir el logo.
+
+No modificar las proporciones, forma o elementos del logo.
 
 ---
 
@@ -541,6 +574,35 @@ El resultado debe ser estéticamente atractivo, profesional, moderno, claro y vi
 
 La composición debe transmitir una pieza diseñada por un experto en diseño gráfico y comunicación visual, no una plantilla automática ni una simple generación de texto.
 
+### Criterio de dirección artística
+
+El resultado debe parecer una pieza gráfica profesional desarrollada por un diseñador de marca para SOMMOS, no una composición genérica generada por inteligencia artificial.
+
+Evitar:
+- Exceso de efectos tecnológicos.
+- Fondos futuristas.
+- Brillos artificiales.
+- Partículas.
+- Neones.
+- Elementos 3D innecesarios.
+- Composiciones visualmente saturadas.
+- Recursos tecnológicos utilizados únicamente como decoración.
+- Estéticas genéricas de inteligencia artificial.
+
+La tecnología debe representarse de forma sobria, corporativa y funcional.
+
+Priorizar:
+- Espacios blancos.
+- Jerarquía clara.
+- Composición equilibrada.
+- Formas geométricas simples.
+- Tarjetas y contenedores.
+- Íconos vectoriales.
+- Líneas y nodos.
+- Fotografías o mockups relevantes.
+- Contraste entre morado, turquesa y blanco.
+- Elegancia y claridad.
+
 ---
 
 ## 14. CTA
@@ -618,6 +680,31 @@ Informativo:
 - Profundizar.
 
 El CTA no debe contradecir el objetivo del contenido.
+
+### CTA y relación con el copy de LinkedIn
+
+El CTA visual debe analizarse a partir del copy aprobado en Monthly Content Planner.
+
+El Canva Post Designer debe revisar el contenido completo de la publicación antes de definir o adaptar el CTA visual.
+
+El CTA de la pieza gráfica debe ser complementario al CTA del copy de LinkedIn, no una repetición literal.
+
+Ambos CTA deben perseguir la misma intención estratégica, pero pueden utilizar acciones diferentes.
+
+El CTA debe ser:
+- Potente.
+- Claro.
+- Accionable.
+- Profesional.
+- Natural para LinkedIn.
+- Coherente con el tipo de contenido.
+- Adecuado para directores, gerentes y tomadores de decisión del sector financiero.
+
+No utilizar CTA genéricos únicamente por completar el diseño.
+
+No repetir automáticamente el mismo CTA utilizado en publicaciones anteriores.
+
+Revisar el CTA de publicaciones anteriores y posteriores del Monthly Content Planner para evitar repeticiones consecutivas.
 
 ---
 
@@ -889,6 +976,23 @@ El objetivo es convertir cada contenido aprobado en una pieza visual que:
 - Apoye el alcance y descubrimiento cuando corresponda.
 - Mantenga una identidad visual consistente.
 - Sea adecuada para una audiencia profesional y financiera.
+
+## Prioridades de diseño
+
+Cuando exista conflicto entre creatividad y consistencia de marca, priorizar en este orden:
+
+1. Identidad visual de SOMMOS.
+2. Legibilidad del contenido.
+3. Jerarquía visual.
+4. Coherencia con el tipo de contenido.
+5. Claridad del mensaje.
+6. Estética y creatividad.
+
+La creatividad nunca debe modificar la identidad visual institucional.
+
+No utilizar una estética tecnológica genérica para representar innovación.
+
+El resultado debe ser moderno e innovador, pero reconociblemente SOMMOS.
 
 ## Prioridades de diseño
 
